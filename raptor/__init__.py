@@ -13,3 +13,4 @@ from .SummarizationModels import (BaseSummarizationModel,
 from .tree_builder import TreeBuilder, TreeBuilderConfig
 from .tree_retriever import TreeRetriever, TreeRetrieverConfig
 from .tree_structures import Node, Tree
+from .utils import split_text
