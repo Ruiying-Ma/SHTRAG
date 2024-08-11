@@ -64,7 +64,7 @@ def split_text(
             current_length += token_count
         else: 
             # current_length + token_count > max_tokens
-            if current_chunk:
+            if len(current_chunk) > 0:
                 chunks.append("".join(current_chunk))
             if token_count <= max_tokens:
                 current_chunk = [sentence]
