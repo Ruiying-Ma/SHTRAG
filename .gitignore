@@ -1,7 +1,4 @@
 database/
-chunk/
-sht/
-test/
 *.json
 answer_context_stats/
 answers/*.json

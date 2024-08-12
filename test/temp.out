@@ -1,0 +1,4632 @@
+Public Works Commission Agenda Report
+[-1]
+Capital Improvement and Disaster Recovery Projects (Design)
+[-1, 1]
+2022 Morning View Resurfacing & Storm Drain Improvements
+[-1, 1, 3]
+g ¾ Updates:
+[-1, 1, 4]
+Westward Beach Road Repair Project
+[-1, 1, 5]
+¾ Updates:
+[-1, 1, 22]
+Westward Beach Road Drainage Improvements Project
+[-1, 1, 22, 23]
+Clover Heights Storm Drainage Improvements
+[-1, 1, 33]
+¾ Updates:
+[-1, 1, 41]
+Latigo Canyon Road Retaining Wall Repair Project
+[-1, 1, 41, 42]
+Civic Center Water Treatment Facility Phase 2
+[-1, 1, 51]
+Permanent Skate Park
+[-1, 1, 60]
+PCH at Trancas Canyon Road Right Turn Lane
+[-1, 1, 68]
+¾ Updates:
+[-1, 1, 75]
+Outdoor Warning Sirens
+[-1, 1, 75, 76]
+Malibu Bluffs Park South Walkway Repairs
+[-1, 1, 82]
+Trancas Canyon Park Playground
+[-1, 1, 87]
+Malibu Canyon Road Traffic Study
+[-1, 1, 95]
+Kanan Dume Biofilter
+[-1, 1, 103]
+PCH Median Improvements at Paradise Cove and Zuma Beach
+[-1, 1, 108]
+City Traffic Signals Backup Power
+[-1, 1, 115]
+Kanan Dume Biofilter
+[-1, 1, 120]
+Malibu Park Resurfacing Project
+[-1, 1, 127]
+City Hall Solar Project
+[-1, 1, 135]
+Harbor Vista Curb Return
+[-1, 1, 148]
+Legacy Park Benches and Arbors Renovation
+[-1, 1, 161]
+Citywide Asphalt Concrete Berms Repairs
+[-1, 1, 175]
+Malibu Bluffs Park Roof Replacement Project
+[-1, 1, 186]
+Capital Improvement and Disaster Recovery Projects (Construction)
+[-1, 1, 196]
+PCH Signal Synchronization System Improvements Project
+[-1, 1, 196, 205]
+Trancas Canyon Park Upper and Lower Slopes Repair
+[-1, 1, 206]
+Capital Improvement and Disaster Recovery Projects (Completed)
+[-1, 1, 214]
+Capital Improvement Projects (Not Started)
+[-1, 1, 221]
+PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+[-1, 1, 221, 223]
+PCH at Las Flores and Rambla Pacifico Intersection Improvements
+[-1, 1, 224]
+Malibu Seafood Undercrossing
+[-1, 1, 229]
+-1: ROOT
+
+├── 0: (text) Public Wor ......  Item 4.A.
+
+└── 1: (head) Public Works Commission Agenda Report
+
+    ├── 2: (text) To: Chair  ...... t Program:
+
+    ├── 3: (head) Capital Improvement and Disaster Recovery Projects (Design)
+
+    ├── 4: (head) 2022 Morning View Resurfacing & Storm Drain Improvements
+
+    ├── 5: (head) g ¾ Updates:
+
+    │   ├── 6: (list)  This project required a LACFCD Permit.
+
+    │   │   ├── 7: (text)    Staff i ...... hool year.
+
+    │   │   └── 8: (list) ¾ Project Schedule:
+
+    │   ├── 9: (list)  Complete Design:
+
+    │   │   ├── 10: (text)  Fall 2023 ...... /June 2024
+
+    │   │   └── 11: (list) PCH Median Improvements Project ¾ Updates:
+
+    │   │       └── 12: (text)   On Sept ...... tem # 4.A.
+
+    │   ├── 13: (list)  Staff has prepared revised project plans and will be providing a copy to Caltrans for final approval.
+
+    │   ├── 14: (list)  Future phases will be dependent upon available funding.
+
+    │   │   └── 15: (list) ¾ Project Schedule:
+
+    │   ├── 16: (list)  Complete Design:
+
+    │   │   └── 17: (text)  Winter 20 ...... inter 2023
+
+    │   ├── 18: (list)  Advertise:
+
+    │   │   └── 19: (text)  Winter 20 ...... inter 2023
+
+    │   └── 20: (list)  Begin Construction:
+
+    │       └── 21: (text)  Spring 20 ...... pring 2024
+
+    ├── 22: (head) Westward Beach Road Repair Project
+
+    │   └── 23: (head) ¾ Updates:
+
+    │       ├── 24: (list)  Project is out to bid with bids due on October 5,
+
+    │       │   ├── 25: (text)  2023 ......  2023
+
+    │       │   └── 26: (list) ¾ Project Schedule:
+
+    │       ├── 27: (list)  Complete Design:
+
+    │       │   └── 28: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 29: (list)  Advertise:
+
+    │       │   └── 30: (text)  Fall 2023 ......  Fall 2023
+
+    │       └── 31: (list)  Begin Construction:
+
+    │           └── 32: (text)  Fall/Wint ...... inter 2023
+
+    ├── 33: (head) Westward Beach Road Drainage Improvements Project
+
+    │   ├── 34: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 35: (list) ¾ Plans and Specifications are 99% complete.
+
+    │   │   ├── 36: (list)  The project received approval from Fish and Wildlife.
+
+    │   │   └── 37: (list)  Staff is working on the CDP application for this project.
+
+    │   └── 38: (list) ¾ Project Schedule:
+
+    │       └── 39: (list)  Advertise:
+
+    │           └── 40: (text)  Winter 20 ......  approval)
+
+    ├── 41: (head) Clover Heights Storm Drainage Improvements
+
+    │   └── 42: (head) ¾ Updates:
+
+    │       ├── 43: (list)  Plans and Specifications are 99% complete.
+
+    │       ├── 44: (list)  City submitted plans to CalOES for review.
+
+    │       ├── 45: (list)  Staff is working on the CDP application for this project.
+
+    │       │   └── 46: (list) ¾ Project Schedule:
+
+    │       ├── 47: (list)  Advertise:
+
+    │       │   └── 48: (text)  Spring 20 ......  approval)
+
+    │       └── 49: (list)  Begin  Construction:
+
+    │           └── 50: (text)   Summer   ......  approval)
+
+    ├── 51: (head) Latigo Canyon Road Retaining Wall Repair Project
+
+    │   ├── 52: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 53: (list)  Plans and specifications have been completed
+
+    │   ├── 54: (list)  Awaiting final FEMA/CalOES approval for scope modification
+
+    │   │   └── 55: (list) ¾ Project Schedule:
+
+    │   ├── 56: (list)  Advertise:
+
+    │   │   └── 57: (text)  (dependen ......  approval)
+
+    │   └── 58: (list)  Begin Construction:
+
+    │       └── 59: (text)  (dependen ...... tem # 4.A.
+
+    ├── 60: (head) Civic Center Water Treatment Facility Phase 2
+
+    │   ├── 61: (list) ¾ Updates:
+
+    │   │   ├── 62: (text)   Staff   ...... pplication
+
+    │   │   └── 63: (list)  Staff has submitted a request for Federal funding
+
+    │   └── 64: (list) ¾ Project Schedule:
+
+    │       ├── 65: (text)  (pending  ...... approval):
+
+    │       └── 66: (list)  Project  is  delayed  due  to  the  Cultural  Resource  review.
+
+    │           └── 67: (text)     Revise ...... es review.
+
+    ├── 68: (head) Permanent Skate Park
+
+    │   └── 69: (list) ¾ Updates:
+
+    │       ├── 70: (list)  Community  Services  is  working  with  their  consultant  to  finalize  the design plans for this project.
+
+    │       ├── 71: (list)  Staff is working on getting the project’s CDP.
+
+    │       │   └── 72: (text)   The proj ......  Schedule:
+
+    │       └── 73: (list)  Complete Design:
+
+    │           └── 74: (text)  Fall/Wine ...... P approval
+
+    ├── 75: (head) PCH at Trancas Canyon Road Right Turn Lane
+
+    │   └── 76: (head) ¾ Updates:
+
+    │       ├── 77: (list) Updates:
+
+    │       │   └── 78: (text)   City  i ......  obtaining
+
+    │       └── 79: (list) CEQA clearance  Project is in review with Caltrans and pending their review based upon CEQA clearance
+
+    │           └── 80: (list) ¾ Estimated Schedule:
+
+    │               └── 81: (list)  Dependent upon
+
+    ├── 82: (head) Outdoor Warning Sirens
+
+    │   └── 83: (list) ¾ Updates:
+
+    │       └── 84: (list)  Project  received  recommendation  from  the  Public  Works  and  Public
+
+    │           └── 85: (list) Safety Commission joint meeting.
+
+    │               └── 86: (text)   Project ...... , meeting.
+
+    ├── 87: (head) Malibu Bluffs Park South Walkway Repairs
+
+    │   ├── 88: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 89: (list)  The project construction documents are being finalized.
+
+    │   ├── 90: (list)  This project is expected to be out to bid by the end of September 2023.
+
+    │   │   ├── 91: (text) ¾ ...... ¾
+
+    │   │   └── 92: (list) Estimated Schedule:
+
+    │   └── 93: (list)  Completed Design:
+
+    │       └── 94: (text)  August 20 ...... tem # 4.A.
+
+    ├── 95: (head) Trancas Canyon Park Playground
+
+    │   ├── 96: (list) ¾
+
+    │   │   └── 97: (list) Updates:
+
+    │   │       └── 98: (text)   Staff   ...... mber 2023.
+
+    │   └── 99: (list) ¾ Estimated Schedule:
+
+    │       ├── 100: (text)   Complet ...... inter 2023
+
+    │       └── 101: (list)  Advertise:
+
+    │           └── 102: (text)  Winter 20 ...... pring 2024
+
+    ├── 103: (head) Malibu Canyon Road Traffic Study
+
+    │   └── 104: (list) ¾ Project Description:
+
+    │       ├── 105: (text)   This pro ...... t Updates:
+
+    │       └── 106: (list)  City has entered into a contract with Kimley Horn to perform the traffic study.
+
+    │           └── 107: (text)   Staff   ...... iverables.
+
+    ├── 108: (head) Kanan Dume Biofilter
+
+    │   ├── 109: (list) ¾ Project  Description:
+
+    │   │   └── 110: (text)     This   ...... uirements.
+
+    │   └── 111: (list) ¾
+
+    │       └── 112: (list) Project Updates:
+
+    │           └── 113: (list)  Complete Design:
+
+    │               └── 114: (text)  Spring/Su ......  Fall 2024
+
+    ├── 115: (head) PCH Median Improvements at Paradise Cove and Zuma Beach
+
+    │   ├── 116: (list) ¾ Project Description:
+
+    │   │   └── 117: (text)   This pro ...... installed.
+
+    │   └── 118: (list) ¾ Project Updates:
+
+    │       └── 119: (text)  Staff is  ...... tem # 4.A.
+
+    ├── 120: (head) City Traffic Signals Backup Power
+
+    │   ├── 121: (list) ¾ Project  Description:
+
+    │   │   └── 122: (text)     This   ...... anyon Road
+
+    │   ├── 123: (list) ¾ Updates:
+
+    │   │   └── 124: (text)  Project i ...... sign phase
+
+    │   └── 125: (list) ¾ Project Schedule:
+
+    │       └── 126: (text)  Design is ......  July 2023
+
+    ├── 127: (head) Kanan Dume Biofilter
+
+    │   ├── 128: (list) ¾ Project  Description:
+
+    │   │   └── 129: (text)     This   ...... uirements.
+
+    │   └── 130: (list) ¾ Project Updates:
+
+    │       ├── 131: (list)  Complete Design:
+
+    │       │   └── 132: (text)  Spring/Su ...... ummer 2024
+
+    │       └── 133: (list)  Begin Construction:
+
+    │           └── 134: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 135: (head) Malibu Park Resurfacing Project
+
+    │   ├── 136: (list) ¾ Project Description:
+
+    │   │   └── 137: (text)   This pro ...... ott Drive.
+
+    │   ├── 138: (list) ¾ Updates:
+
+    │   │   └── 139: (list)  Project is currently out to bid and bids are due October 5,
+
+    │   │       └── 140: (text)  2023. ......  2023.
+
+    │   └── 141: (list) ¾ Project Schedule:
+
+    │       ├── 142: (list)  Complete Design:
+
+    │       │   └── 143: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 144: (list)  Advertise:
+
+    │       │   └── 145: (text)  Fall 2024 ......  Fall 2024
+
+    │       └── 146: (list)  Begin Construction:
+
+    │           └── 147: (text)  November  ...... ember 2024
+
+    ├── 148: (head) City Hall Solar Project
+
+    │   ├── 149: (list) ¾ Project  Description:
+
+    │   │   └── 150: (text)     This   ...... City Hall.
+
+    │   ├── 151: (list) ¾ Updates:
+
+    │   │   ├── 152: (list)  The project design was completed in 2018 and then placed on hold.
+
+    │   │   └── 153: (list)  Staff  is  reaching  out  to  consultants  to  review  the  project  and  make recommendations based upon new solar technology.
+
+    │   └── 154: (list) ¾ Project Schedule:
+
+    │       ├── 155: (list)  Complete Design:
+
+    │       │   └── 156: (text)  Spring 20 ...... pring 2024
+
+    │       ├── 157: (list)  Advertise:
+
+    │       │   └── 158: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 159: (list)  Begin Construction:
+
+    │           └── 160: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 161: (head) Harbor Vista Curb Return
+
+    │   ├── 162: (list) ¾ Project Description:
+
+    │   │   └── 163: (text)   This pro ...... tem # 4.A.
+
+    │   ├── 164: (list) ¾
+
+    │   │   └── 165: (list) Updates:
+
+    │   │       ├── 166: (text)   This pr ...... ower pole.
+
+    │   │       └── 167: (list)  SCE has submitted a CDP for this work.
+
+    │   │           └── 168: (text)   Once the ......  the pole.
+
+    │   └── 169: (list) ¾ Project Schedule:
+
+    │       └── 170: DUMMY
+
+    │           ├── 171: (list)  Complete Design:
+
+    │           │   └── 172: (text)  Completed ......  Completed
+
+    │           └── 173: (list)  Advertise:
+
+    │               └── 174: (text)  Dependent ...... n schedule
+
+    ├── 175: (head) Legacy Park Benches and Arbors Renovation
+
+    │   ├── 176: (list) ¾ Project  Description:
+
+    │   │   └── 177: (text)     This   ...... al arbors.
+
+    │   ├── 178: (list) ¾ Updates:
+
+    │   │   └── 179: (text)  This pro ......  19, 2023.
+
+    │   └── 180: (list) ¾
+
+    │       └── 181: (list) Project Schedule:
+
+    │           ├── 182: (list)  Complete Design:
+
+    │           │   └── 183: (text)  Summer 20 ...... r 19, 2023
+
+    │           └── 184: (list)  Begin Construction:
+
+    │               └── 185: (text)  November/ ...... ember 2023
+
+    ├── 186: (head) Citywide Asphalt Concrete Berms Repairs
+
+    │   ├── 187: (list) ¾ Project  Description:
+
+    │   │   ├── 188: (text)     This   ...... ¾ Updates:
+
+    │   │   └── 189: (list)  Staff has started the initial design of this project.
+
+    │   └── 190: (list) ¾ Project Schedule:
+
+    │       ├── 191: (text)   Complet ...... pring 2024
+
+    │       ├── 192: (list)  Advertise:
+
+    │       │   └── 193: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 194: (list)  Begin Construction:
+
+    │           └── 195: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 196: (head) Malibu Bluffs Park Roof Replacement Project
+
+    │   ├── 197: (list) ¾ Project Description:
+
+    │   │   ├── 198: (text)   This pro ...... ¾ Updates:
+
+    │   │   └── 199: (list)  Staff has started the initial design of this project.
+
+    │   ├── 200: (list) ¾
+
+    │   │   ├── 201: (list) Project Schedule:
+
+    │   │   │   └── 202: (text)   Complet ...... inter 2023
+
+    │   │   └── 203: (list)  Advertise:
+
+    │   │       └── 204: (text)  Spring 20 ...... tem # 4.A.
+
+    │   └── 205: (head) Capital Improvement and Disaster Recovery Projects (Construction)
+
+    ├── 206: (head) PCH Signal Synchronization System Improvements Project
+
+    │   ├── 207: (text) ¾ ...... ¾
+
+    │   ├── 208: (list) Updates:
+
+    │   │   └── 209: (text)   The con ...... ovals from
+
+    │   └── 210: (list) the City.
+
+    │       ├── 211: (text)   The con ......  Schedule:
+
+    │       └── 212: (list)  Begin construction:
+
+    │           └── 213: (text)  July 2023 ...... ruary 2025
+
+    ├── 214: (head) Trancas Canyon Park Upper and Lower Slopes Repair
+
+    │   └── 215: (list) ¾ Updates:
+
+    │       ├── 216: (text)   Project ......  July 2023
+
+    │       ├── 217: (list)  Staff is preparing Council Report for this project.
+
+    │       │   └── 218: (text)  ¾ Project ...... inter 2023
+
+    │       └── 219: (list)  Complete Construction:
+
+    │           └── 220: (text)  Winter 20 ...... inter 2023
+
+    ├── 221: (head) Capital Improvement and Disaster Recovery Projects (Completed)
+
+    │   ├── 222: (text) Storm Drai ......  Phase Two
+
+    │   └── 223: (head) Capital Improvement Projects (Not Started)
+
+    ├── 224: (head) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+
+    │   └── 225: (list) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH ¾ Project Description:
+
+    │       ├── 226: (text)  This proj ...... ersection.
+
+    │       └── 227: (list) ¾ Project Updates:
+
+    │           └── 228: (text)   Staff co ...... tem # 4.A.
+
+    ├── 229: (head) PCH at Las Flores and Rambla Pacifico Intersection Improvements
+
+    │   └── 230: (list) PCH at Las Flores and Rambla Pacifico Intersection Improvements ¾ Project Description:
+
+    │       ├── 231: (text)  This proj ...... e M funds.
+
+    │       └── 232: (list) ¾ Project Updates:
+
+    │           └── 233: (text)   Staff co ...... e of work.
+
+    └── 234: (head) Malibu Seafood Undercrossing
+
+        ├── 235: (list) Malibu Seafood Undercrossing ¾ Project Description:
+
+        │   ├── 236: (text)  This proj ...... e M funds.
+
+        │   └── 237: (list) ¾ Project Updates:
+
+        │       └── 238: (text)   Staff co ...... e of work.
+
+        └── 239: (list) Encinal Canyon 60-inch Storm Drain Repairs ¾ Project Description:
+
+            └── 240: (text)  This proj ...... tem # 4.A.
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+Public Works Commission Agenda Report
+[-1]
+Capital Improvement and Disaster Recovery Projects (Design)
+[-1, 1]
+2022 Morning View Resurfacing & Storm Drain Improvements
+[-1, 1, 3]
+g ¾ Updates:
+[-1, 1, 4]
+Westward Beach Road Repair Project
+[-1, 1, 5]
+¾ Updates:
+[-1, 1, 22]
+Westward Beach Road Drainage Improvements Project
+[-1, 1, 22, 23]
+Clover Heights Storm Drainage Improvements
+[-1, 1, 33]
+¾ Updates:
+[-1, 1, 41]
+Latigo Canyon Road Retaining Wall Repair Project
+[-1, 1, 41, 42]
+Civic Center Water Treatment Facility Phase 2
+[-1, 1, 51]
+Permanent Skate Park
+[-1, 1, 60]
+PCH at Trancas Canyon Road Right Turn Lane
+[-1, 1, 68]
+¾ Updates:
+[-1, 1, 75]
+Outdoor Warning Sirens
+[-1, 1, 75, 76]
+Malibu Bluffs Park South Walkway Repairs
+[-1, 1, 82]
+Trancas Canyon Park Playground
+[-1, 1, 87]
+Malibu Canyon Road Traffic Study
+[-1, 1, 95]
+Kanan Dume Biofilter
+[-1, 1, 103]
+PCH Median Improvements at Paradise Cove and Zuma Beach
+[-1, 1, 108]
+City Traffic Signals Backup Power
+[-1, 1, 115]
+Kanan Dume Biofilter
+[-1, 1, 120]
+Malibu Park Resurfacing Project
+[-1, 1, 127]
+City Hall Solar Project
+[-1, 1, 135]
+Harbor Vista Curb Return
+[-1, 1, 148]
+Legacy Park Benches and Arbors Renovation
+[-1, 1, 161]
+Citywide Asphalt Concrete Berms Repairs
+[-1, 1, 175]
+Malibu Bluffs Park Roof Replacement Project
+[-1, 1, 186]
+Capital Improvement and Disaster Recovery Projects (Construction)
+[-1, 1, 196]
+PCH Signal Synchronization System Improvements Project
+[-1, 1, 196, 205]
+Trancas Canyon Park Upper and Lower Slopes Repair
+[-1, 1, 206]
+Capital Improvement and Disaster Recovery Projects (Completed)
+[-1, 1, 214]
+Capital Improvement Projects (Not Started)
+[-1, 1, 221]
+PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+[-1, 1, 221, 223]
+PCH at Las Flores and Rambla Pacifico Intersection Improvements
+[-1, 1, 224]
+Malibu Seafood Undercrossing
+[-1, 1, 229]
+-1: ROOT
+
+├── 0: (text) Public Wor ......  Item 4.A.
+
+└── 1: (head) Public Works Commission Agenda Report
+
+    ├── 2: (text) To: Chair  ...... t Program:
+
+    ├── 3: (head) Capital Improvement and Disaster Recovery Projects (Design)
+
+    ├── 4: (head) 2022 Morning View Resurfacing & Storm Drain Improvements
+
+    ├── 5: (head) g ¾ Updates:
+
+    │   ├── 6: (list)  This project required a LACFCD Permit.
+
+    │   │   ├── 7: (text)    Staff i ...... hool year.
+
+    │   │   └── 8: (list) ¾ Project Schedule:
+
+    │   ├── 9: (list)  Complete Design:
+
+    │   │   ├── 10: (text)  Fall 2023 ...... /June 2024
+
+    │   │   └── 11: (list) PCH Median Improvements Project ¾ Updates:
+
+    │   │       └── 12: (text)   On Sept ...... tem # 4.A.
+
+    │   ├── 13: (list)  Staff has prepared revised project plans and will be providing a copy to Caltrans for final approval.
+
+    │   ├── 14: (list)  Future phases will be dependent upon available funding.
+
+    │   │   └── 15: (list) ¾ Project Schedule:
+
+    │   ├── 16: (list)  Complete Design:
+
+    │   │   └── 17: (text)  Winter 20 ...... inter 2023
+
+    │   ├── 18: (list)  Advertise:
+
+    │   │   └── 19: (text)  Winter 20 ...... inter 2023
+
+    │   └── 20: (list)  Begin Construction:
+
+    │       └── 21: (text)  Spring 20 ...... pring 2024
+
+    ├── 22: (head) Westward Beach Road Repair Project
+
+    │   └── 23: (head) ¾ Updates:
+
+    │       ├── 24: (list)  Project is out to bid with bids due on October 5,
+
+    │       │   ├── 25: (text)  2023 ......  2023
+
+    │       │   └── 26: (list) ¾ Project Schedule:
+
+    │       ├── 27: (list)  Complete Design:
+
+    │       │   └── 28: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 29: (list)  Advertise:
+
+    │       │   └── 30: (text)  Fall 2023 ......  Fall 2023
+
+    │       └── 31: (list)  Begin Construction:
+
+    │           └── 32: (text)  Fall/Wint ...... inter 2023
+
+    ├── 33: (head) Westward Beach Road Drainage Improvements Project
+
+    │   ├── 34: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 35: (list) ¾ Plans and Specifications are 99% complete.
+
+    │   │   ├── 36: (list)  The project received approval from Fish and Wildlife.
+
+    │   │   └── 37: (list)  Staff is working on the CDP application for this project.
+
+    │   └── 38: (list) ¾ Project Schedule:
+
+    │       └── 39: (list)  Advertise:
+
+    │           └── 40: (text)  Winter 20 ......  approval)
+
+    ├── 41: (head) Clover Heights Storm Drainage Improvements
+
+    │   └── 42: (head) ¾ Updates:
+
+    │       ├── 43: (list)  Plans and Specifications are 99% complete.
+
+    │       ├── 44: (list)  City submitted plans to CalOES for review.
+
+    │       ├── 45: (list)  Staff is working on the CDP application for this project.
+
+    │       │   └── 46: (list) ¾ Project Schedule:
+
+    │       ├── 47: (list)  Advertise:
+
+    │       │   └── 48: (text)  Spring 20 ......  approval)
+
+    │       └── 49: (list)  Begin  Construction:
+
+    │           └── 50: (text)   Summer   ......  approval)
+
+    ├── 51: (head) Latigo Canyon Road Retaining Wall Repair Project
+
+    │   ├── 52: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 53: (list)  Plans and specifications have been completed
+
+    │   ├── 54: (list)  Awaiting final FEMA/CalOES approval for scope modification
+
+    │   │   └── 55: (list) ¾ Project Schedule:
+
+    │   ├── 56: (list)  Advertise:
+
+    │   │   └── 57: (text)  (dependen ......  approval)
+
+    │   └── 58: (list)  Begin Construction:
+
+    │       └── 59: (text)  (dependen ...... tem # 4.A.
+
+    ├── 60: (head) Civic Center Water Treatment Facility Phase 2
+
+    │   ├── 61: (list) ¾ Updates:
+
+    │   │   ├── 62: (text)   Staff   ...... pplication
+
+    │   │   └── 63: (list)  Staff has submitted a request for Federal funding
+
+    │   └── 64: (list) ¾ Project Schedule:
+
+    │       ├── 65: (text)  (pending  ...... approval):
+
+    │       └── 66: (list)  Project  is  delayed  due  to  the  Cultural  Resource  review.
+
+    │           └── 67: (text)     Revise ...... es review.
+
+    ├── 68: (head) Permanent Skate Park
+
+    │   └── 69: (list) ¾ Updates:
+
+    │       ├── 70: (list)  Community  Services  is  working  with  their  consultant  to  finalize  the design plans for this project.
+
+    │       ├── 71: (list)  Staff is working on getting the project’s CDP.
+
+    │       │   └── 72: (text)   The proj ......  Schedule:
+
+    │       └── 73: (list)  Complete Design:
+
+    │           └── 74: (text)  Fall/Wine ...... P approval
+
+    ├── 75: (head) PCH at Trancas Canyon Road Right Turn Lane
+
+    │   └── 76: (head) ¾ Updates:
+
+    │       ├── 77: (list) Updates:
+
+    │       │   └── 78: (text)   City  i ......  obtaining
+
+    │       └── 79: (list) CEQA clearance  Project is in review with Caltrans and pending their review based upon CEQA clearance
+
+    │           └── 80: (list) ¾ Estimated Schedule:
+
+    │               └── 81: (list)  Dependent upon
+
+    ├── 82: (head) Outdoor Warning Sirens
+
+    │   └── 83: (list) ¾ Updates:
+
+    │       └── 84: (list)  Project  received  recommendation  from  the  Public  Works  and  Public
+
+    │           └── 85: (list) Safety Commission joint meeting.
+
+    │               └── 86: (text)   Project ...... , meeting.
+
+    ├── 87: (head) Malibu Bluffs Park South Walkway Repairs
+
+    │   ├── 88: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 89: (list)  The project construction documents are being finalized.
+
+    │   ├── 90: (list)  This project is expected to be out to bid by the end of September 2023.
+
+    │   │   ├── 91: (text) ¾ ...... ¾
+
+    │   │   └── 92: (list) Estimated Schedule:
+
+    │   └── 93: (list)  Completed Design:
+
+    │       └── 94: (text)  August 20 ...... tem # 4.A.
+
+    ├── 95: (head) Trancas Canyon Park Playground
+
+    │   ├── 96: (list) ¾
+
+    │   │   └── 97: (list) Updates:
+
+    │   │       └── 98: (text)   Staff   ...... mber 2023.
+
+    │   └── 99: (list) ¾ Estimated Schedule:
+
+    │       ├── 100: (text)   Complet ...... inter 2023
+
+    │       └── 101: (list)  Advertise:
+
+    │           └── 102: (text)  Winter 20 ...... pring 2024
+
+    ├── 103: (head) Malibu Canyon Road Traffic Study
+
+    │   └── 104: (list) ¾ Project Description:
+
+    │       ├── 105: (text)   This pro ...... t Updates:
+
+    │       └── 106: (list)  City has entered into a contract with Kimley Horn to perform the traffic study.
+
+    │           └── 107: (text)   Staff   ...... iverables.
+
+    ├── 108: (head) Kanan Dume Biofilter
+
+    │   ├── 109: (list) ¾ Project  Description:
+
+    │   │   └── 110: (text)     This   ...... uirements.
+
+    │   └── 111: (list) ¾
+
+    │       └── 112: (list) Project Updates:
+
+    │           └── 113: (list)  Complete Design:
+
+    │               └── 114: (text)  Spring/Su ......  Fall 2024
+
+    ├── 115: (head) PCH Median Improvements at Paradise Cove and Zuma Beach
+
+    │   ├── 116: (list) ¾ Project Description:
+
+    │   │   └── 117: (text)   This pro ...... installed.
+
+    │   └── 118: (list) ¾ Project Updates:
+
+    │       └── 119: (text)  Staff is  ...... tem # 4.A.
+
+    ├── 120: (head) City Traffic Signals Backup Power
+
+    │   ├── 121: (list) ¾ Project  Description:
+
+    │   │   └── 122: (text)     This   ...... anyon Road
+
+    │   ├── 123: (list) ¾ Updates:
+
+    │   │   └── 124: (text)  Project i ...... sign phase
+
+    │   └── 125: (list) ¾ Project Schedule:
+
+    │       └── 126: (text)  Design is ......  July 2023
+
+    ├── 127: (head) Kanan Dume Biofilter
+
+    │   ├── 128: (list) ¾ Project  Description:
+
+    │   │   └── 129: (text)     This   ...... uirements.
+
+    │   └── 130: (list) ¾ Project Updates:
+
+    │       ├── 131: (list)  Complete Design:
+
+    │       │   └── 132: (text)  Spring/Su ...... ummer 2024
+
+    │       └── 133: (list)  Begin Construction:
+
+    │           └── 134: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 135: (head) Malibu Park Resurfacing Project
+
+    │   ├── 136: (list) ¾ Project Description:
+
+    │   │   └── 137: (text)   This pro ...... ott Drive.
+
+    │   ├── 138: (list) ¾ Updates:
+
+    │   │   └── 139: (list)  Project is currently out to bid and bids are due October 5,
+
+    │   │       └── 140: (text)  2023. ......  2023.
+
+    │   └── 141: (list) ¾ Project Schedule:
+
+    │       ├── 142: (list)  Complete Design:
+
+    │       │   └── 143: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 144: (list)  Advertise:
+
+    │       │   └── 145: (text)  Fall 2024 ......  Fall 2024
+
+    │       └── 146: (list)  Begin Construction:
+
+    │           └── 147: (text)  November  ...... ember 2024
+
+    ├── 148: (head) City Hall Solar Project
+
+    │   ├── 149: (list) ¾ Project  Description:
+
+    │   │   └── 150: (text)     This   ...... City Hall.
+
+    │   ├── 151: (list) ¾ Updates:
+
+    │   │   ├── 152: (list)  The project design was completed in 2018 and then placed on hold.
+
+    │   │   └── 153: (list)  Staff  is  reaching  out  to  consultants  to  review  the  project  and  make recommendations based upon new solar technology.
+
+    │   └── 154: (list) ¾ Project Schedule:
+
+    │       ├── 155: (list)  Complete Design:
+
+    │       │   └── 156: (text)  Spring 20 ...... pring 2024
+
+    │       ├── 157: (list)  Advertise:
+
+    │       │   └── 158: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 159: (list)  Begin Construction:
+
+    │           └── 160: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 161: (head) Harbor Vista Curb Return
+
+    │   ├── 162: (list) ¾ Project Description:
+
+    │   │   └── 163: (text)   This pro ...... tem # 4.A.
+
+    │   ├── 164: (list) ¾
+
+    │   │   └── 165: (list) Updates:
+
+    │   │       ├── 166: (text)   This pr ...... ower pole.
+
+    │   │       └── 167: (list)  SCE has submitted a CDP for this work.
+
+    │   │           └── 168: (text)   Once the ......  the pole.
+
+    │   └── 169: (list) ¾ Project Schedule:
+
+    │       └── 170: DUMMY
+
+    │           ├── 171: (list)  Complete Design:
+
+    │           │   └── 172: (text)  Completed ......  Completed
+
+    │           └── 173: (list)  Advertise:
+
+    │               └── 174: (text)  Dependent ...... n schedule
+
+    ├── 175: (head) Legacy Park Benches and Arbors Renovation
+
+    │   ├── 176: (list) ¾ Project  Description:
+
+    │   │   └── 177: (text)     This   ...... al arbors.
+
+    │   ├── 178: (list) ¾ Updates:
+
+    │   │   └── 179: (text)  This pro ......  19, 2023.
+
+    │   └── 180: (list) ¾
+
+    │       └── 181: (list) Project Schedule:
+
+    │           ├── 182: (list)  Complete Design:
+
+    │           │   └── 183: (text)  Summer 20 ...... r 19, 2023
+
+    │           └── 184: (list)  Begin Construction:
+
+    │               └── 185: (text)  November/ ...... ember 2023
+
+    ├── 186: (head) Citywide Asphalt Concrete Berms Repairs
+
+    │   ├── 187: (list) ¾ Project  Description:
+
+    │   │   ├── 188: (text)     This   ...... ¾ Updates:
+
+    │   │   └── 189: (list)  Staff has started the initial design of this project.
+
+    │   └── 190: (list) ¾ Project Schedule:
+
+    │       ├── 191: (text)   Complet ...... pring 2024
+
+    │       ├── 192: (list)  Advertise:
+
+    │       │   └── 193: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 194: (list)  Begin Construction:
+
+    │           └── 195: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 196: (head) Malibu Bluffs Park Roof Replacement Project
+
+    │   ├── 197: (list) ¾ Project Description:
+
+    │   │   ├── 198: (text)   This pro ...... ¾ Updates:
+
+    │   │   └── 199: (list)  Staff has started the initial design of this project.
+
+    │   ├── 200: (list) ¾
+
+    │   │   ├── 201: (list) Project Schedule:
+
+    │   │   │   └── 202: (text)   Complet ...... inter 2023
+
+    │   │   └── 203: (list)  Advertise:
+
+    │   │       └── 204: (text)  Spring 20 ...... tem # 4.A.
+
+    │   └── 205: (head) Capital Improvement and Disaster Recovery Projects (Construction)
+
+    ├── 206: (head) PCH Signal Synchronization System Improvements Project
+
+    │   ├── 207: (text) ¾ ...... ¾
+
+    │   ├── 208: (list) Updates:
+
+    │   │   └── 209: (text)   The con ...... ovals from
+
+    │   └── 210: (list) the City.
+
+    │       ├── 211: (text)   The con ......  Schedule:
+
+    │       └── 212: (list)  Begin construction:
+
+    │           └── 213: (text)  July 2023 ...... ruary 2025
+
+    ├── 214: (head) Trancas Canyon Park Upper and Lower Slopes Repair
+
+    │   └── 215: (list) ¾ Updates:
+
+    │       ├── 216: (text)   Project ......  July 2023
+
+    │       ├── 217: (list)  Staff is preparing Council Report for this project.
+
+    │       │   └── 218: (text)  ¾ Project ...... inter 2023
+
+    │       └── 219: (list)  Complete Construction:
+
+    │           └── 220: (text)  Winter 20 ...... inter 2023
+
+    ├── 221: (head) Capital Improvement and Disaster Recovery Projects (Completed)
+
+    │   ├── 222: (text) Storm Drai ......  Phase Two
+
+    │   └── 223: (head) Capital Improvement Projects (Not Started)
+
+    ├── 224: (head) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+
+    │   └── 225: (list) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH ¾ Project Description:
+
+    │       ├── 226: (text)  This proj ...... ersection.
+
+    │       └── 227: (list) ¾ Project Updates:
+
+    │           └── 228: (text)   Staff co ...... tem # 4.A.
+
+    ├── 229: (head) PCH at Las Flores and Rambla Pacifico Intersection Improvements
+
+    │   └── 230: (list) PCH at Las Flores and Rambla Pacifico Intersection Improvements ¾ Project Description:
+
+    │       ├── 231: (text)  This proj ...... e M funds.
+
+    │       └── 232: (list) ¾ Project Updates:
+
+    │           └── 233: (text)   Staff co ...... e of work.
+
+    └── 234: (head) Malibu Seafood Undercrossing
+
+        ├── 235: (list) Malibu Seafood Undercrossing ¾ Project Description:
+
+        │   ├── 236: (text)  This proj ...... e M funds.
+
+        │   └── 237: (list) ¾ Project Updates:
+
+        │       └── 238: (text)   Staff co ...... e of work.
+
+        └── 239: (list) Encinal Canyon 60-inch Storm Drain Repairs ¾ Project Description:
+
+            └── 240: (text)  This proj ...... tem # 4.A.
+
+2  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+3  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+4  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+5  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+6  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+7  parent= 6  parent's children= [7, 8]
+8  parent= 6  parent's children= [7, 8]
+9  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+10  parent= 9  parent's children= [10, 11]
+11  parent= 9  parent's children= [10, 11]
+12  parent= 11  parent's children= [12]
+13  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+14  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+15  parent= 14  parent's children= [15]
+16  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+17  parent= 16  parent's children= [17]
+18  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+19  parent= 18  parent's children= [19]
+20  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+21  parent= 20  parent's children= [21]
+22  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+23  parent= 22  parent's children= [23]
+24  parent= 23  parent's children= [24, 27, 29, 31]
+25  parent= 24  parent's children= [25, 26]
+26  parent= 24  parent's children= [25, 26]
+27  parent= 23  parent's children= [24, 27, 29, 31]
+28  parent= 27  parent's children= [28]
+29  parent= 23  parent's children= [24, 27, 29, 31]
+30  parent= 29  parent's children= [30]
+31  parent= 23  parent's children= [24, 27, 29, 31]
+32  parent= 31  parent's children= [32]
+33  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+34  parent= 33  parent's children= [34, 35, 38]
+35  parent= 33  parent's children= [34, 35, 38]
+36  parent= 35  parent's children= [36, 37]
+37  parent= 35  parent's children= [36, 37]
+38  parent= 33  parent's children= [34, 35, 38]
+39  parent= 38  parent's children= [39]
+40  parent= 39  parent's children= [40]
+41  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+42  parent= 41  parent's children= [42]
+43  parent= 42  parent's children= [43, 44, 45, 47, 49]
+44  parent= 42  parent's children= [43, 44, 45, 47, 49]
+45  parent= 42  parent's children= [43, 44, 45, 47, 49]
+46  parent= 45  parent's children= [46]
+47  parent= 42  parent's children= [43, 44, 45, 47, 49]
+48  parent= 47  parent's children= [48]
+49  parent= 42  parent's children= [43, 44, 45, 47, 49]
+50  parent= 49  parent's children= [50]
+51  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+52  parent= 51  parent's children= [52, 53, 54, 56, 58]
+53  parent= 51  parent's children= [52, 53, 54, 56, 58]
+54  parent= 51  parent's children= [52, 53, 54, 56, 58]
+55  parent= 54  parent's children= [55]
+56  parent= 51  parent's children= [52, 53, 54, 56, 58]
+57  parent= 56  parent's children= [57]
+58  parent= 51  parent's children= [52, 53, 54, 56, 58]
+59  parent= 58  parent's children= [59]
+60  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+61  parent= 60  parent's children= [61, 64]
+62  parent= 61  parent's children= [62, 63]
+63  parent= 61  parent's children= [62, 63]
+64  parent= 60  parent's children= [61, 64]
+65  parent= 64  parent's children= [65, 66]
+66  parent= 64  parent's children= [65, 66]
+67  parent= 66  parent's children= [67]
+68  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+69  parent= 68  parent's children= [69]
+70  parent= 69  parent's children= [70, 71, 73]
+71  parent= 69  parent's children= [70, 71, 73]
+72  parent= 71  parent's children= [72]
+73  parent= 69  parent's children= [70, 71, 73]
+74  parent= 73  parent's children= [74]
+75  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+76  parent= 75  parent's children= [76]
+77  parent= 76  parent's children= [77, 79]
+78  parent= 77  parent's children= [78]
+79  parent= 76  parent's children= [77, 79]
+80  parent= 79  parent's children= [80]
+81  parent= 80  parent's children= [81]
+82  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+83  parent= 82  parent's children= [83]
+84  parent= 83  parent's children= [84]
+85  parent= 84  parent's children= [85]
+86  parent= 85  parent's children= [86]
+87  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+88  parent= 87  parent's children= [88, 89, 90, 93]
+89  parent= 87  parent's children= [88, 89, 90, 93]
+90  parent= 87  parent's children= [88, 89, 90, 93]
+91  parent= 90  parent's children= [91, 92]
+92  parent= 90  parent's children= [91, 92]
+93  parent= 87  parent's children= [88, 89, 90, 93]
+94  parent= 93  parent's children= [94]
+95  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+96  parent= 95  parent's children= [96, 99]
+97  parent= 96  parent's children= [97]
+98  parent= 97  parent's children= [98]
+99  parent= 95  parent's children= [96, 99]
+100  parent= 99  parent's children= [100, 101]
+101  parent= 99  parent's children= [100, 101]
+102  parent= 101  parent's children= [102]
+103  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+104  parent= 103  parent's children= [104]
+105  parent= 104  parent's children= [105, 106]
+106  parent= 104  parent's children= [105, 106]
+107  parent= 106  parent's children= [107]
+108  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+109  parent= 108  parent's children= [109, 111]
+110  parent= 109  parent's children= [110]
+111  parent= 108  parent's children= [109, 111]
+112  parent= 111  parent's children= [112]
+113  parent= 112  parent's children= [113]
+114  parent= 113  parent's children= [114]
+115  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+116  parent= 115  parent's children= [116, 118]
+117  parent= 116  parent's children= [117]
+118  parent= 115  parent's children= [116, 118]
+119  parent= 118  parent's children= [119]
+120  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+121  parent= 120  parent's children= [121, 123, 125]
+122  parent= 121  parent's children= [122]
+123  parent= 120  parent's children= [121, 123, 125]
+124  parent= 123  parent's children= [124]
+125  parent= 120  parent's children= [121, 123, 125]
+126  parent= 125  parent's children= [126]
+127  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+128  parent= 127  parent's children= [128, 130]
+129  parent= 128  parent's children= [129]
+130  parent= 127  parent's children= [128, 130]
+131  parent= 130  parent's children= [131, 133]
+132  parent= 131  parent's children= [132]
+133  parent= 130  parent's children= [131, 133]
+134  parent= 133  parent's children= [134]
+135  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+136  parent= 135  parent's children= [136, 138, 141]
+137  parent= 136  parent's children= [137]
+138  parent= 135  parent's children= [136, 138, 141]
+139  parent= 138  parent's children= [139]
+140  parent= 139  parent's children= [140]
+141  parent= 135  parent's children= [136, 138, 141]
+142  parent= 141  parent's children= [142, 144, 146]
+143  parent= 142  parent's children= [143]
+144  parent= 141  parent's children= [142, 144, 146]
+145  parent= 144  parent's children= [145]
+146  parent= 141  parent's children= [142, 144, 146]
+147  parent= 146  parent's children= [147]
+148  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+149  parent= 148  parent's children= [149, 151, 154]
+150  parent= 149  parent's children= [150]
+151  parent= 148  parent's children= [149, 151, 154]
+152  parent= 151  parent's children= [152, 153]
+153  parent= 151  parent's children= [152, 153]
+154  parent= 148  parent's children= [149, 151, 154]
+155  parent= 154  parent's children= [155, 157, 159]
+156  parent= 155  parent's children= [156]
+157  parent= 154  parent's children= [155, 157, 159]
+158  parent= 157  parent's children= [158]
+159  parent= 154  parent's children= [155, 157, 159]
+160  parent= 159  parent's children= [160]
+161  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+162  parent= 161  parent's children= [162, 164, 169]
+163  parent= 162  parent's children= [163]
+164  parent= 161  parent's children= [162, 164, 169]
+165  parent= 164  parent's children= [165]
+166  parent= 165  parent's children= [166, 167]
+167  parent= 165  parent's children= [166, 167]
+168  parent= 167  parent's children= [168]
+169  parent= 161  parent's children= [162, 164, 169]
+170  parent= 169  parent's children= []
+Public Works Commission Agenda Report
+[-1]
+Capital Improvement and Disaster Recovery Projects (Design)
+[-1, 1]
+2022 Morning View Resurfacing & Storm Drain Improvements
+[-1, 1, 3]
+g ¾ Updates:
+[-1, 1, 4]
+Westward Beach Road Repair Project
+[-1, 1, 5]
+¾ Updates:
+[-1, 1, 22]
+Westward Beach Road Drainage Improvements Project
+[-1, 1, 22, 23]
+Clover Heights Storm Drainage Improvements
+[-1, 1, 33]
+¾ Updates:
+[-1, 1, 41]
+Latigo Canyon Road Retaining Wall Repair Project
+[-1, 1, 41, 42]
+Civic Center Water Treatment Facility Phase 2
+[-1, 1, 51]
+Permanent Skate Park
+[-1, 1, 60]
+PCH at Trancas Canyon Road Right Turn Lane
+[-1, 1, 68]
+¾ Updates:
+[-1, 1, 75]
+Outdoor Warning Sirens
+[-1, 1, 75, 76]
+Malibu Bluffs Park South Walkway Repairs
+[-1, 1, 82]
+Trancas Canyon Park Playground
+[-1, 1, 87]
+Malibu Canyon Road Traffic Study
+[-1, 1, 95]
+Kanan Dume Biofilter
+[-1, 1, 103]
+PCH Median Improvements at Paradise Cove and Zuma Beach
+[-1, 1, 108]
+City Traffic Signals Backup Power
+[-1, 1, 115]
+Kanan Dume Biofilter
+[-1, 1, 120]
+Malibu Park Resurfacing Project
+[-1, 1, 127]
+City Hall Solar Project
+[-1, 1, 135]
+Harbor Vista Curb Return
+[-1, 1, 148]
+Legacy Park Benches and Arbors Renovation
+[-1, 1, 161]
+Citywide Asphalt Concrete Berms Repairs
+[-1, 1, 175]
+Malibu Bluffs Park Roof Replacement Project
+[-1, 1, 186]
+Capital Improvement and Disaster Recovery Projects (Construction)
+[-1, 1, 196]
+PCH Signal Synchronization System Improvements Project
+[-1, 1, 196, 205]
+Trancas Canyon Park Upper and Lower Slopes Repair
+[-1, 1, 206]
+Capital Improvement and Disaster Recovery Projects (Completed)
+[-1, 1, 214]
+Capital Improvement Projects (Not Started)
+[-1, 1, 221]
+PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+[-1, 1, 221, 223]
+PCH at Las Flores and Rambla Pacifico Intersection Improvements
+[-1, 1, 224]
+Malibu Seafood Undercrossing
+[-1, 1, 229]
+-1: ROOT
+
+├── 0: (text) Public Wor ......  Item 4.A.
+
+└── 1: (head) Public Works Commission Agenda Report
+
+    ├── 2: (text) To: Chair  ...... t Program:
+
+    ├── 3: (head) Capital Improvement and Disaster Recovery Projects (Design)
+
+    ├── 4: (head) 2022 Morning View Resurfacing & Storm Drain Improvements
+
+    ├── 5: (head) g ¾ Updates:
+
+    │   ├── 6: (list)  This project required a LACFCD Permit.
+
+    │   │   ├── 7: (text)    Staff i ...... hool year.
+
+    │   │   └── 8: (list) ¾ Project Schedule:
+
+    │   ├── 9: (list)  Complete Design:
+
+    │   │   ├── 10: (text)  Fall 2023 ...... /June 2024
+
+    │   │   └── 11: (list) PCH Median Improvements Project ¾ Updates:
+
+    │   │       └── 12: (text)   On Sept ...... tem # 4.A.
+
+    │   ├── 13: (list)  Staff has prepared revised project plans and will be providing a copy to Caltrans for final approval.
+
+    │   ├── 14: (list)  Future phases will be dependent upon available funding.
+
+    │   │   └── 15: (list) ¾ Project Schedule:
+
+    │   ├── 16: (list)  Complete Design:
+
+    │   │   └── 17: (text)  Winter 20 ...... inter 2023
+
+    │   ├── 18: (list)  Advertise:
+
+    │   │   └── 19: (text)  Winter 20 ...... inter 2023
+
+    │   └── 20: (list)  Begin Construction:
+
+    │       └── 21: (text)  Spring 20 ...... pring 2024
+
+    ├── 22: (head) Westward Beach Road Repair Project
+
+    │   └── 23: (head) ¾ Updates:
+
+    │       ├── 24: (list)  Project is out to bid with bids due on October 5,
+
+    │       │   ├── 25: (text)  2023 ......  2023
+
+    │       │   └── 26: (list) ¾ Project Schedule:
+
+    │       ├── 27: (list)  Complete Design:
+
+    │       │   └── 28: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 29: (list)  Advertise:
+
+    │       │   └── 30: (text)  Fall 2023 ......  Fall 2023
+
+    │       └── 31: (list)  Begin Construction:
+
+    │           └── 32: (text)  Fall/Wint ...... inter 2023
+
+    ├── 33: (head) Westward Beach Road Drainage Improvements Project
+
+    │   ├── 34: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 35: (list) ¾ Plans and Specifications are 99% complete.
+
+    │   │   ├── 36: (list)  The project received approval from Fish and Wildlife.
+
+    │   │   └── 37: (list)  Staff is working on the CDP application for this project.
+
+    │   └── 38: (list) ¾ Project Schedule:
+
+    │       └── 39: (list)  Advertise:
+
+    │           └── 40: (text)  Winter 20 ......  approval)
+
+    ├── 41: (head) Clover Heights Storm Drainage Improvements
+
+    │   └── 42: (head) ¾ Updates:
+
+    │       ├── 43: (list)  Plans and Specifications are 99% complete.
+
+    │       ├── 44: (list)  City submitted plans to CalOES for review.
+
+    │       ├── 45: (list)  Staff is working on the CDP application for this project.
+
+    │       │   └── 46: (list) ¾ Project Schedule:
+
+    │       ├── 47: (list)  Advertise:
+
+    │       │   └── 48: (text)  Spring 20 ......  approval)
+
+    │       └── 49: (list)  Begin  Construction:
+
+    │           └── 50: (text)   Summer   ......  approval)
+
+    ├── 51: (head) Latigo Canyon Road Retaining Wall Repair Project
+
+    │   ├── 52: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 53: (list)  Plans and specifications have been completed
+
+    │   ├── 54: (list)  Awaiting final FEMA/CalOES approval for scope modification
+
+    │   │   └── 55: (list) ¾ Project Schedule:
+
+    │   ├── 56: (list)  Advertise:
+
+    │   │   └── 57: (text)  (dependen ......  approval)
+
+    │   └── 58: (list)  Begin Construction:
+
+    │       └── 59: (text)  (dependen ...... tem # 4.A.
+
+    ├── 60: (head) Civic Center Water Treatment Facility Phase 2
+
+    │   ├── 61: (list) ¾ Updates:
+
+    │   │   ├── 62: (text)   Staff   ...... pplication
+
+    │   │   └── 63: (list)  Staff has submitted a request for Federal funding
+
+    │   └── 64: (list) ¾ Project Schedule:
+
+    │       ├── 65: (text)  (pending  ...... approval):
+
+    │       └── 66: (list)  Project  is  delayed  due  to  the  Cultural  Resource  review.
+
+    │           └── 67: (text)     Revise ...... es review.
+
+    ├── 68: (head) Permanent Skate Park
+
+    │   └── 69: (list) ¾ Updates:
+
+    │       ├── 70: (list)  Community  Services  is  working  with  their  consultant  to  finalize  the design plans for this project.
+
+    │       ├── 71: (list)  Staff is working on getting the project’s CDP.
+
+    │       │   └── 72: (text)   The proj ......  Schedule:
+
+    │       └── 73: (list)  Complete Design:
+
+    │           └── 74: (text)  Fall/Wine ...... P approval
+
+    ├── 75: (head) PCH at Trancas Canyon Road Right Turn Lane
+
+    │   └── 76: (head) ¾ Updates:
+
+    │       ├── 77: (list) Updates:
+
+    │       │   └── 78: (text)   City  i ......  obtaining
+
+    │       └── 79: (list) CEQA clearance  Project is in review with Caltrans and pending their review based upon CEQA clearance
+
+    │           └── 80: (list) ¾ Estimated Schedule:
+
+    │               └── 81: (list)  Dependent upon
+
+    ├── 82: (head) Outdoor Warning Sirens
+
+    │   └── 83: (list) ¾ Updates:
+
+    │       └── 84: (list)  Project  received  recommendation  from  the  Public  Works  and  Public
+
+    │           └── 85: (list) Safety Commission joint meeting.
+
+    │               └── 86: (text)   Project ...... , meeting.
+
+    ├── 87: (head) Malibu Bluffs Park South Walkway Repairs
+
+    │   ├── 88: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 89: (list)  The project construction documents are being finalized.
+
+    │   ├── 90: (list)  This project is expected to be out to bid by the end of September 2023.
+
+    │   │   ├── 91: (text) ¾ ...... ¾
+
+    │   │   └── 92: (list) Estimated Schedule:
+
+    │   └── 93: (list)  Completed Design:
+
+    │       └── 94: (text)  August 20 ...... tem # 4.A.
+
+    ├── 95: (head) Trancas Canyon Park Playground
+
+    │   ├── 96: (list) ¾
+
+    │   │   └── 97: (list) Updates:
+
+    │   │       └── 98: (text)   Staff   ...... mber 2023.
+
+    │   └── 99: (list) ¾ Estimated Schedule:
+
+    │       ├── 100: (text)   Complet ...... inter 2023
+
+    │       └── 101: (list)  Advertise:
+
+    │           └── 102: (text)  Winter 20 ...... pring 2024
+
+    ├── 103: (head) Malibu Canyon Road Traffic Study
+
+    │   └── 104: (list) ¾ Project Description:
+
+    │       ├── 105: (text)   This pro ...... t Updates:
+
+    │       └── 106: (list)  City has entered into a contract with Kimley Horn to perform the traffic study.
+
+    │           └── 107: (text)   Staff   ...... iverables.
+
+    ├── 108: (head) Kanan Dume Biofilter
+
+    │   ├── 109: (list) ¾ Project  Description:
+
+    │   │   └── 110: (text)     This   ...... uirements.
+
+    │   └── 111: (list) ¾
+
+    │       └── 112: (list) Project Updates:
+
+    │           └── 113: (list)  Complete Design:
+
+    │               └── 114: (text)  Spring/Su ......  Fall 2024
+
+    ├── 115: (head) PCH Median Improvements at Paradise Cove and Zuma Beach
+
+    │   ├── 116: (list) ¾ Project Description:
+
+    │   │   └── 117: (text)   This pro ...... installed.
+
+    │   └── 118: (list) ¾ Project Updates:
+
+    │       └── 119: (text)  Staff is  ...... tem # 4.A.
+
+    ├── 120: (head) City Traffic Signals Backup Power
+
+    │   ├── 121: (list) ¾ Project  Description:
+
+    │   │   └── 122: (text)     This   ...... anyon Road
+
+    │   ├── 123: (list) ¾ Updates:
+
+    │   │   └── 124: (text)  Project i ...... sign phase
+
+    │   └── 125: (list) ¾ Project Schedule:
+
+    │       └── 126: (text)  Design is ......  July 2023
+
+    ├── 127: (head) Kanan Dume Biofilter
+
+    │   ├── 128: (list) ¾ Project  Description:
+
+    │   │   └── 129: (text)     This   ...... uirements.
+
+    │   └── 130: (list) ¾ Project Updates:
+
+    │       ├── 131: (list)  Complete Design:
+
+    │       │   └── 132: (text)  Spring/Su ...... ummer 2024
+
+    │       └── 133: (list)  Begin Construction:
+
+    │           └── 134: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 135: (head) Malibu Park Resurfacing Project
+
+    │   ├── 136: (list) ¾ Project Description:
+
+    │   │   └── 137: (text)   This pro ...... ott Drive.
+
+    │   ├── 138: (list) ¾ Updates:
+
+    │   │   └── 139: (list)  Project is currently out to bid and bids are due October 5,
+
+    │   │       └── 140: (text)  2023. ......  2023.
+
+    │   └── 141: (list) ¾ Project Schedule:
+
+    │       ├── 142: (list)  Complete Design:
+
+    │       │   └── 143: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 144: (list)  Advertise:
+
+    │       │   └── 145: (text)  Fall 2024 ......  Fall 2024
+
+    │       └── 146: (list)  Begin Construction:
+
+    │           └── 147: (text)  November  ...... ember 2024
+
+    ├── 148: (head) City Hall Solar Project
+
+    │   ├── 149: (list) ¾ Project  Description:
+
+    │   │   └── 150: (text)     This   ...... City Hall.
+
+    │   ├── 151: (list) ¾ Updates:
+
+    │   │   ├── 152: (list)  The project design was completed in 2018 and then placed on hold.
+
+    │   │   └── 153: (list)  Staff  is  reaching  out  to  consultants  to  review  the  project  and  make recommendations based upon new solar technology.
+
+    │   └── 154: (list) ¾ Project Schedule:
+
+    │       ├── 155: (list)  Complete Design:
+
+    │       │   └── 156: (text)  Spring 20 ...... pring 2024
+
+    │       ├── 157: (list)  Advertise:
+
+    │       │   └── 158: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 159: (list)  Begin Construction:
+
+    │           └── 160: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 161: (head) Harbor Vista Curb Return
+
+    │   ├── 162: (list) ¾ Project Description:
+
+    │   │   └── 163: (text)   This pro ...... tem # 4.A.
+
+    │   ├── 164: (list) ¾
+
+    │   │   └── 165: (list) Updates:
+
+    │   │       ├── 166: (text)   This pr ...... ower pole.
+
+    │   │       └── 167: (list)  SCE has submitted a CDP for this work.
+
+    │   │           └── 168: (text)   Once the ......  the pole.
+
+    │   └── 169: (list) ¾ Project Schedule:
+
+    │       └── 170: DUMMY
+
+    │           ├── 171: (list)  Complete Design:
+
+    │           │   └── 172: (text)  Completed ......  Completed
+
+    │           └── 173: (list)  Advertise:
+
+    │               └── 174: (text)  Dependent ...... n schedule
+
+    ├── 175: (head) Legacy Park Benches and Arbors Renovation
+
+    │   ├── 176: (list) ¾ Project  Description:
+
+    │   │   └── 177: (text)     This   ...... al arbors.
+
+    │   ├── 178: (list) ¾ Updates:
+
+    │   │   └── 179: (text)  This pro ......  19, 2023.
+
+    │   └── 180: (list) ¾
+
+    │       └── 181: (list) Project Schedule:
+
+    │           ├── 182: (list)  Complete Design:
+
+    │           │   └── 183: (text)  Summer 20 ...... r 19, 2023
+
+    │           └── 184: (list)  Begin Construction:
+
+    │               └── 185: (text)  November/ ...... ember 2023
+
+    ├── 186: (head) Citywide Asphalt Concrete Berms Repairs
+
+    │   ├── 187: (list) ¾ Project  Description:
+
+    │   │   ├── 188: (text)     This   ...... ¾ Updates:
+
+    │   │   └── 189: (list)  Staff has started the initial design of this project.
+
+    │   └── 190: (list) ¾ Project Schedule:
+
+    │       ├── 191: (text)   Complet ...... pring 2024
+
+    │       ├── 192: (list)  Advertise:
+
+    │       │   └── 193: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 194: (list)  Begin Construction:
+
+    │           └── 195: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 196: (head) Malibu Bluffs Park Roof Replacement Project
+
+    │   ├── 197: (list) ¾ Project Description:
+
+    │   │   ├── 198: (text)   This pro ...... ¾ Updates:
+
+    │   │   └── 199: (list)  Staff has started the initial design of this project.
+
+    │   ├── 200: (list) ¾
+
+    │   │   ├── 201: (list) Project Schedule:
+
+    │   │   │   └── 202: (text)   Complet ...... inter 2023
+
+    │   │   └── 203: (list)  Advertise:
+
+    │   │       └── 204: (text)  Spring 20 ...... tem # 4.A.
+
+    │   └── 205: (head) Capital Improvement and Disaster Recovery Projects (Construction)
+
+    ├── 206: (head) PCH Signal Synchronization System Improvements Project
+
+    │   ├── 207: (text) ¾ ...... ¾
+
+    │   ├── 208: (list) Updates:
+
+    │   │   └── 209: (text)   The con ...... ovals from
+
+    │   └── 210: (list) the City.
+
+    │       ├── 211: (text)   The con ......  Schedule:
+
+    │       └── 212: (list)  Begin construction:
+
+    │           └── 213: (text)  July 2023 ...... ruary 2025
+
+    ├── 214: (head) Trancas Canyon Park Upper and Lower Slopes Repair
+
+    │   └── 215: (list) ¾ Updates:
+
+    │       ├── 216: (text)   Project ......  July 2023
+
+    │       ├── 217: (list)  Staff is preparing Council Report for this project.
+
+    │       │   └── 218: (text)  ¾ Project ...... inter 2023
+
+    │       └── 219: (list)  Complete Construction:
+
+    │           └── 220: (text)  Winter 20 ...... inter 2023
+
+    ├── 221: (head) Capital Improvement and Disaster Recovery Projects (Completed)
+
+    │   ├── 222: (text) Storm Drai ......  Phase Two
+
+    │   └── 223: (head) Capital Improvement Projects (Not Started)
+
+    ├── 224: (head) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+
+    │   └── 225: (list) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH ¾ Project Description:
+
+    │       ├── 226: (text)  This proj ...... ersection.
+
+    │       └── 227: (list) ¾ Project Updates:
+
+    │           └── 228: (text)   Staff co ...... tem # 4.A.
+
+    ├── 229: (head) PCH at Las Flores and Rambla Pacifico Intersection Improvements
+
+    │   └── 230: (list) PCH at Las Flores and Rambla Pacifico Intersection Improvements ¾ Project Description:
+
+    │       ├── 231: (text)  This proj ...... e M funds.
+
+    │       └── 232: (list) ¾ Project Updates:
+
+    │           └── 233: (text)   Staff co ...... e of work.
+
+    └── 234: (head) Malibu Seafood Undercrossing
+
+        ├── 235: (list) Malibu Seafood Undercrossing ¾ Project Description:
+
+        │   ├── 236: (text)  This proj ...... e M funds.
+
+        │   └── 237: (list) ¾ Project Updates:
+
+        │       └── 238: (text)   Staff co ...... e of work.
+
+        └── 239: (list) Encinal Canyon 60-inch Storm Drain Repairs ¾ Project Description:
+
+            └── 240: (text)  This proj ...... tem # 4.A.
+
+2  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+3  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+4  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+5  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+6  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+7  parent= 6  parent's children= [7, 8]
+8  parent= 6  parent's children= [7, 8]
+9  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+10  parent= 9  parent's children= [10, 11]
+11  parent= 9  parent's children= [10, 11]
+12  parent= 11  parent's children= [12]
+13  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+14  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+15  parent= 14  parent's children= [15]
+16  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+17  parent= 16  parent's children= [17]
+18  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+19  parent= 18  parent's children= [19]
+20  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+21  parent= 20  parent's children= [21]
+22  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+23  parent= 22  parent's children= [23]
+24  parent= 23  parent's children= [24, 27, 29, 31]
+25  parent= 24  parent's children= [25, 26]
+26  parent= 24  parent's children= [25, 26]
+27  parent= 23  parent's children= [24, 27, 29, 31]
+28  parent= 27  parent's children= [28]
+29  parent= 23  parent's children= [24, 27, 29, 31]
+30  parent= 29  parent's children= [30]
+31  parent= 23  parent's children= [24, 27, 29, 31]
+32  parent= 31  parent's children= [32]
+33  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+34  parent= 33  parent's children= [34, 35, 38]
+35  parent= 33  parent's children= [34, 35, 38]
+36  parent= 35  parent's children= [36, 37]
+37  parent= 35  parent's children= [36, 37]
+38  parent= 33  parent's children= [34, 35, 38]
+39  parent= 38  parent's children= [39]
+40  parent= 39  parent's children= [40]
+41  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+42  parent= 41  parent's children= [42]
+43  parent= 42  parent's children= [43, 44, 45, 47, 49]
+44  parent= 42  parent's children= [43, 44, 45, 47, 49]
+45  parent= 42  parent's children= [43, 44, 45, 47, 49]
+46  parent= 45  parent's children= [46]
+47  parent= 42  parent's children= [43, 44, 45, 47, 49]
+48  parent= 47  parent's children= [48]
+49  parent= 42  parent's children= [43, 44, 45, 47, 49]
+50  parent= 49  parent's children= [50]
+51  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+52  parent= 51  parent's children= [52, 53, 54, 56, 58]
+53  parent= 51  parent's children= [52, 53, 54, 56, 58]
+54  parent= 51  parent's children= [52, 53, 54, 56, 58]
+55  parent= 54  parent's children= [55]
+56  parent= 51  parent's children= [52, 53, 54, 56, 58]
+57  parent= 56  parent's children= [57]
+58  parent= 51  parent's children= [52, 53, 54, 56, 58]
+59  parent= 58  parent's children= [59]
+60  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+61  parent= 60  parent's children= [61, 64]
+62  parent= 61  parent's children= [62, 63]
+63  parent= 61  parent's children= [62, 63]
+64  parent= 60  parent's children= [61, 64]
+65  parent= 64  parent's children= [65, 66]
+66  parent= 64  parent's children= [65, 66]
+67  parent= 66  parent's children= [67]
+68  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+69  parent= 68  parent's children= [69]
+70  parent= 69  parent's children= [70, 71, 73]
+71  parent= 69  parent's children= [70, 71, 73]
+72  parent= 71  parent's children= [72]
+73  parent= 69  parent's children= [70, 71, 73]
+74  parent= 73  parent's children= [74]
+75  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+76  parent= 75  parent's children= [76]
+77  parent= 76  parent's children= [77, 79]
+78  parent= 77  parent's children= [78]
+79  parent= 76  parent's children= [77, 79]
+80  parent= 79  parent's children= [80]
+81  parent= 80  parent's children= [81]
+82  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+83  parent= 82  parent's children= [83]
+84  parent= 83  parent's children= [84]
+85  parent= 84  parent's children= [85]
+86  parent= 85  parent's children= [86]
+87  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+88  parent= 87  parent's children= [88, 89, 90, 93]
+89  parent= 87  parent's children= [88, 89, 90, 93]
+90  parent= 87  parent's children= [88, 89, 90, 93]
+91  parent= 90  parent's children= [91, 92]
+92  parent= 90  parent's children= [91, 92]
+93  parent= 87  parent's children= [88, 89, 90, 93]
+94  parent= 93  parent's children= [94]
+95  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+96  parent= 95  parent's children= [96, 99]
+97  parent= 96  parent's children= [97]
+98  parent= 97  parent's children= [98]
+99  parent= 95  parent's children= [96, 99]
+100  parent= 99  parent's children= [100, 101]
+101  parent= 99  parent's children= [100, 101]
+102  parent= 101  parent's children= [102]
+103  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+104  parent= 103  parent's children= [104]
+105  parent= 104  parent's children= [105, 106]
+106  parent= 104  parent's children= [105, 106]
+107  parent= 106  parent's children= [107]
+108  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+109  parent= 108  parent's children= [109, 111]
+110  parent= 109  parent's children= [110]
+111  parent= 108  parent's children= [109, 111]
+112  parent= 111  parent's children= [112]
+113  parent= 112  parent's children= [113]
+114  parent= 113  parent's children= [114]
+115  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+116  parent= 115  parent's children= [116, 118]
+117  parent= 116  parent's children= [117]
+118  parent= 115  parent's children= [116, 118]
+119  parent= 118  parent's children= [119]
+120  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+121  parent= 120  parent's children= [121, 123, 125]
+122  parent= 121  parent's children= [122]
+123  parent= 120  parent's children= [121, 123, 125]
+124  parent= 123  parent's children= [124]
+125  parent= 120  parent's children= [121, 123, 125]
+126  parent= 125  parent's children= [126]
+127  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+128  parent= 127  parent's children= [128, 130]
+129  parent= 128  parent's children= [129]
+130  parent= 127  parent's children= [128, 130]
+131  parent= 130  parent's children= [131, 133]
+132  parent= 131  parent's children= [132]
+133  parent= 130  parent's children= [131, 133]
+134  parent= 133  parent's children= [134]
+135  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+136  parent= 135  parent's children= [136, 138, 141]
+137  parent= 136  parent's children= [137]
+138  parent= 135  parent's children= [136, 138, 141]
+139  parent= 138  parent's children= [139]
+140  parent= 139  parent's children= [140]
+141  parent= 135  parent's children= [136, 138, 141]
+142  parent= 141  parent's children= [142, 144, 146]
+143  parent= 142  parent's children= [143]
+144  parent= 141  parent's children= [142, 144, 146]
+145  parent= 144  parent's children= [145]
+146  parent= 141  parent's children= [142, 144, 146]
+147  parent= 146  parent's children= [147]
+148  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+149  parent= 148  parent's children= [149, 151, 154]
+150  parent= 149  parent's children= [150]
+151  parent= 148  parent's children= [149, 151, 154]
+152  parent= 151  parent's children= [152, 153]
+153  parent= 151  parent's children= [152, 153]
+154  parent= 148  parent's children= [149, 151, 154]
+155  parent= 154  parent's children= [155, 157, 159]
+156  parent= 155  parent's children= [156]
+157  parent= 154  parent's children= [155, 157, 159]
+158  parent= 157  parent's children= [158]
+159  parent= 154  parent's children= [155, 157, 159]
+160  parent= 159  parent's children= [160]
+161  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+162  parent= 161  parent's children= [162, 164, 169]
+163  parent= 162  parent's children= [163]
+164  parent= 161  parent's children= [162, 164, 169]
+165  parent= 164  parent's children= [165]
+166  parent= 165  parent's children= [166, 167]
+167  parent= 165  parent's children= [166, 167]
+168  parent= 167  parent's children= [168]
+169  parent= 161  parent's children= [162, 164, 169]
+170  parent= 169  parent's children= [170]
+171  parent= 170  parent's children= [171, 173]
+172  parent= 171  parent's children= [172]
+173  parent= 170  parent's children= [171, 173]
+174  parent= 173  parent's children= [174]
+175  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+176  parent= 175  parent's children= [176, 178, 180]
+177  parent= 176  parent's children= [177]
+178  parent= 175  parent's children= [176, 178, 180]
+179  parent= 178  parent's children= [179]
+180  parent= 175  parent's children= [176, 178, 180]
+181  parent= 180  parent's children= [181]
+182  parent= 181  parent's children= [182, 184]
+183  parent= 182  parent's children= [183]
+184  parent= 181  parent's children= [182, 184]
+185  parent= 184  parent's children= [185]
+186  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+187  parent= 186  parent's children= [187, 190]
+188  parent= 187  parent's children= [188, 189]
+189  parent= 187  parent's children= [188, 189]
+190  parent= 186  parent's children= [187, 190]
+191  parent= 190  parent's children= [191, 192, 194]
+192  parent= 190  parent's children= [191, 192, 194]
+193  parent= 192  parent's children= [193]
+194  parent= 190  parent's children= [191, 192, 194]
+195  parent= 194  parent's children= [195]
+196  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+197  parent= 196  parent's children= [197, 200, 205]
+198  parent= 197  parent's children= [198, 199]
+199  parent= 197  parent's children= [198, 199]
+200  parent= 196  parent's children= [197, 200, 205]
+201  parent= 200  parent's children= [201, 203]
+202  parent= 201  parent's children= [202]
+203  parent= 200  parent's children= [201, 203]
+204  parent= 203  parent's children= [204]
+205  parent= 196  parent's children= [197, 200, 205]
+206  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+207  parent= 206  parent's children= [207, 208, 210]
+208  parent= 206  parent's children= [207, 208, 210]
+209  parent= 208  parent's children= [209]
+210  parent= 206  parent's children= [207, 208, 210]
+211  parent= 210  parent's children= [211, 212]
+212  parent= 210  parent's children= [211, 212]
+213  parent= 212  parent's children= [213]
+214  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+215  parent= 214  parent's children= [215]
+216  parent= 215  parent's children= [216, 217, 219]
+217  parent= 215  parent's children= [216, 217, 219]
+218  parent= 217  parent's children= [218]
+219  parent= 215  parent's children= [216, 217, 219]
+220  parent= 219  parent's children= [220]
+221  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+222  parent= 221  parent's children= [222, 223]
+223  parent= 221  parent's children= [222, 223]
+224  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+225  parent= 224  parent's children= [225]
+226  parent= 225  parent's children= [226, 227]
+227  parent= 225  parent's children= [226, 227]
+228  parent= 227  parent's children= [228]
+229  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+230  parent= 229  parent's children= [230]
+231  parent= 230  parent's children= [231, 232]
+232  parent= 230  parent's children= [231, 232]
+233  parent= 232  parent's children= [233]
+234  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+235  parent= 234  parent's children= [235, 239]
+236  parent= 235  parent's children= [236, 237]
+237  parent= 235  parent's children= [236, 237]
+238  parent= 237  parent's children= [238]
+239  parent= 234  parent's children= [235, 239]
+240  parent= 239  parent's children= [240]
+Public Works Commission Agenda Report
+[-1]
+Capital Improvement and Disaster Recovery Projects (Design)
+[-1, 1]
+2022 Morning View Resurfacing & Storm Drain Improvements
+[-1, 1, 3]
+g ¾ Updates:
+[-1, 1, 4]
+Westward Beach Road Repair Project
+[-1, 1, 5]
+¾ Updates:
+[-1, 1, 22]
+Westward Beach Road Drainage Improvements Project
+[-1, 1, 22, 23]
+Clover Heights Storm Drainage Improvements
+[-1, 1, 33]
+¾ Updates:
+[-1, 1, 41]
+Latigo Canyon Road Retaining Wall Repair Project
+[-1, 1, 41, 42]
+Civic Center Water Treatment Facility Phase 2
+[-1, 1, 51]
+Permanent Skate Park
+[-1, 1, 60]
+PCH at Trancas Canyon Road Right Turn Lane
+[-1, 1, 68]
+¾ Updates:
+[-1, 1, 75]
+Outdoor Warning Sirens
+[-1, 1, 75, 76]
+Malibu Bluffs Park South Walkway Repairs
+[-1, 1, 82]
+Trancas Canyon Park Playground
+[-1, 1, 87]
+Malibu Canyon Road Traffic Study
+[-1, 1, 95]
+Kanan Dume Biofilter
+[-1, 1, 103]
+PCH Median Improvements at Paradise Cove and Zuma Beach
+[-1, 1, 108]
+City Traffic Signals Backup Power
+[-1, 1, 115]
+Kanan Dume Biofilter
+[-1, 1, 120]
+Malibu Park Resurfacing Project
+[-1, 1, 127]
+City Hall Solar Project
+[-1, 1, 135]
+Harbor Vista Curb Return
+[-1, 1, 148]
+Legacy Park Benches and Arbors Renovation
+[-1, 1, 161]
+Citywide Asphalt Concrete Berms Repairs
+[-1, 1, 175]
+Malibu Bluffs Park Roof Replacement Project
+[-1, 1, 186]
+Capital Improvement and Disaster Recovery Projects (Construction)
+[-1, 1, 196]
+PCH Signal Synchronization System Improvements Project
+[-1, 1, 196, 205]
+Trancas Canyon Park Upper and Lower Slopes Repair
+[-1, 1, 206]
+Capital Improvement and Disaster Recovery Projects (Completed)
+[-1, 1, 214]
+Capital Improvement Projects (Not Started)
+[-1, 1, 221]
+PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+[-1, 1, 221, 223]
+PCH at Las Flores and Rambla Pacifico Intersection Improvements
+[-1, 1, 224]
+Malibu Seafood Undercrossing
+[-1, 1, 229]
+-1: ROOT
+
+├── 0: (text) Public Wor ......  Item 4.A.
+
+└── 1: (head) Public Works Commission Agenda Report
+
+    ├── 2: (text) To: Chair  ...... t Program:
+
+    ├── 3: (head) Capital Improvement and Disaster Recovery Projects (Design)
+
+    ├── 4: (head) 2022 Morning View Resurfacing & Storm Drain Improvements
+
+    ├── 5: (head) g ¾ Updates:
+
+    │   ├── 6: (list)  This project required a LACFCD Permit.
+
+    │   │   ├── 7: (text)    Staff i ...... hool year.
+
+    │   │   └── 8: (list) ¾ Project Schedule:
+
+    │   ├── 9: (list)  Complete Design:
+
+    │   │   ├── 10: (text)  Fall 2023 ...... /June 2024
+
+    │   │   └── 11: (list) PCH Median Improvements Project ¾ Updates:
+
+    │   │       └── 12: (text)   On Sept ...... tem # 4.A.
+
+    │   ├── 13: (list)  Staff has prepared revised project plans and will be providing a copy to Caltrans for final approval.
+
+    │   ├── 14: (list)  Future phases will be dependent upon available funding.
+
+    │   │   └── 15: (list) ¾ Project Schedule:
+
+    │   ├── 16: (list)  Complete Design:
+
+    │   │   └── 17: (text)  Winter 20 ...... inter 2023
+
+    │   ├── 18: (list)  Advertise:
+
+    │   │   └── 19: (text)  Winter 20 ...... inter 2023
+
+    │   └── 20: (list)  Begin Construction:
+
+    │       └── 21: (text)  Spring 20 ...... pring 2024
+
+    ├── 22: (head) Westward Beach Road Repair Project
+
+    │   └── 23: (head) ¾ Updates:
+
+    │       ├── 24: (list)  Project is out to bid with bids due on October 5,
+
+    │       │   ├── 25: (text)  2023 ......  2023
+
+    │       │   └── 26: (list) ¾ Project Schedule:
+
+    │       ├── 27: (list)  Complete Design:
+
+    │       │   └── 28: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 29: (list)  Advertise:
+
+    │       │   └── 30: (text)  Fall 2023 ......  Fall 2023
+
+    │       └── 31: (list)  Begin Construction:
+
+    │           └── 32: (text)  Fall/Wint ...... inter 2023
+
+    ├── 33: (head) Westward Beach Road Drainage Improvements Project
+
+    │   ├── 34: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 35: (list) ¾ Plans and Specifications are 99% complete.
+
+    │   │   ├── 36: (list)  The project received approval from Fish and Wildlife.
+
+    │   │   └── 37: (list)  Staff is working on the CDP application for this project.
+
+    │   └── 38: (list) ¾ Project Schedule:
+
+    │       └── 39: (list)  Advertise:
+
+    │           └── 40: (text)  Winter 20 ......  approval)
+
+    ├── 41: (head) Clover Heights Storm Drainage Improvements
+
+    │   └── 42: (head) ¾ Updates:
+
+    │       ├── 43: (list)  Plans and Specifications are 99% complete.
+
+    │       ├── 44: (list)  City submitted plans to CalOES for review.
+
+    │       ├── 45: (list)  Staff is working on the CDP application for this project.
+
+    │       │   └── 46: (list) ¾ Project Schedule:
+
+    │       ├── 47: (list)  Advertise:
+
+    │       │   └── 48: (text)  Spring 20 ......  approval)
+
+    │       └── 49: (list)  Begin  Construction:
+
+    │           └── 50: (text)   Summer   ......  approval)
+
+    ├── 51: (head) Latigo Canyon Road Retaining Wall Repair Project
+
+    │   ├── 52: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 53: (list)  Plans and specifications have been completed
+
+    │   ├── 54: (list)  Awaiting final FEMA/CalOES approval for scope modification
+
+    │   │   └── 55: (list) ¾ Project Schedule:
+
+    │   ├── 56: (list)  Advertise:
+
+    │   │   └── 57: (text)  (dependen ......  approval)
+
+    │   └── 58: (list)  Begin Construction:
+
+    │       └── 59: (text)  (dependen ...... tem # 4.A.
+
+    ├── 60: (head) Civic Center Water Treatment Facility Phase 2
+
+    │   ├── 61: (list) ¾ Updates:
+
+    │   │   ├── 62: (text)   Staff   ...... pplication
+
+    │   │   └── 63: (list)  Staff has submitted a request for Federal funding
+
+    │   └── 64: (list) ¾ Project Schedule:
+
+    │       ├── 65: (text)  (pending  ...... approval):
+
+    │       └── 66: (list)  Project  is  delayed  due  to  the  Cultural  Resource  review.
+
+    │           └── 67: (text)     Revise ...... es review.
+
+    ├── 68: (head) Permanent Skate Park
+
+    │   └── 69: (list) ¾ Updates:
+
+    │       ├── 70: (list)  Community  Services  is  working  with  their  consultant  to  finalize  the design plans for this project.
+
+    │       ├── 71: (list)  Staff is working on getting the project’s CDP.
+
+    │       │   └── 72: (text)   The proj ......  Schedule:
+
+    │       └── 73: (list)  Complete Design:
+
+    │           └── 74: (text)  Fall/Wine ...... P approval
+
+    ├── 75: (head) PCH at Trancas Canyon Road Right Turn Lane
+
+    │   └── 76: (head) ¾ Updates:
+
+    │       ├── 77: (list) Updates:
+
+    │       │   └── 78: (text)   City  i ......  obtaining
+
+    │       └── 79: (list) CEQA clearance  Project is in review with Caltrans and pending their review based upon CEQA clearance
+
+    │           └── 80: (list) ¾ Estimated Schedule:
+
+    │               └── 81: (list)  Dependent upon
+
+    ├── 82: (head) Outdoor Warning Sirens
+
+    │   └── 83: (list) ¾ Updates:
+
+    │       └── 84: (list)  Project  received  recommendation  from  the  Public  Works  and  Public
+
+    │           └── 85: (list) Safety Commission joint meeting.
+
+    │               └── 86: (text)   Project ...... , meeting.
+
+    ├── 87: (head) Malibu Bluffs Park South Walkway Repairs
+
+    │   ├── 88: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 89: (list)  The project construction documents are being finalized.
+
+    │   ├── 90: (list)  This project is expected to be out to bid by the end of September 2023.
+
+    │   │   ├── 91: (text) ¾ ...... ¾
+
+    │   │   └── 92: (list) Estimated Schedule:
+
+    │   └── 93: (list)  Completed Design:
+
+    │       └── 94: (text)  August 20 ...... tem # 4.A.
+
+    ├── 95: (head) Trancas Canyon Park Playground
+
+    │   ├── 96: (list) ¾
+
+    │   │   └── 97: (list) Updates:
+
+    │   │       └── 98: (text)   Staff   ...... mber 2023.
+
+    │   └── 99: (list) ¾ Estimated Schedule:
+
+    │       ├── 100: (text)   Complet ...... inter 2023
+
+    │       └── 101: (list)  Advertise:
+
+    │           └── 102: (text)  Winter 20 ...... pring 2024
+
+    ├── 103: (head) Malibu Canyon Road Traffic Study
+
+    │   └── 104: (list) ¾ Project Description:
+
+    │       ├── 105: (text)   This pro ...... t Updates:
+
+    │       └── 106: (list)  City has entered into a contract with Kimley Horn to perform the traffic study.
+
+    │           └── 107: (text)   Staff   ...... iverables.
+
+    ├── 108: (head) Kanan Dume Biofilter
+
+    │   ├── 109: (list) ¾ Project  Description:
+
+    │   │   └── 110: (text)     This   ...... uirements.
+
+    │   └── 111: (list) ¾
+
+    │       └── 112: (list) Project Updates:
+
+    │           └── 113: (list)  Complete Design:
+
+    │               └── 114: (text)  Spring/Su ......  Fall 2024
+
+    ├── 115: (head) PCH Median Improvements at Paradise Cove and Zuma Beach
+
+    │   ├── 116: (list) ¾ Project Description:
+
+    │   │   └── 117: (text)   This pro ...... installed.
+
+    │   └── 118: (list) ¾ Project Updates:
+
+    │       └── 119: (text)  Staff is  ...... tem # 4.A.
+
+    ├── 120: (head) City Traffic Signals Backup Power
+
+    │   ├── 121: (list) ¾ Project  Description:
+
+    │   │   └── 122: (text)     This   ...... anyon Road
+
+    │   ├── 123: (list) ¾ Updates:
+
+    │   │   └── 124: (text)  Project i ...... sign phase
+
+    │   └── 125: (list) ¾ Project Schedule:
+
+    │       └── 126: (text)  Design is ......  July 2023
+
+    ├── 127: (head) Kanan Dume Biofilter
+
+    │   ├── 128: (list) ¾ Project  Description:
+
+    │   │   └── 129: (text)     This   ...... uirements.
+
+    │   └── 130: (list) ¾ Project Updates:
+
+    │       ├── 131: (list)  Complete Design:
+
+    │       │   └── 132: (text)  Spring/Su ...... ummer 2024
+
+    │       └── 133: (list)  Begin Construction:
+
+    │           └── 134: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 135: (head) Malibu Park Resurfacing Project
+
+    │   ├── 136: (list) ¾ Project Description:
+
+    │   │   └── 137: (text)   This pro ...... ott Drive.
+
+    │   ├── 138: (list) ¾ Updates:
+
+    │   │   └── 139: (list)  Project is currently out to bid and bids are due October 5,
+
+    │   │       └── 140: (text)  2023. ......  2023.
+
+    │   └── 141: (list) ¾ Project Schedule:
+
+    │       ├── 142: (list)  Complete Design:
+
+    │       │   └── 143: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 144: (list)  Advertise:
+
+    │       │   └── 145: (text)  Fall 2024 ......  Fall 2024
+
+    │       └── 146: (list)  Begin Construction:
+
+    │           └── 147: (text)  November  ...... ember 2024
+
+    ├── 148: (head) City Hall Solar Project
+
+    │   ├── 149: (list) ¾ Project  Description:
+
+    │   │   └── 150: (text)     This   ...... City Hall.
+
+    │   ├── 151: (list) ¾ Updates:
+
+    │   │   ├── 152: (list)  The project design was completed in 2018 and then placed on hold.
+
+    │   │   └── 153: (list)  Staff  is  reaching  out  to  consultants  to  review  the  project  and  make recommendations based upon new solar technology.
+
+    │   └── 154: (list) ¾ Project Schedule:
+
+    │       ├── 155: (list)  Complete Design:
+
+    │       │   └── 156: (text)  Spring 20 ...... pring 2024
+
+    │       ├── 157: (list)  Advertise:
+
+    │       │   └── 158: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 159: (list)  Begin Construction:
+
+    │           └── 160: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 161: (head) Harbor Vista Curb Return
+
+    │   ├── 162: (list) ¾ Project Description:
+
+    │   │   └── 163: (text)   This pro ...... tem # 4.A.
+
+    │   ├── 164: (list) ¾
+
+    │   │   └── 165: (list) Updates:
+
+    │   │       ├── 166: (text)   This pr ...... ower pole.
+
+    │   │       └── 167: (list)  SCE has submitted a CDP for this work.
+
+    │   │           └── 168: (text)   Once the ......  the pole.
+
+    │   └── 169: (list) ¾ Project Schedule:
+
+    │       └── 170: DUMMY
+
+    │           ├── 171: (list)  Complete Design:
+
+    │           │   └── 172: (text)  Completed ......  Completed
+
+    │           └── 173: (list)  Advertise:
+
+    │               └── 174: (text)  Dependent ...... n schedule
+
+    ├── 175: (head) Legacy Park Benches and Arbors Renovation
+
+    │   ├── 176: (list) ¾ Project  Description:
+
+    │   │   └── 177: (text)     This   ...... al arbors.
+
+    │   ├── 178: (list) ¾ Updates:
+
+    │   │   └── 179: (text)  This pro ......  19, 2023.
+
+    │   └── 180: (list) ¾
+
+    │       └── 181: (list) Project Schedule:
+
+    │           ├── 182: (list)  Complete Design:
+
+    │           │   └── 183: (text)  Summer 20 ...... r 19, 2023
+
+    │           └── 184: (list)  Begin Construction:
+
+    │               └── 185: (text)  November/ ...... ember 2023
+
+    ├── 186: (head) Citywide Asphalt Concrete Berms Repairs
+
+    │   ├── 187: (list) ¾ Project  Description:
+
+    │   │   ├── 188: (text)     This   ...... ¾ Updates:
+
+    │   │   └── 189: (list)  Staff has started the initial design of this project.
+
+    │   └── 190: (list) ¾ Project Schedule:
+
+    │       ├── 191: (text)   Complet ...... pring 2024
+
+    │       ├── 192: (list)  Advertise:
+
+    │       │   └── 193: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 194: (list)  Begin Construction:
+
+    │           └── 195: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 196: (head) Malibu Bluffs Park Roof Replacement Project
+
+    │   ├── 197: (list) ¾ Project Description:
+
+    │   │   ├── 198: (text)   This pro ...... ¾ Updates:
+
+    │   │   └── 199: (list)  Staff has started the initial design of this project.
+
+    │   ├── 200: (list) ¾
+
+    │   │   ├── 201: (list) Project Schedule:
+
+    │   │   │   └── 202: (text)   Complet ...... inter 2023
+
+    │   │   └── 203: (list)  Advertise:
+
+    │   │       └── 204: (text)  Spring 20 ...... tem # 4.A.
+
+    │   └── 205: (head) Capital Improvement and Disaster Recovery Projects (Construction)
+
+    ├── 206: (head) PCH Signal Synchronization System Improvements Project
+
+    │   ├── 207: (text) ¾ ...... ¾
+
+    │   ├── 208: (list) Updates:
+
+    │   │   └── 209: (text)   The con ...... ovals from
+
+    │   └── 210: (list) the City.
+
+    │       ├── 211: (text)   The con ......  Schedule:
+
+    │       └── 212: (list)  Begin construction:
+
+    │           └── 213: (text)  July 2023 ...... ruary 2025
+
+    ├── 214: (head) Trancas Canyon Park Upper and Lower Slopes Repair
+
+    │   └── 215: (list) ¾ Updates:
+
+    │       ├── 216: (text)   Project ......  July 2023
+
+    │       ├── 217: (list)  Staff is preparing Council Report for this project.
+
+    │       │   └── 218: (text)  ¾ Project ...... inter 2023
+
+    │       └── 219: (list)  Complete Construction:
+
+    │           └── 220: (text)  Winter 20 ...... inter 2023
+
+    ├── 221: (head) Capital Improvement and Disaster Recovery Projects (Completed)
+
+    │   ├── 222: (text) Storm Drai ......  Phase Two
+
+    │   └── 223: (head) Capital Improvement Projects (Not Started)
+
+    ├── 224: (head) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+
+    │   └── 225: (list) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH ¾ Project Description:
+
+    │       ├── 226: (text)  This proj ...... ersection.
+
+    │       └── 227: (list) ¾ Project Updates:
+
+    │           └── 228: (text)   Staff co ...... tem # 4.A.
+
+    ├── 229: (head) PCH at Las Flores and Rambla Pacifico Intersection Improvements
+
+    │   └── 230: (list) PCH at Las Flores and Rambla Pacifico Intersection Improvements ¾ Project Description:
+
+    │       ├── 231: (text)  This proj ...... e M funds.
+
+    │       └── 232: (list) ¾ Project Updates:
+
+    │           └── 233: (text)   Staff co ...... e of work.
+
+    └── 234: (head) Malibu Seafood Undercrossing
+
+        ├── 235: (list) Malibu Seafood Undercrossing ¾ Project Description:
+
+        │   ├── 236: (text)  This proj ...... e M funds.
+
+        │   └── 237: (list) ¾ Project Updates:
+
+        │       └── 238: (text)   Staff co ...... e of work.
+
+        └── 239: (list) Encinal Canyon 60-inch Storm Drain Repairs ¾ Project Description:
+
+            └── 240: (text)  This proj ...... tem # 4.A.
+
+2  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+3  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+4  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+5  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+6  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+7  parent= 6  parent's children= [7, 8]
+8  parent= 6  parent's children= [7, 8]
+9  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+10  parent= 9  parent's children= [10, 11]
+11  parent= 9  parent's children= [10, 11]
+12  parent= 11  parent's children= [12]
+13  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+14  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+15  parent= 14  parent's children= [15]
+16  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+17  parent= 16  parent's children= [17]
+18  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+19  parent= 18  parent's children= [19]
+20  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+21  parent= 20  parent's children= [21]
+22  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+23  parent= 22  parent's children= [23]
+24  parent= 23  parent's children= [24, 27, 29, 31]
+25  parent= 24  parent's children= [25, 26]
+26  parent= 24  parent's children= [25, 26]
+27  parent= 23  parent's children= [24, 27, 29, 31]
+28  parent= 27  parent's children= [28]
+29  parent= 23  parent's children= [24, 27, 29, 31]
+30  parent= 29  parent's children= [30]
+31  parent= 23  parent's children= [24, 27, 29, 31]
+32  parent= 31  parent's children= [32]
+33  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+34  parent= 33  parent's children= [34, 35, 38]
+35  parent= 33  parent's children= [34, 35, 38]
+36  parent= 35  parent's children= [36, 37]
+37  parent= 35  parent's children= [36, 37]
+38  parent= 33  parent's children= [34, 35, 38]
+39  parent= 38  parent's children= [39]
+40  parent= 39  parent's children= [40]
+41  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+42  parent= 41  parent's children= [42]
+43  parent= 42  parent's children= [43, 44, 45, 47, 49]
+44  parent= 42  parent's children= [43, 44, 45, 47, 49]
+45  parent= 42  parent's children= [43, 44, 45, 47, 49]
+46  parent= 45  parent's children= [46]
+47  parent= 42  parent's children= [43, 44, 45, 47, 49]
+48  parent= 47  parent's children= [48]
+49  parent= 42  parent's children= [43, 44, 45, 47, 49]
+50  parent= 49  parent's children= [50]
+51  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+52  parent= 51  parent's children= [52, 53, 54, 56, 58]
+53  parent= 51  parent's children= [52, 53, 54, 56, 58]
+54  parent= 51  parent's children= [52, 53, 54, 56, 58]
+55  parent= 54  parent's children= [55]
+56  parent= 51  parent's children= [52, 53, 54, 56, 58]
+57  parent= 56  parent's children= [57]
+58  parent= 51  parent's children= [52, 53, 54, 56, 58]
+59  parent= 58  parent's children= [59]
+60  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+61  parent= 60  parent's children= [61, 64]
+62  parent= 61  parent's children= [62, 63]
+63  parent= 61  parent's children= [62, 63]
+64  parent= 60  parent's children= [61, 64]
+65  parent= 64  parent's children= [65, 66]
+66  parent= 64  parent's children= [65, 66]
+67  parent= 66  parent's children= [67]
+68  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+69  parent= 68  parent's children= [69]
+70  parent= 69  parent's children= [70, 71, 73]
+71  parent= 69  parent's children= [70, 71, 73]
+72  parent= 71  parent's children= [72]
+73  parent= 69  parent's children= [70, 71, 73]
+74  parent= 73  parent's children= [74]
+75  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+76  parent= 75  parent's children= [76]
+77  parent= 76  parent's children= [77, 79]
+78  parent= 77  parent's children= [78]
+79  parent= 76  parent's children= [77, 79]
+80  parent= 79  parent's children= [80]
+81  parent= 80  parent's children= [81]
+82  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+83  parent= 82  parent's children= [83]
+84  parent= 83  parent's children= [84]
+85  parent= 84  parent's children= [85]
+86  parent= 85  parent's children= [86]
+87  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+88  parent= 87  parent's children= [88, 89, 90, 93]
+89  parent= 87  parent's children= [88, 89, 90, 93]
+90  parent= 87  parent's children= [88, 89, 90, 93]
+91  parent= 90  parent's children= [91, 92]
+92  parent= 90  parent's children= [91, 92]
+93  parent= 87  parent's children= [88, 89, 90, 93]
+94  parent= 93  parent's children= [94]
+95  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+96  parent= 95  parent's children= [96, 99]
+97  parent= 96  parent's children= [97]
+98  parent= 97  parent's children= [98]
+99  parent= 95  parent's children= [96, 99]
+100  parent= 99  parent's children= [100, 101]
+101  parent= 99  parent's children= [100, 101]
+102  parent= 101  parent's children= [102]
+103  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+104  parent= 103  parent's children= [104]
+105  parent= 104  parent's children= [105, 106]
+106  parent= 104  parent's children= [105, 106]
+107  parent= 106  parent's children= [107]
+108  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+109  parent= 108  parent's children= [109, 111]
+110  parent= 109  parent's children= [110]
+111  parent= 108  parent's children= [109, 111]
+112  parent= 111  parent's children= [112]
+113  parent= 112  parent's children= [113]
+114  parent= 113  parent's children= [114]
+115  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+116  parent= 115  parent's children= [116, 118]
+117  parent= 116  parent's children= [117]
+118  parent= 115  parent's children= [116, 118]
+119  parent= 118  parent's children= [119]
+120  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+121  parent= 120  parent's children= [121, 123, 125]
+122  parent= 121  parent's children= [122]
+123  parent= 120  parent's children= [121, 123, 125]
+124  parent= 123  parent's children= [124]
+125  parent= 120  parent's children= [121, 123, 125]
+126  parent= 125  parent's children= [126]
+127  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+128  parent= 127  parent's children= [128, 130]
+129  parent= 128  parent's children= [129]
+130  parent= 127  parent's children= [128, 130]
+131  parent= 130  parent's children= [131, 133]
+132  parent= 131  parent's children= [132]
+133  parent= 130  parent's children= [131, 133]
+134  parent= 133  parent's children= [134]
+135  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+136  parent= 135  parent's children= [136, 138, 141]
+137  parent= 136  parent's children= [137]
+138  parent= 135  parent's children= [136, 138, 141]
+139  parent= 138  parent's children= [139]
+140  parent= 139  parent's children= [140]
+141  parent= 135  parent's children= [136, 138, 141]
+142  parent= 141  parent's children= [142, 144, 146]
+143  parent= 142  parent's children= [143]
+144  parent= 141  parent's children= [142, 144, 146]
+145  parent= 144  parent's children= [145]
+146  parent= 141  parent's children= [142, 144, 146]
+147  parent= 146  parent's children= [147]
+148  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+149  parent= 148  parent's children= [149, 151, 154]
+150  parent= 149  parent's children= [150]
+151  parent= 148  parent's children= [149, 151, 154]
+152  parent= 151  parent's children= [152, 153]
+153  parent= 151  parent's children= [152, 153]
+154  parent= 148  parent's children= [149, 151, 154]
+155  parent= 154  parent's children= [155, 157, 159]
+156  parent= 155  parent's children= [156]
+157  parent= 154  parent's children= [155, 157, 159]
+158  parent= 157  parent's children= [158]
+159  parent= 154  parent's children= [155, 157, 159]
+160  parent= 159  parent's children= [160]
+161  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+162  parent= 161  parent's children= [162, 164, 169]
+163  parent= 162  parent's children= [163]
+164  parent= 161  parent's children= [162, 164, 169]
+165  parent= 164  parent's children= [165]
+166  parent= 165  parent's children= [166, 167]
+167  parent= 165  parent's children= [166, 167]
+168  parent= 167  parent's children= [168]
+169  parent= 161  parent's children= [162, 164, 169]
+170  parent= 169  parent's children= [170]
+171  parent= 170  parent's children= [171, 173]
+172  parent= 171  parent's children= [172]
+173  parent= 170  parent's children= [171, 173]
+174  parent= 173  parent's children= [174]
+175  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+176  parent= 175  parent's children= [176, 178, 180]
+177  parent= 176  parent's children= [177]
+178  parent= 175  parent's children= [176, 178, 180]
+179  parent= 178  parent's children= [179]
+180  parent= 175  parent's children= [176, 178, 180]
+181  parent= 180  parent's children= [181]
+182  parent= 181  parent's children= [182, 184]
+183  parent= 182  parent's children= [183]
+184  parent= 181  parent's children= [182, 184]
+185  parent= 184  parent's children= [185]
+186  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+187  parent= 186  parent's children= [187, 190]
+188  parent= 187  parent's children= [188, 189]
+189  parent= 187  parent's children= [188, 189]
+190  parent= 186  parent's children= [187, 190]
+191  parent= 190  parent's children= [191, 192, 194]
+192  parent= 190  parent's children= [191, 192, 194]
+193  parent= 192  parent's children= [193]
+194  parent= 190  parent's children= [191, 192, 194]
+195  parent= 194  parent's children= [195]
+196  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+197  parent= 196  parent's children= [197, 200, 205]
+198  parent= 197  parent's children= [198, 199]
+199  parent= 197  parent's children= [198, 199]
+200  parent= 196  parent's children= [197, 200, 205]
+201  parent= 200  parent's children= [201, 203]
+202  parent= 201  parent's children= [202]
+203  parent= 200  parent's children= [201, 203]
+204  parent= 203  parent's children= [204]
+205  parent= 196  parent's children= [197, 200, 205]
+206  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+207  parent= 206  parent's children= [207, 208, 210]
+208  parent= 206  parent's children= [207, 208, 210]
+209  parent= 208  parent's children= [209]
+210  parent= 206  parent's children= [207, 208, 210]
+211  parent= 210  parent's children= [211, 212]
+212  parent= 210  parent's children= [211, 212]
+213  parent= 212  parent's children= [213]
+214  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+215  parent= 214  parent's children= [215]
+216  parent= 215  parent's children= [216, 217, 219]
+217  parent= 215  parent's children= [216, 217, 219]
+218  parent= 217  parent's children= [218]
+219  parent= 215  parent's children= [216, 217, 219]
+220  parent= 219  parent's children= [220]
+221  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+222  parent= 221  parent's children= [222, 223]
+223  parent= 221  parent's children= [222, 223]
+224  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+225  parent= 224  parent's children= [225]
+226  parent= 225  parent's children= [226, 227]
+227  parent= 225  parent's children= [226, 227]
+228  parent= 227  parent's children= [228]
+229  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+230  parent= 229  parent's children= [230]
+231  parent= 230  parent's children= [231, 232]
+232  parent= 230  parent's children= [231, 232]
+233  parent= 232  parent's children= [233]
+234  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+235  parent= 234  parent's children= [235, 239]
+236  parent= 235  parent's children= [236, 237]
+237  parent= 235  parent's children= [236, 237]
+238  parent= 237  parent's children= [238]
+239  parent= 234  parent's children= [235, 239]
+240  parent= 239  parent's children= [240]
+Public Works Commission Agenda Report
+[-1]
+Capital Improvement and Disaster Recovery Projects (Design)
+[-1, 1]
+2022 Morning View Resurfacing & Storm Drain Improvements
+[-1, 1, 3]
+g ¾ Updates:
+[-1, 1, 4]
+Westward Beach Road Repair Project
+[-1, 1, 5]
+¾ Updates:
+[-1, 1, 22]
+Westward Beach Road Drainage Improvements Project
+[-1, 1, 22, 23]
+Clover Heights Storm Drainage Improvements
+[-1, 1, 33]
+¾ Updates:
+[-1, 1, 41]
+Latigo Canyon Road Retaining Wall Repair Project
+[-1, 1, 41, 42]
+Civic Center Water Treatment Facility Phase 2
+[-1, 1, 51]
+Permanent Skate Park
+[-1, 1, 60]
+PCH at Trancas Canyon Road Right Turn Lane
+[-1, 1, 68]
+¾ Updates:
+[-1, 1, 75]
+Outdoor Warning Sirens
+[-1, 1, 75, 76]
+Malibu Bluffs Park South Walkway Repairs
+[-1, 1, 82]
+Trancas Canyon Park Playground
+[-1, 1, 87]
+Malibu Canyon Road Traffic Study
+[-1, 1, 95]
+Kanan Dume Biofilter
+[-1, 1, 103]
+PCH Median Improvements at Paradise Cove and Zuma Beach
+[-1, 1, 108]
+City Traffic Signals Backup Power
+[-1, 1, 115]
+Kanan Dume Biofilter
+[-1, 1, 120]
+Malibu Park Resurfacing Project
+[-1, 1, 127]
+City Hall Solar Project
+[-1, 1, 135]
+Harbor Vista Curb Return
+[-1, 1, 148]
+Legacy Park Benches and Arbors Renovation
+[-1, 1, 161]
+Citywide Asphalt Concrete Berms Repairs
+[-1, 1, 175]
+Malibu Bluffs Park Roof Replacement Project
+[-1, 1, 186]
+Capital Improvement and Disaster Recovery Projects (Construction)
+[-1, 1, 196]
+PCH Signal Synchronization System Improvements Project
+[-1, 1, 196, 205]
+Trancas Canyon Park Upper and Lower Slopes Repair
+[-1, 1, 206]
+Capital Improvement and Disaster Recovery Projects (Completed)
+[-1, 1, 214]
+Capital Improvement Projects (Not Started)
+[-1, 1, 221]
+PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+[-1, 1, 221, 223]
+PCH at Las Flores and Rambla Pacifico Intersection Improvements
+[-1, 1, 224]
+Malibu Seafood Undercrossing
+[-1, 1, 229]
+-1: ROOT
+
+├── 0: (text) Public Wor ......  Item 4.A.
+
+└── 1: (head) Public Works Commission Agenda Report
+
+    ├── 2: (text) To: Chair  ...... t Program:
+
+    ├── 3: (head) Capital Improvement and Disaster Recovery Projects (Design)
+
+    ├── 4: (head) 2022 Morning View Resurfacing & Storm Drain Improvements
+
+    ├── 5: (head) g ¾ Updates:
+
+    │   ├── 6: (list)  This project required a LACFCD Permit.
+
+    │   │   ├── 7: (text)    Staff i ...... hool year.
+
+    │   │   └── 8: (list) ¾ Project Schedule:
+
+    │   ├── 9: (list)  Complete Design:
+
+    │   │   ├── 10: (text)  Fall 2023 ...... /June 2024
+
+    │   │   └── 11: (list) PCH Median Improvements Project ¾ Updates:
+
+    │   │       └── 12: (text)   On Sept ...... tem # 4.A.
+
+    │   ├── 13: (list)  Staff has prepared revised project plans and will be providing a copy to Caltrans for final approval.
+
+    │   ├── 14: (list)  Future phases will be dependent upon available funding.
+
+    │   │   └── 15: (list) ¾ Project Schedule:
+
+    │   ├── 16: (list)  Complete Design:
+
+    │   │   └── 17: (text)  Winter 20 ...... inter 2023
+
+    │   ├── 18: (list)  Advertise:
+
+    │   │   └── 19: (text)  Winter 20 ...... inter 2023
+
+    │   └── 20: (list)  Begin Construction:
+
+    │       └── 21: (text)  Spring 20 ...... pring 2024
+
+    ├── 22: (head) Westward Beach Road Repair Project
+
+    │   └── 23: (head) ¾ Updates:
+
+    │       ├── 24: (list)  Project is out to bid with bids due on October 5,
+
+    │       │   ├── 25: (text)  2023 ......  2023
+
+    │       │   └── 26: (list) ¾ Project Schedule:
+
+    │       ├── 27: (list)  Complete Design:
+
+    │       │   └── 28: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 29: (list)  Advertise:
+
+    │       │   └── 30: (text)  Fall 2023 ......  Fall 2023
+
+    │       └── 31: (list)  Begin Construction:
+
+    │           └── 32: (text)  Fall/Wint ...... inter 2023
+
+    ├── 33: (head) Westward Beach Road Drainage Improvements Project
+
+    │   ├── 34: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 35: (list) ¾ Plans and Specifications are 99% complete.
+
+    │   │   ├── 36: (list)  The project received approval from Fish and Wildlife.
+
+    │   │   └── 37: (list)  Staff is working on the CDP application for this project.
+
+    │   └── 38: (list) ¾ Project Schedule:
+
+    │       └── 39: (list)  Advertise:
+
+    │           └── 40: (text)  Winter 20 ......  approval)
+
+    ├── 41: (head) Clover Heights Storm Drainage Improvements
+
+    │   └── 42: (head) ¾ Updates:
+
+    │       ├── 43: (list)  Plans and Specifications are 99% complete.
+
+    │       ├── 44: (list)  City submitted plans to CalOES for review.
+
+    │       ├── 45: (list)  Staff is working on the CDP application for this project.
+
+    │       │   └── 46: (list) ¾ Project Schedule:
+
+    │       ├── 47: (list)  Advertise:
+
+    │       │   └── 48: (text)  Spring 20 ......  approval)
+
+    │       └── 49: (list)  Begin  Construction:
+
+    │           └── 50: (text)   Summer   ......  approval)
+
+    ├── 51: (head) Latigo Canyon Road Retaining Wall Repair Project
+
+    │   ├── 52: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 53: (list)  Plans and specifications have been completed
+
+    │   ├── 54: (list)  Awaiting final FEMA/CalOES approval for scope modification
+
+    │   │   └── 55: (list) ¾ Project Schedule:
+
+    │   ├── 56: (list)  Advertise:
+
+    │   │   └── 57: (text)  (dependen ......  approval)
+
+    │   └── 58: (list)  Begin Construction:
+
+    │       └── 59: (text)  (dependen ...... tem # 4.A.
+
+    ├── 60: (head) Civic Center Water Treatment Facility Phase 2
+
+    │   ├── 61: (list) ¾ Updates:
+
+    │   │   ├── 62: (text)   Staff   ...... pplication
+
+    │   │   └── 63: (list)  Staff has submitted a request for Federal funding
+
+    │   └── 64: (list) ¾ Project Schedule:
+
+    │       ├── 65: (text)  (pending  ...... approval):
+
+    │       └── 66: (list)  Project  is  delayed  due  to  the  Cultural  Resource  review.
+
+    │           └── 67: (text)     Revise ...... es review.
+
+    ├── 68: (head) Permanent Skate Park
+
+    │   └── 69: (list) ¾ Updates:
+
+    │       ├── 70: (list)  Community  Services  is  working  with  their  consultant  to  finalize  the design plans for this project.
+
+    │       ├── 71: (list)  Staff is working on getting the project’s CDP.
+
+    │       │   └── 72: (text)   The proj ......  Schedule:
+
+    │       └── 73: (list)  Complete Design:
+
+    │           └── 74: (text)  Fall/Wine ...... P approval
+
+    ├── 75: (head) PCH at Trancas Canyon Road Right Turn Lane
+
+    │   └── 76: (head) ¾ Updates:
+
+    │       ├── 77: (list) Updates:
+
+    │       │   └── 78: (text)   City  i ......  obtaining
+
+    │       └── 79: (list) CEQA clearance  Project is in review with Caltrans and pending their review based upon CEQA clearance
+
+    │           └── 80: (list) ¾ Estimated Schedule:
+
+    │               └── 81: (list)  Dependent upon
+
+    ├── 82: (head) Outdoor Warning Sirens
+
+    │   └── 83: (list) ¾ Updates:
+
+    │       └── 84: (list)  Project  received  recommendation  from  the  Public  Works  and  Public
+
+    │           └── 85: (list) Safety Commission joint meeting.
+
+    │               └── 86: (text)   Project ...... , meeting.
+
+    ├── 87: (head) Malibu Bluffs Park South Walkway Repairs
+
+    │   ├── 88: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 89: (list)  The project construction documents are being finalized.
+
+    │   ├── 90: (list)  This project is expected to be out to bid by the end of September 2023.
+
+    │   │   ├── 91: (text) ¾ ...... ¾
+
+    │   │   └── 92: (list) Estimated Schedule:
+
+    │   └── 93: (list)  Completed Design:
+
+    │       └── 94: (text)  August 20 ...... tem # 4.A.
+
+    ├── 95: (head) Trancas Canyon Park Playground
+
+    │   ├── 96: (list) ¾
+
+    │   │   └── 97: (list) Updates:
+
+    │   │       └── 98: (text)   Staff   ...... mber 2023.
+
+    │   └── 99: (list) ¾ Estimated Schedule:
+
+    │       ├── 100: (text)   Complet ...... inter 2023
+
+    │       └── 101: (list)  Advertise:
+
+    │           └── 102: (text)  Winter 20 ...... pring 2024
+
+    ├── 103: (head) Malibu Canyon Road Traffic Study
+
+    │   └── 104: (list) ¾ Project Description:
+
+    │       ├── 105: (text)   This pro ...... t Updates:
+
+    │       └── 106: (list)  City has entered into a contract with Kimley Horn to perform the traffic study.
+
+    │           └── 107: (text)   Staff   ...... iverables.
+
+    ├── 108: (head) Kanan Dume Biofilter
+
+    │   ├── 109: (list) ¾ Project  Description:
+
+    │   │   └── 110: (text)     This   ...... uirements.
+
+    │   └── 111: (list) ¾
+
+    │       └── 112: (list) Project Updates:
+
+    │           └── 113: (list)  Complete Design:
+
+    │               └── 114: (text)  Spring/Su ......  Fall 2024
+
+    ├── 115: (head) PCH Median Improvements at Paradise Cove and Zuma Beach
+
+    │   ├── 116: (list) ¾ Project Description:
+
+    │   │   └── 117: (text)   This pro ...... installed.
+
+    │   └── 118: (list) ¾ Project Updates:
+
+    │       └── 119: (text)  Staff is  ...... tem # 4.A.
+
+    ├── 120: (head) City Traffic Signals Backup Power
+
+    │   ├── 121: (list) ¾ Project  Description:
+
+    │   │   └── 122: (text)     This   ...... anyon Road
+
+    │   ├── 123: (list) ¾ Updates:
+
+    │   │   └── 124: (text)  Project i ...... sign phase
+
+    │   └── 125: (list) ¾ Project Schedule:
+
+    │       └── 126: (text)  Design is ......  July 2023
+
+    ├── 127: (head) Kanan Dume Biofilter
+
+    │   ├── 128: (list) ¾ Project  Description:
+
+    │   │   └── 129: (text)     This   ...... uirements.
+
+    │   └── 130: (list) ¾ Project Updates:
+
+    │       ├── 131: (list)  Complete Design:
+
+    │       │   └── 132: (text)  Spring/Su ...... ummer 2024
+
+    │       └── 133: (list)  Begin Construction:
+
+    │           └── 134: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 135: (head) Malibu Park Resurfacing Project
+
+    │   ├── 136: (list) ¾ Project Description:
+
+    │   │   └── 137: (text)   This pro ...... ott Drive.
+
+    │   ├── 138: (list) ¾ Updates:
+
+    │   │   └── 139: (list)  Project is currently out to bid and bids are due October 5,
+
+    │   │       └── 140: (text)  2023. ......  2023.
+
+    │   └── 141: (list) ¾ Project Schedule:
+
+    │       ├── 142: (list)  Complete Design:
+
+    │       │   └── 143: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 144: (list)  Advertise:
+
+    │       │   └── 145: (text)  Fall 2024 ......  Fall 2024
+
+    │       └── 146: (list)  Begin Construction:
+
+    │           └── 147: (text)  November  ...... ember 2024
+
+    ├── 148: (head) City Hall Solar Project
+
+    │   ├── 149: (list) ¾ Project  Description:
+
+    │   │   └── 150: (text)     This   ...... City Hall.
+
+    │   ├── 151: (list) ¾ Updates:
+
+    │   │   ├── 152: (list)  The project design was completed in 2018 and then placed on hold.
+
+    │   │   └── 153: (list)  Staff  is  reaching  out  to  consultants  to  review  the  project  and  make recommendations based upon new solar technology.
+
+    │   └── 154: (list) ¾ Project Schedule:
+
+    │       ├── 155: (list)  Complete Design:
+
+    │       │   └── 156: (text)  Spring 20 ...... pring 2024
+
+    │       ├── 157: (list)  Advertise:
+
+    │       │   └── 158: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 159: (list)  Begin Construction:
+
+    │           └── 160: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 161: (head) Harbor Vista Curb Return
+
+    │   ├── 162: (list) ¾ Project Description:
+
+    │   │   └── 163: (text)   This pro ...... tem # 4.A.
+
+    │   ├── 164: (list) ¾
+
+    │   │   └── 165: (list) Updates:
+
+    │   │       ├── 166: (text)   This pr ...... ower pole.
+
+    │   │       └── 167: (list)  SCE has submitted a CDP for this work.
+
+    │   │           └── 168: (text)   Once the ......  the pole.
+
+    │   └── 169: (list) ¾ Project Schedule:
+
+    │       └── 170: DUMMY
+
+    │           ├── 171: (list)  Complete Design:
+
+    │           │   └── 172: (text)  Completed ......  Completed
+
+    │           └── 173: (list)  Advertise:
+
+    │               └── 174: (text)  Dependent ...... n schedule
+
+    ├── 175: (head) Legacy Park Benches and Arbors Renovation
+
+    │   ├── 176: (list) ¾ Project  Description:
+
+    │   │   └── 177: (text)     This   ...... al arbors.
+
+    │   ├── 178: (list) ¾ Updates:
+
+    │   │   └── 179: (text)  This pro ......  19, 2023.
+
+    │   └── 180: (list) ¾
+
+    │       └── 181: (list) Project Schedule:
+
+    │           ├── 182: (list)  Complete Design:
+
+    │           │   └── 183: (text)  Summer 20 ...... r 19, 2023
+
+    │           └── 184: (list)  Begin Construction:
+
+    │               └── 185: (text)  November/ ...... ember 2023
+
+    ├── 186: (head) Citywide Asphalt Concrete Berms Repairs
+
+    │   ├── 187: (list) ¾ Project  Description:
+
+    │   │   ├── 188: (text)     This   ...... ¾ Updates:
+
+    │   │   └── 189: (list)  Staff has started the initial design of this project.
+
+    │   └── 190: (list) ¾ Project Schedule:
+
+    │       ├── 191: (text)   Complet ...... pring 2024
+
+    │       ├── 192: (list)  Advertise:
+
+    │       │   └── 193: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 194: (list)  Begin Construction:
+
+    │           └── 195: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 196: (head) Malibu Bluffs Park Roof Replacement Project
+
+    │   ├── 197: (list) ¾ Project Description:
+
+    │   │   ├── 198: (text)   This pro ...... ¾ Updates:
+
+    │   │   └── 199: (list)  Staff has started the initial design of this project.
+
+    │   ├── 200: (list) ¾
+
+    │   │   ├── 201: (list) Project Schedule:
+
+    │   │   │   └── 202: (text)   Complet ...... inter 2023
+
+    │   │   └── 203: (list)  Advertise:
+
+    │   │       └── 204: (text)  Spring 20 ...... tem # 4.A.
+
+    │   └── 205: (head) Capital Improvement and Disaster Recovery Projects (Construction)
+
+    ├── 206: (head) PCH Signal Synchronization System Improvements Project
+
+    │   ├── 207: (text) ¾ ...... ¾
+
+    │   ├── 208: (list) Updates:
+
+    │   │   └── 209: (text)   The con ...... ovals from
+
+    │   └── 210: (list) the City.
+
+    │       ├── 211: (text)   The con ......  Schedule:
+
+    │       └── 212: (list)  Begin construction:
+
+    │           └── 213: (text)  July 2023 ...... ruary 2025
+
+    ├── 214: (head) Trancas Canyon Park Upper and Lower Slopes Repair
+
+    │   └── 215: (list) ¾ Updates:
+
+    │       ├── 216: (text)   Project ......  July 2023
+
+    │       ├── 217: (list)  Staff is preparing Council Report for this project.
+
+    │       │   └── 218: (text)  ¾ Project ...... inter 2023
+
+    │       └── 219: (list)  Complete Construction:
+
+    │           └── 220: (text)  Winter 20 ...... inter 2023
+
+    ├── 221: (head) Capital Improvement and Disaster Recovery Projects (Completed)
+
+    │   ├── 222: (text) Storm Drai ......  Phase Two
+
+    │   └── 223: (head) Capital Improvement Projects (Not Started)
+
+    ├── 224: (head) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+
+    │   └── 225: (list) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH ¾ Project Description:
+
+    │       ├── 226: (text)  This proj ...... ersection.
+
+    │       └── 227: (list) ¾ Project Updates:
+
+    │           └── 228: (text)   Staff co ...... tem # 4.A.
+
+    ├── 229: (head) PCH at Las Flores and Rambla Pacifico Intersection Improvements
+
+    │   └── 230: (list) PCH at Las Flores and Rambla Pacifico Intersection Improvements ¾ Project Description:
+
+    │       ├── 231: (text)  This proj ...... e M funds.
+
+    │       └── 232: (list) ¾ Project Updates:
+
+    │           └── 233: (text)   Staff co ...... e of work.
+
+    └── 234: (head) Malibu Seafood Undercrossing
+
+        ├── 235: (list) Malibu Seafood Undercrossing ¾ Project Description:
+
+        │   ├── 236: (text)  This proj ...... e M funds.
+
+        │   └── 237: (list) ¾ Project Updates:
+
+        │       └── 238: (text)   Staff co ...... e of work.
+
+        └── 239: (list) Encinal Canyon 60-inch Storm Drain Repairs ¾ Project Description:
+
+            └── 240: (text)  This proj ...... tem # 4.A.
+
+2  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+3  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+4  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+5  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+6  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+7  parent= 6  parent's children= [7, 8]
+8  parent= 6  parent's children= [7, 8]
+9  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+10  parent= 9  parent's children= [10, 11]
+11  parent= 9  parent's children= [10, 11]
+12  parent= 11  parent's children= [12]
+13  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+14  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+15  parent= 14  parent's children= [15]
+16  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+17  parent= 16  parent's children= [17]
+18  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+19  parent= 18  parent's children= [19]
+20  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+21  parent= 20  parent's children= [21]
+22  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+23  parent= 22  parent's children= [23]
+24  parent= 23  parent's children= [24, 27, 29, 31]
+25  parent= 24  parent's children= [25, 26]
+26  parent= 24  parent's children= [25, 26]
+27  parent= 23  parent's children= [24, 27, 29, 31]
+28  parent= 27  parent's children= [28]
+29  parent= 23  parent's children= [24, 27, 29, 31]
+30  parent= 29  parent's children= [30]
+31  parent= 23  parent's children= [24, 27, 29, 31]
+32  parent= 31  parent's children= [32]
+33  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+34  parent= 33  parent's children= [34, 35, 38]
+35  parent= 33  parent's children= [34, 35, 38]
+36  parent= 35  parent's children= [36, 37]
+37  parent= 35  parent's children= [36, 37]
+38  parent= 33  parent's children= [34, 35, 38]
+39  parent= 38  parent's children= [39]
+40  parent= 39  parent's children= [40]
+41  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+42  parent= 41  parent's children= [42]
+43  parent= 42  parent's children= [43, 44, 45, 47, 49]
+44  parent= 42  parent's children= [43, 44, 45, 47, 49]
+45  parent= 42  parent's children= [43, 44, 45, 47, 49]
+46  parent= 45  parent's children= [46]
+47  parent= 42  parent's children= [43, 44, 45, 47, 49]
+48  parent= 47  parent's children= [48]
+49  parent= 42  parent's children= [43, 44, 45, 47, 49]
+50  parent= 49  parent's children= [50]
+51  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+52  parent= 51  parent's children= [52, 53, 54, 56, 58]
+53  parent= 51  parent's children= [52, 53, 54, 56, 58]
+54  parent= 51  parent's children= [52, 53, 54, 56, 58]
+55  parent= 54  parent's children= [55]
+56  parent= 51  parent's children= [52, 53, 54, 56, 58]
+57  parent= 56  parent's children= [57]
+58  parent= 51  parent's children= [52, 53, 54, 56, 58]
+59  parent= 58  parent's children= [59]
+60  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+61  parent= 60  parent's children= [61, 64]
+62  parent= 61  parent's children= [62, 63]
+63  parent= 61  parent's children= [62, 63]
+64  parent= 60  parent's children= [61, 64]
+65  parent= 64  parent's children= [65, 66]
+66  parent= 64  parent's children= [65, 66]
+67  parent= 66  parent's children= [67]
+68  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+69  parent= 68  parent's children= [69]
+70  parent= 69  parent's children= [70, 71, 73]
+71  parent= 69  parent's children= [70, 71, 73]
+72  parent= 71  parent's children= [72]
+73  parent= 69  parent's children= [70, 71, 73]
+74  parent= 73  parent's children= [74]
+75  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+76  parent= 75  parent's children= [76]
+77  parent= 76  parent's children= [77, 79]
+78  parent= 77  parent's children= [78]
+79  parent= 76  parent's children= [77, 79]
+80  parent= 79  parent's children= [80]
+81  parent= 80  parent's children= [81]
+82  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+83  parent= 82  parent's children= [83]
+84  parent= 83  parent's children= [84]
+85  parent= 84  parent's children= [85]
+86  parent= 85  parent's children= [86]
+87  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+88  parent= 87  parent's children= [88, 89, 90, 93]
+89  parent= 87  parent's children= [88, 89, 90, 93]
+90  parent= 87  parent's children= [88, 89, 90, 93]
+91  parent= 90  parent's children= [91, 92]
+92  parent= 90  parent's children= [91, 92]
+93  parent= 87  parent's children= [88, 89, 90, 93]
+94  parent= 93  parent's children= [94]
+95  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+96  parent= 95  parent's children= [96, 99]
+97  parent= 96  parent's children= [97]
+98  parent= 97  parent's children= [98]
+99  parent= 95  parent's children= [96, 99]
+100  parent= 99  parent's children= [100, 101]
+101  parent= 99  parent's children= [100, 101]
+102  parent= 101  parent's children= [102]
+103  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+104  parent= 103  parent's children= [104]
+105  parent= 104  parent's children= [105, 106]
+106  parent= 104  parent's children= [105, 106]
+107  parent= 106  parent's children= [107]
+108  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+109  parent= 108  parent's children= [109, 111]
+110  parent= 109  parent's children= [110]
+111  parent= 108  parent's children= [109, 111]
+112  parent= 111  parent's children= [112]
+113  parent= 112  parent's children= [113]
+114  parent= 113  parent's children= [114]
+115  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+116  parent= 115  parent's children= [116, 118]
+117  parent= 116  parent's children= [117]
+118  parent= 115  parent's children= [116, 118]
+119  parent= 118  parent's children= [119]
+120  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+121  parent= 120  parent's children= [121, 123, 125]
+122  parent= 121  parent's children= [122]
+123  parent= 120  parent's children= [121, 123, 125]
+124  parent= 123  parent's children= [124]
+125  parent= 120  parent's children= [121, 123, 125]
+126  parent= 125  parent's children= [126]
+127  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+128  parent= 127  parent's children= [128, 130]
+129  parent= 128  parent's children= [129]
+130  parent= 127  parent's children= [128, 130]
+131  parent= 130  parent's children= [131, 133]
+132  parent= 131  parent's children= [132]
+133  parent= 130  parent's children= [131, 133]
+134  parent= 133  parent's children= [134]
+135  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+136  parent= 135  parent's children= [136, 138, 141]
+137  parent= 136  parent's children= [137]
+138  parent= 135  parent's children= [136, 138, 141]
+139  parent= 138  parent's children= [139]
+140  parent= 139  parent's children= [140]
+141  parent= 135  parent's children= [136, 138, 141]
+142  parent= 141  parent's children= [142, 144, 146]
+143  parent= 142  parent's children= [143]
+144  parent= 141  parent's children= [142, 144, 146]
+145  parent= 144  parent's children= [145]
+146  parent= 141  parent's children= [142, 144, 146]
+147  parent= 146  parent's children= [147]
+148  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+149  parent= 148  parent's children= [149, 151, 154]
+150  parent= 149  parent's children= [150]
+151  parent= 148  parent's children= [149, 151, 154]
+152  parent= 151  parent's children= [152, 153]
+153  parent= 151  parent's children= [152, 153]
+154  parent= 148  parent's children= [149, 151, 154]
+155  parent= 154  parent's children= [155, 157, 159]
+156  parent= 155  parent's children= [156]
+157  parent= 154  parent's children= [155, 157, 159]
+158  parent= 157  parent's children= [158]
+159  parent= 154  parent's children= [155, 157, 159]
+160  parent= 159  parent's children= [160]
+161  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+162  parent= 161  parent's children= [162, 164, 169]
+163  parent= 162  parent's children= [163]
+164  parent= 161  parent's children= [162, 164, 169]
+165  parent= 164  parent's children= [165]
+166  parent= 165  parent's children= [166, 167]
+167  parent= 165  parent's children= [166, 167]
+168  parent= 167  parent's children= [168]
+169  parent= 161  parent's children= [162, 164, 169]
+170  parent= 169  parent's children= [170]
+171  parent= 170  parent's children= [171, 173]
+172  parent= 171  parent's children= [172]
+173  parent= 170  parent's children= [171, 173]
+174  parent= 173  parent's children= [174]
+175  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+176  parent= 175  parent's children= [176, 178, 180]
+177  parent= 176  parent's children= [177]
+178  parent= 175  parent's children= [176, 178, 180]
+179  parent= 178  parent's children= [179]
+180  parent= 175  parent's children= [176, 178, 180]
+181  parent= 180  parent's children= [181]
+182  parent= 181  parent's children= [182, 184]
+183  parent= 182  parent's children= [183]
+184  parent= 181  parent's children= [182, 184]
+185  parent= 184  parent's children= [185]
+186  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+187  parent= 186  parent's children= [187, 190]
+188  parent= 187  parent's children= [188, 189]
+189  parent= 187  parent's children= [188, 189]
+190  parent= 186  parent's children= [187, 190]
+191  parent= 190  parent's children= [191, 192, 194]
+192  parent= 190  parent's children= [191, 192, 194]
+193  parent= 192  parent's children= [193]
+194  parent= 190  parent's children= [191, 192, 194]
+195  parent= 194  parent's children= [195]
+196  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+197  parent= 196  parent's children= [197, 200, 205]
+198  parent= 197  parent's children= [198, 199]
+199  parent= 197  parent's children= [198, 199]
+200  parent= 196  parent's children= [197, 200, 205]
+201  parent= 200  parent's children= [201, 203]
+202  parent= 201  parent's children= [202]
+203  parent= 200  parent's children= [201, 203]
+204  parent= 203  parent's children= [204]
+205  parent= 196  parent's children= [197, 200, 205]
+206  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+207  parent= 206  parent's children= [207, 208, 210]
+208  parent= 206  parent's children= [207, 208, 210]
+209  parent= 208  parent's children= [209]
+210  parent= 206  parent's children= [207, 208, 210]
+211  parent= 210  parent's children= [211, 212]
+212  parent= 210  parent's children= [211, 212]
+213  parent= 212  parent's children= [213]
+214  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+215  parent= 214  parent's children= [215]
+216  parent= 215  parent's children= [216, 217, 219]
+217  parent= 215  parent's children= [216, 217, 219]
+218  parent= 217  parent's children= [218]
+219  parent= 215  parent's children= [216, 217, 219]
+220  parent= 219  parent's children= [220]
+221  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+222  parent= 221  parent's children= [222, 223]
+223  parent= 221  parent's children= [222, 223]
+224  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+225  parent= 224  parent's children= [225]
+226  parent= 225  parent's children= [226, 227]
+227  parent= 225  parent's children= [226, 227]
+228  parent= 227  parent's children= [228]
+229  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+230  parent= 229  parent's children= [230]
+231  parent= 230  parent's children= [231, 232]
+232  parent= 230  parent's children= [231, 232]
+233  parent= 232  parent's children= [233]
+234  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+235  parent= 234  parent's children= [235, 239]
+236  parent= 235  parent's children= [236, 237]
+237  parent= 235  parent's children= [236, 237]
+238  parent= 237  parent's children= [238]
+239  parent= 234  parent's children= [235, 239]
+240  parent= 239  parent's children= [240]
+Public Works Commission Agenda Report
+[-1]
+Capital Improvement and Disaster Recovery Projects (Design)
+[-1, 1]
+2022 Morning View Resurfacing & Storm Drain Improvements
+[-1, 1, 3]
+g ¾ Updates:
+[-1, 1, 4]
+Westward Beach Road Repair Project
+[-1, 1, 5]
+¾ Updates:
+[-1, 1, 22]
+Westward Beach Road Drainage Improvements Project
+[-1, 1, 22, 23]
+Clover Heights Storm Drainage Improvements
+[-1, 1, 33]
+¾ Updates:
+[-1, 1, 41]
+Latigo Canyon Road Retaining Wall Repair Project
+[-1, 1, 41, 42]
+Civic Center Water Treatment Facility Phase 2
+[-1, 1, 51]
+Permanent Skate Park
+[-1, 1, 60]
+PCH at Trancas Canyon Road Right Turn Lane
+[-1, 1, 68]
+¾ Updates:
+[-1, 1, 75]
+Outdoor Warning Sirens
+[-1, 1, 75, 76]
+Malibu Bluffs Park South Walkway Repairs
+[-1, 1, 82]
+Trancas Canyon Park Playground
+[-1, 1, 87]
+Malibu Canyon Road Traffic Study
+[-1, 1, 95]
+Kanan Dume Biofilter
+[-1, 1, 103]
+PCH Median Improvements at Paradise Cove and Zuma Beach
+[-1, 1, 108]
+City Traffic Signals Backup Power
+[-1, 1, 115]
+Kanan Dume Biofilter
+[-1, 1, 120]
+Malibu Park Resurfacing Project
+[-1, 1, 127]
+City Hall Solar Project
+[-1, 1, 135]
+Harbor Vista Curb Return
+[-1, 1, 148]
+Legacy Park Benches and Arbors Renovation
+[-1, 1, 161]
+Citywide Asphalt Concrete Berms Repairs
+[-1, 1, 175]
+Malibu Bluffs Park Roof Replacement Project
+[-1, 1, 186]
+Capital Improvement and Disaster Recovery Projects (Construction)
+[-1, 1, 196]
+PCH Signal Synchronization System Improvements Project
+[-1, 1, 196, 205]
+Trancas Canyon Park Upper and Lower Slopes Repair
+[-1, 1, 206]
+Capital Improvement and Disaster Recovery Projects (Completed)
+[-1, 1, 214]
+Capital Improvement Projects (Not Started)
+[-1, 1, 221]
+PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+[-1, 1, 221, 223]
+PCH at Las Flores and Rambla Pacifico Intersection Improvements
+[-1, 1, 224]
+Malibu Seafood Undercrossing
+[-1, 1, 229]
+-1: ROOT
+
+├── 0: (text) Public Wor ......  Item 4.A.
+
+└── 1: (head) Public Works Commission Agenda Report
+
+    ├── 2: (text) To: Chair  ...... t Program:
+
+    ├── 3: (head) Capital Improvement and Disaster Recovery Projects (Design)
+
+    ├── 4: (head) 2022 Morning View Resurfacing & Storm Drain Improvements
+
+    ├── 5: (head) g ¾ Updates:
+
+    │   ├── 6: (list)  This project required a LACFCD Permit.
+
+    │   │   ├── 7: (text)    Staff i ...... hool year.
+
+    │   │   └── 8: (list) ¾ Project Schedule:
+
+    │   ├── 9: (list)  Complete Design:
+
+    │   │   ├── 10: (text)  Fall 2023 ...... /June 2024
+
+    │   │   └── 11: (list) PCH Median Improvements Project ¾ Updates:
+
+    │   │       └── 12: (text)   On Sept ...... tem # 4.A.
+
+    │   ├── 13: (list)  Staff has prepared revised project plans and will be providing a copy to Caltrans for final approval.
+
+    │   ├── 14: (list)  Future phases will be dependent upon available funding.
+
+    │   │   └── 15: (list) ¾ Project Schedule:
+
+    │   ├── 16: (list)  Complete Design:
+
+    │   │   └── 17: (text)  Winter 20 ...... inter 2023
+
+    │   ├── 18: (list)  Advertise:
+
+    │   │   └── 19: (text)  Winter 20 ...... inter 2023
+
+    │   └── 20: (list)  Begin Construction:
+
+    │       └── 21: (text)  Spring 20 ...... pring 2024
+
+    ├── 22: (head) Westward Beach Road Repair Project
+
+    │   └── 23: (head) ¾ Updates:
+
+    │       ├── 24: (list)  Project is out to bid with bids due on October 5,
+
+    │       │   ├── 25: (text)  2023 ......  2023
+
+    │       │   └── 26: (list) ¾ Project Schedule:
+
+    │       ├── 27: (list)  Complete Design:
+
+    │       │   └── 28: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 29: (list)  Advertise:
+
+    │       │   └── 30: (text)  Fall 2023 ......  Fall 2023
+
+    │       └── 31: (list)  Begin Construction:
+
+    │           └── 32: (text)  Fall/Wint ...... inter 2023
+
+    ├── 33: (head) Westward Beach Road Drainage Improvements Project
+
+    │   ├── 34: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 35: (list) ¾ Plans and Specifications are 99% complete.
+
+    │   │   ├── 36: (list)  The project received approval from Fish and Wildlife.
+
+    │   │   └── 37: (list)  Staff is working on the CDP application for this project.
+
+    │   └── 38: (list) ¾ Project Schedule:
+
+    │       └── 39: (list)  Advertise:
+
+    │           └── 40: (text)  Winter 20 ......  approval)
+
+    ├── 41: (head) Clover Heights Storm Drainage Improvements
+
+    │   └── 42: (head) ¾ Updates:
+
+    │       ├── 43: (list)  Plans and Specifications are 99% complete.
+
+    │       ├── 44: (list)  City submitted plans to CalOES for review.
+
+    │       ├── 45: (list)  Staff is working on the CDP application for this project.
+
+    │       │   └── 46: (list) ¾ Project Schedule:
+
+    │       ├── 47: (list)  Advertise:
+
+    │       │   └── 48: (text)  Spring 20 ......  approval)
+
+    │       └── 49: (list)  Begin  Construction:
+
+    │           └── 50: (text)   Summer   ......  approval)
+
+    ├── 51: (head) Latigo Canyon Road Retaining Wall Repair Project
+
+    │   ├── 52: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 53: (list)  Plans and specifications have been completed
+
+    │   ├── 54: (list)  Awaiting final FEMA/CalOES approval for scope modification
+
+    │   │   └── 55: (list) ¾ Project Schedule:
+
+    │   ├── 56: (list)  Advertise:
+
+    │   │   └── 57: (text)  (dependen ......  approval)
+
+    │   └── 58: (list)  Begin Construction:
+
+    │       └── 59: (text)  (dependen ...... tem # 4.A.
+
+    ├── 60: (head) Civic Center Water Treatment Facility Phase 2
+
+    │   ├── 61: (list) ¾ Updates:
+
+    │   │   ├── 62: (text)   Staff   ...... pplication
+
+    │   │   └── 63: (list)  Staff has submitted a request for Federal funding
+
+    │   └── 64: (list) ¾ Project Schedule:
+
+    │       ├── 65: (text)  (pending  ...... approval):
+
+    │       └── 66: (list)  Project  is  delayed  due  to  the  Cultural  Resource  review.
+
+    │           └── 67: (text)     Revise ...... es review.
+
+    ├── 68: (head) Permanent Skate Park
+
+    │   └── 69: (list) ¾ Updates:
+
+    │       ├── 70: (list)  Community  Services  is  working  with  their  consultant  to  finalize  the design plans for this project.
+
+    │       ├── 71: (list)  Staff is working on getting the project’s CDP.
+
+    │       │   └── 72: (text)   The proj ......  Schedule:
+
+    │       └── 73: (list)  Complete Design:
+
+    │           └── 74: (text)  Fall/Wine ...... P approval
+
+    ├── 75: (head) PCH at Trancas Canyon Road Right Turn Lane
+
+    │   └── 76: (head) ¾ Updates:
+
+    │       ├── 77: (list) Updates:
+
+    │       │   └── 78: (text)   City  i ......  obtaining
+
+    │       └── 79: (list) CEQA clearance  Project is in review with Caltrans and pending their review based upon CEQA clearance
+
+    │           └── 80: (list) ¾ Estimated Schedule:
+
+    │               └── 81: (list)  Dependent upon
+
+    ├── 82: (head) Outdoor Warning Sirens
+
+    │   └── 83: (list) ¾ Updates:
+
+    │       └── 84: (list)  Project  received  recommendation  from  the  Public  Works  and  Public
+
+    │           └── 85: (list) Safety Commission joint meeting.
+
+    │               └── 86: (text)   Project ...... , meeting.
+
+    ├── 87: (head) Malibu Bluffs Park South Walkway Repairs
+
+    │   ├── 88: (text) ¾ Updates: ...... ¾ Updates:
+
+    │   ├── 89: (list)  The project construction documents are being finalized.
+
+    │   ├── 90: (list)  This project is expected to be out to bid by the end of September 2023.
+
+    │   │   ├── 91: (text) ¾ ...... ¾
+
+    │   │   └── 92: (list) Estimated Schedule:
+
+    │   └── 93: (list)  Completed Design:
+
+    │       └── 94: (text)  August 20 ...... tem # 4.A.
+
+    ├── 95: (head) Trancas Canyon Park Playground
+
+    │   ├── 96: (list) ¾
+
+    │   │   └── 97: (list) Updates:
+
+    │   │       └── 98: (text)   Staff   ...... mber 2023.
+
+    │   └── 99: (list) ¾ Estimated Schedule:
+
+    │       ├── 100: (text)   Complet ...... inter 2023
+
+    │       └── 101: (list)  Advertise:
+
+    │           └── 102: (text)  Winter 20 ...... pring 2024
+
+    ├── 103: (head) Malibu Canyon Road Traffic Study
+
+    │   └── 104: (list) ¾ Project Description:
+
+    │       ├── 105: (text)   This pro ...... t Updates:
+
+    │       └── 106: (list)  City has entered into a contract with Kimley Horn to perform the traffic study.
+
+    │           └── 107: (text)   Staff   ...... iverables.
+
+    ├── 108: (head) Kanan Dume Biofilter
+
+    │   ├── 109: (list) ¾ Project  Description:
+
+    │   │   └── 110: (text)     This   ...... uirements.
+
+    │   └── 111: (list) ¾
+
+    │       └── 112: (list) Project Updates:
+
+    │           └── 113: (list)  Complete Design:
+
+    │               └── 114: (text)  Spring/Su ......  Fall 2024
+
+    ├── 115: (head) PCH Median Improvements at Paradise Cove and Zuma Beach
+
+    │   ├── 116: (list) ¾ Project Description:
+
+    │   │   └── 117: (text)   This pro ...... installed.
+
+    │   └── 118: (list) ¾ Project Updates:
+
+    │       └── 119: (text)  Staff is  ...... tem # 4.A.
+
+    ├── 120: (head) City Traffic Signals Backup Power
+
+    │   ├── 121: (list) ¾ Project  Description:
+
+    │   │   └── 122: (text)     This   ...... anyon Road
+
+    │   ├── 123: (list) ¾ Updates:
+
+    │   │   └── 124: (text)  Project i ...... sign phase
+
+    │   └── 125: (list) ¾ Project Schedule:
+
+    │       └── 126: (text)  Design is ......  July 2023
+
+    ├── 127: (head) Kanan Dume Biofilter
+
+    │   ├── 128: (list) ¾ Project  Description:
+
+    │   │   └── 129: (text)     This   ...... uirements.
+
+    │   └── 130: (list) ¾ Project Updates:
+
+    │       ├── 131: (list)  Complete Design:
+
+    │       │   └── 132: (text)  Spring/Su ...... ummer 2024
+
+    │       └── 133: (list)  Begin Construction:
+
+    │           └── 134: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 135: (head) Malibu Park Resurfacing Project
+
+    │   ├── 136: (list) ¾ Project Description:
+
+    │   │   └── 137: (text)   This pro ...... ott Drive.
+
+    │   ├── 138: (list) ¾ Updates:
+
+    │   │   └── 139: (list)  Project is currently out to bid and bids are due October 5,
+
+    │   │       └── 140: (text)  2023. ......  2023.
+
+    │   └── 141: (list) ¾ Project Schedule:
+
+    │       ├── 142: (list)  Complete Design:
+
+    │       │   └── 143: (text)  Summer 20 ...... ummer 2023
+
+    │       ├── 144: (list)  Advertise:
+
+    │       │   └── 145: (text)  Fall 2024 ......  Fall 2024
+
+    │       └── 146: (list)  Begin Construction:
+
+    │           └── 147: (text)  November  ...... ember 2024
+
+    ├── 148: (head) City Hall Solar Project
+
+    │   ├── 149: (list) ¾ Project  Description:
+
+    │   │   └── 150: (text)     This   ...... City Hall.
+
+    │   ├── 151: (list) ¾ Updates:
+
+    │   │   ├── 152: (list)  The project design was completed in 2018 and then placed on hold.
+
+    │   │   └── 153: (list)  Staff  is  reaching  out  to  consultants  to  review  the  project  and  make recommendations based upon new solar technology.
+
+    │   └── 154: (list) ¾ Project Schedule:
+
+    │       ├── 155: (list)  Complete Design:
+
+    │       │   └── 156: (text)  Spring 20 ...... pring 2024
+
+    │       ├── 157: (list)  Advertise:
+
+    │       │   └── 158: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 159: (list)  Begin Construction:
+
+    │           └── 160: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 161: (head) Harbor Vista Curb Return
+
+    │   ├── 162: (list) ¾ Project Description:
+
+    │   │   └── 163: (text)   This pro ...... tem # 4.A.
+
+    │   ├── 164: (list) ¾
+
+    │   │   └── 165: (list) Updates:
+
+    │   │       ├── 166: (text)   This pr ...... ower pole.
+
+    │   │       └── 167: (list)  SCE has submitted a CDP for this work.
+
+    │   │           └── 168: (text)   Once the ......  the pole.
+
+    │   └── 169: (list) ¾ Project Schedule:
+
+    │       └── 170: DUMMY
+
+    │           ├── 171: (list)  Complete Design:
+
+    │           │   └── 172: (text)  Completed ......  Completed
+
+    │           └── 173: (list)  Advertise:
+
+    │               └── 174: (text)  Dependent ...... n schedule
+
+    ├── 175: (head) Legacy Park Benches and Arbors Renovation
+
+    │   ├── 176: (list) ¾ Project  Description:
+
+    │   │   └── 177: (text)     This   ...... al arbors.
+
+    │   ├── 178: (list) ¾ Updates:
+
+    │   │   └── 179: (text)  This pro ......  19, 2023.
+
+    │   └── 180: (list) ¾
+
+    │       └── 181: (list) Project Schedule:
+
+    │           ├── 182: (list)  Complete Design:
+
+    │           │   └── 183: (text)  Summer 20 ...... r 19, 2023
+
+    │           └── 184: (list)  Begin Construction:
+
+    │               └── 185: (text)  November/ ...... ember 2023
+
+    ├── 186: (head) Citywide Asphalt Concrete Berms Repairs
+
+    │   ├── 187: (list) ¾ Project  Description:
+
+    │   │   ├── 188: (text)     This   ...... ¾ Updates:
+
+    │   │   └── 189: (list)  Staff has started the initial design of this project.
+
+    │   └── 190: (list) ¾ Project Schedule:
+
+    │       ├── 191: (text)   Complet ...... pring 2024
+
+    │       ├── 192: (list)  Advertise:
+
+    │       │   └── 193: (text)  Summer 20 ...... ummer 2024
+
+    │       └── 194: (list)  Begin Construction:
+
+    │           └── 195: (text)  Fall 2024 ......  Fall 2024
+
+    ├── 196: (head) Malibu Bluffs Park Roof Replacement Project
+
+    │   ├── 197: (list) ¾ Project Description:
+
+    │   │   ├── 198: (text)   This pro ...... ¾ Updates:
+
+    │   │   └── 199: (list)  Staff has started the initial design of this project.
+
+    │   ├── 200: (list) ¾
+
+    │   │   ├── 201: (list) Project Schedule:
+
+    │   │   │   └── 202: (text)   Complet ...... inter 2023
+
+    │   │   └── 203: (list)  Advertise:
+
+    │   │       └── 204: (text)  Spring 20 ...... tem # 4.A.
+
+    │   └── 205: (head) Capital Improvement and Disaster Recovery Projects (Construction)
+
+    ├── 206: (head) PCH Signal Synchronization System Improvements Project
+
+    │   ├── 207: (text) ¾ ...... ¾
+
+    │   ├── 208: (list) Updates:
+
+    │   │   └── 209: (text)   The con ...... ovals from
+
+    │   └── 210: (list) the City.
+
+    │       ├── 211: (text)   The con ......  Schedule:
+
+    │       └── 212: (list)  Begin construction:
+
+    │           └── 213: (text)  July 2023 ...... ruary 2025
+
+    ├── 214: (head) Trancas Canyon Park Upper and Lower Slopes Repair
+
+    │   └── 215: (list) ¾ Updates:
+
+    │       ├── 216: (text)   Project ......  July 2023
+
+    │       ├── 217: (list)  Staff is preparing Council Report for this project.
+
+    │       │   └── 218: (text)  ¾ Project ...... inter 2023
+
+    │       └── 219: (list)  Complete Construction:
+
+    │           └── 220: (text)  Winter 20 ...... inter 2023
+
+    ├── 221: (head) Capital Improvement and Disaster Recovery Projects (Completed)
+
+    │   ├── 222: (text) Storm Drai ......  Phase Two
+
+    │   └── 223: (head) Capital Improvement Projects (Not Started)
+
+    ├── 224: (head) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH
+
+    │   └── 225: (list) PCH Crosswalk Improvements at Big Rock Drive and 20326 PCH ¾ Project Description:
+
+    │       ├── 226: (text)  This proj ...... ersection.
+
+    │       └── 227: (list) ¾ Project Updates:
+
+    │           └── 228: (text)   Staff co ...... tem # 4.A.
+
+    ├── 229: (head) PCH at Las Flores and Rambla Pacifico Intersection Improvements
+
+    │   └── 230: (list) PCH at Las Flores and Rambla Pacifico Intersection Improvements ¾ Project Description:
+
+    │       ├── 231: (text)  This proj ...... e M funds.
+
+    │       └── 232: (list) ¾ Project Updates:
+
+    │           └── 233: (text)   Staff co ...... e of work.
+
+    └── 234: (head) Malibu Seafood Undercrossing
+
+        ├── 235: (list) Malibu Seafood Undercrossing ¾ Project Description:
+
+        │   ├── 236: (text)  This proj ...... e M funds.
+
+        │   └── 237: (list) ¾ Project Updates:
+
+        │       └── 238: (text)   Staff co ...... e of work.
+
+        └── 239: (list) Encinal Canyon 60-inch Storm Drain Repairs ¾ Project Description:
+
+            └── 240: (text)  This proj ...... tem # 4.A.
+
+2  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+3  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+4  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+5  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+6  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+7  parent= 6  parent's children= [7, 8]
+8  parent= 6  parent's children= [7, 8]
+9  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+10  parent= 9  parent's children= [10, 11]
+11  parent= 9  parent's children= [10, 11]
+12  parent= 11  parent's children= [12]
+13  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+14  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+15  parent= 14  parent's children= [15]
+16  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+17  parent= 16  parent's children= [17]
+18  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+19  parent= 18  parent's children= [19]
+20  parent= 5  parent's children= [6, 9, 13, 14, 16, 18, 20]
+21  parent= 20  parent's children= [21]
+22  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+23  parent= 22  parent's children= [23]
+24  parent= 23  parent's children= [24, 27, 29, 31]
+25  parent= 24  parent's children= [25, 26]
+26  parent= 24  parent's children= [25, 26]
+27  parent= 23  parent's children= [24, 27, 29, 31]
+28  parent= 27  parent's children= [28]
+29  parent= 23  parent's children= [24, 27, 29, 31]
+30  parent= 29  parent's children= [30]
+31  parent= 23  parent's children= [24, 27, 29, 31]
+32  parent= 31  parent's children= [32]
+33  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+34  parent= 33  parent's children= [34, 35, 38]
+35  parent= 33  parent's children= [34, 35, 38]
+36  parent= 35  parent's children= [36, 37]
+37  parent= 35  parent's children= [36, 37]
+38  parent= 33  parent's children= [34, 35, 38]
+39  parent= 38  parent's children= [39]
+40  parent= 39  parent's children= [40]
+41  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+42  parent= 41  parent's children= [42]
+43  parent= 42  parent's children= [43, 44, 45, 47, 49]
+44  parent= 42  parent's children= [43, 44, 45, 47, 49]
+45  parent= 42  parent's children= [43, 44, 45, 47, 49]
+46  parent= 45  parent's children= [46]
+47  parent= 42  parent's children= [43, 44, 45, 47, 49]
+48  parent= 47  parent's children= [48]
+49  parent= 42  parent's children= [43, 44, 45, 47, 49]
+50  parent= 49  parent's children= [50]
+51  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+52  parent= 51  parent's children= [52, 53, 54, 56, 58]
+53  parent= 51  parent's children= [52, 53, 54, 56, 58]
+54  parent= 51  parent's children= [52, 53, 54, 56, 58]
+55  parent= 54  parent's children= [55]
+56  parent= 51  parent's children= [52, 53, 54, 56, 58]
+57  parent= 56  parent's children= [57]
+58  parent= 51  parent's children= [52, 53, 54, 56, 58]
+59  parent= 58  parent's children= [59]
+60  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+61  parent= 60  parent's children= [61, 64]
+62  parent= 61  parent's children= [62, 63]
+63  parent= 61  parent's children= [62, 63]
+64  parent= 60  parent's children= [61, 64]
+65  parent= 64  parent's children= [65, 66]
+66  parent= 64  parent's children= [65, 66]
+67  parent= 66  parent's children= [67]
+68  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+69  parent= 68  parent's children= [69]
+70  parent= 69  parent's children= [70, 71, 73]
+71  parent= 69  parent's children= [70, 71, 73]
+72  parent= 71  parent's children= [72]
+73  parent= 69  parent's children= [70, 71, 73]
+74  parent= 73  parent's children= [74]
+75  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+76  parent= 75  parent's children= [76]
+77  parent= 76  parent's children= [77, 79]
+78  parent= 77  parent's children= [78]
+79  parent= 76  parent's children= [77, 79]
+80  parent= 79  parent's children= [80]
+81  parent= 80  parent's children= [81]
+82  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+83  parent= 82  parent's children= [83]
+84  parent= 83  parent's children= [84]
+85  parent= 84  parent's children= [85]
+86  parent= 85  parent's children= [86]
+87  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+88  parent= 87  parent's children= [88, 89, 90, 93]
+89  parent= 87  parent's children= [88, 89, 90, 93]
+90  parent= 87  parent's children= [88, 89, 90, 93]
+91  parent= 90  parent's children= [91, 92]
+92  parent= 90  parent's children= [91, 92]
+93  parent= 87  parent's children= [88, 89, 90, 93]
+94  parent= 93  parent's children= [94]
+95  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+96  parent= 95  parent's children= [96, 99]
+97  parent= 96  parent's children= [97]
+98  parent= 97  parent's children= [98]
+99  parent= 95  parent's children= [96, 99]
+100  parent= 99  parent's children= [100, 101]
+101  parent= 99  parent's children= [100, 101]
+102  parent= 101  parent's children= [102]
+103  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+104  parent= 103  parent's children= [104]
+105  parent= 104  parent's children= [105, 106]
+106  parent= 104  parent's children= [105, 106]
+107  parent= 106  parent's children= [107]
+108  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+109  parent= 108  parent's children= [109, 111]
+110  parent= 109  parent's children= [110]
+111  parent= 108  parent's children= [109, 111]
+112  parent= 111  parent's children= [112]
+113  parent= 112  parent's children= [113]
+114  parent= 113  parent's children= [114]
+115  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+116  parent= 115  parent's children= [116, 118]
+117  parent= 116  parent's children= [117]
+118  parent= 115  parent's children= [116, 118]
+119  parent= 118  parent's children= [119]
+120  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+121  parent= 120  parent's children= [121, 123, 125]
+122  parent= 121  parent's children= [122]
+123  parent= 120  parent's children= [121, 123, 125]
+124  parent= 123  parent's children= [124]
+125  parent= 120  parent's children= [121, 123, 125]
+126  parent= 125  parent's children= [126]
+127  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+128  parent= 127  parent's children= [128, 130]
+129  parent= 128  parent's children= [129]
+130  parent= 127  parent's children= [128, 130]
+131  parent= 130  parent's children= [131, 133]
+132  parent= 131  parent's children= [132]
+133  parent= 130  parent's children= [131, 133]
+134  parent= 133  parent's children= [134]
+135  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+136  parent= 135  parent's children= [136, 138, 141]
+137  parent= 136  parent's children= [137]
+138  parent= 135  parent's children= [136, 138, 141]
+139  parent= 138  parent's children= [139]
+140  parent= 139  parent's children= [140]
+141  parent= 135  parent's children= [136, 138, 141]
+142  parent= 141  parent's children= [142, 144, 146]
+143  parent= 142  parent's children= [143]
+144  parent= 141  parent's children= [142, 144, 146]
+145  parent= 144  parent's children= [145]
+146  parent= 141  parent's children= [142, 144, 146]
+147  parent= 146  parent's children= [147]
+148  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+149  parent= 148  parent's children= [149, 151, 154]
+150  parent= 149  parent's children= [150]
+151  parent= 148  parent's children= [149, 151, 154]
+152  parent= 151  parent's children= [152, 153]
+153  parent= 151  parent's children= [152, 153]
+154  parent= 148  parent's children= [149, 151, 154]
+155  parent= 154  parent's children= [155, 157, 159]
+156  parent= 155  parent's children= [156]
+157  parent= 154  parent's children= [155, 157, 159]
+158  parent= 157  parent's children= [158]
+159  parent= 154  parent's children= [155, 157, 159]
+160  parent= 159  parent's children= [160]
+161  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+162  parent= 161  parent's children= [162, 164, 169]
+163  parent= 162  parent's children= [163]
+164  parent= 161  parent's children= [162, 164, 169]
+165  parent= 164  parent's children= [165]
+166  parent= 165  parent's children= [166, 167]
+167  parent= 165  parent's children= [166, 167]
+168  parent= 167  parent's children= [168]
+169  parent= 161  parent's children= [162, 164, 169]
+170  parent= 169  parent's children= [170]
+171  parent= 170  parent's children= [171, 173]
+172  parent= 171  parent's children= [172]
+173  parent= 170  parent's children= [171, 173]
+174  parent= 173  parent's children= [174]
+175  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+176  parent= 175  parent's children= [176, 178, 180]
+177  parent= 176  parent's children= [177]
+178  parent= 175  parent's children= [176, 178, 180]
+179  parent= 178  parent's children= [179]
+180  parent= 175  parent's children= [176, 178, 180]
+181  parent= 180  parent's children= [181]
+182  parent= 181  parent's children= [182, 184]
+183  parent= 182  parent's children= [183]
+184  parent= 181  parent's children= [182, 184]
+185  parent= 184  parent's children= [185]
+186  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+187  parent= 186  parent's children= [187, 190]
+188  parent= 187  parent's children= [188, 189]
+189  parent= 187  parent's children= [188, 189]
+190  parent= 186  parent's children= [187, 190]
+191  parent= 190  parent's children= [191, 192, 194]
+192  parent= 190  parent's children= [191, 192, 194]
+193  parent= 192  parent's children= [193]
+194  parent= 190  parent's children= [191, 192, 194]
+195  parent= 194  parent's children= [195]
+196  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+197  parent= 196  parent's children= [197, 200, 205]
+198  parent= 197  parent's children= [198, 199]
+199  parent= 197  parent's children= [198, 199]
+200  parent= 196  parent's children= [197, 200, 205]
+201  parent= 200  parent's children= [201, 203]
+202  parent= 201  parent's children= [202]
+203  parent= 200  parent's children= [201, 203]
+204  parent= 203  parent's children= [204]
+205  parent= 196  parent's children= [197, 200, 205]
+206  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+207  parent= 206  parent's children= [207, 208, 210]
+208  parent= 206  parent's children= [207, 208, 210]
+209  parent= 208  parent's children= [209]
+210  parent= 206  parent's children= [207, 208, 210]
+211  parent= 210  parent's children= [211, 212]
+212  parent= 210  parent's children= [211, 212]
+213  parent= 212  parent's children= [213]
+214  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+215  parent= 214  parent's children= [215]
+216  parent= 215  parent's children= [216, 217, 219]
+217  parent= 215  parent's children= [216, 217, 219]
+218  parent= 217  parent's children= [218]
+219  parent= 215  parent's children= [216, 217, 219]
+220  parent= 219  parent's children= [220]
+221  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+222  parent= 221  parent's children= [222, 223]
+223  parent= 221  parent's children= [222, 223]
+224  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+225  parent= 224  parent's children= [225]
+226  parent= 225  parent's children= [226, 227]
+227  parent= 225  parent's children= [226, 227]
+228  parent= 227  parent's children= [228]
+229  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+230  parent= 229  parent's children= [230]
+231  parent= 230  parent's children= [231, 232]
+232  parent= 230  parent's children= [231, 232]
+233  parent= 232  parent's children= [233]
+234  parent= 1  parent's children= [2, 3, 4, 5, 22, 33, 41, 51, 60, 68, 75, 82, 87, 95, 103, 108, 115, 120, 127, 135, 148, 161, 175, 186, 196, 206, 214, 221, 224, 229, 234]
+235  parent= 234  parent's children= [235, 239]
+236  parent= 235  parent's children= [236, 237]
+237  parent= 235  parent's children= [236, 237]
+238  parent= 237  parent's children= [238]
+239  parent= 234  parent's children= [235, 239]
+240  parent= 239  parent's children= [240]

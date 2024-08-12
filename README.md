@@ -42,9 +42,11 @@ Recommed: first check `SHTRAG/sht/README.md`
 
 3. Indexing
     ```python
-    indexer_config = SHTIndexerConfig(use_hierarchy=use_hierarchy,
-    distance_metric="cosine",
-    query_embedding_model_name=embedding_model),
+    indexer_config = SHTIndexerConfig(
+        use_hierarchy=use_hierarchy,
+        distance_metric="cosine",
+        query_embedding_model_name=embedding_model,
+    )
     indexer = SHTIndexer(indexer_config)
     nodes = sht_builder.tree
     query = "your-query"
@@ -53,16 +55,18 @@ Recommed: first check `SHTRAG/sht/README.md`
 
 4. Generating Context
     ```python
-    generator_config = SHTGeneratorConfig(use_hierarchy=generator_use_hierarchy,
-    use_raw_chunks=generator_use_raw_chunks, 
-    context_len=context_len) 
+    generator_config = SHTGeneratorConfig(
+        use_hierarchy=generator_use_hierarchy,
+        use_raw_chunks=generator_use_raw_chunks, 
+        context_len=context_len
+    ) 
     generator = SHTGenerator(generator_config)
     context = generator.generate(indexes, nodes)
     ```
 
 5. Answer questions using a QA model
 
-# Experiments Codes
+# Codes for Experiments
 - `sht/`
 
     The codes for SHTRAG. Detailed description can be seen in `SHTRAG/sht/README.md`.
