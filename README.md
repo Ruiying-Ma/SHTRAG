@@ -3,7 +3,7 @@
 # How to run SHTRAG on **one document** and **one query**
 Recommed: first check `SHTRAG/sht/README.md`
 
-1. Use VGT (a DLA model) to classify document objects
+1. Use [VGT](https://github.com/huridocs/pdf-document-layout-analysis) (a DLA model) to classify document objects
     ```python 
     pdf_path = "absolute-path-to-pdf"
     curl_command = f'''curl -X POST -F 'file=@{pdf_path}' localhost:5060'''
