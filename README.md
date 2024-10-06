@@ -1,7 +1,7 @@
 # Dependencies
 `SHTRAG/raptor/requirements.txt`
 # How to run SHTRAG on **one document** and **one query**
-Recommed: first check `SHTRAG/sht/README.md`
+Recommend: check `SHTRAG/sht/README.md` for details.
 
 1. Use [VGT](https://github.com/huridocs/pdf-document-layout-analysis) (a DLA model) to classify document objects
     ```python 
@@ -15,58 +15,137 @@ Recommed: first check `SHTRAG/sht/README.md`
     ```
 2. Build SHT
     ```python
-    with open(out_path, 'r') as file:
-        object_dicts_list = json.load(file)
-    clustering_oracle_config = ClusteringOracleConfig(
-        store_json=None, 
-        object_dicts_list=object_dicts_list,
-    )
-    clustering_oracle = ClusteringOracle(config=clustering_oracle_config)
-    new_object_dict_lists = clustering_oracle.cluster(pdf_path)
+    def build_sht_skeleton(pdf_path, dla_json_path):
+        '''
+        Args:
+        - out_path: the result of DLA (vgt_for_heading_extraction)
+        '''
+        
+        with open(dla_json_path, 'r') as file:
+            object_dicts_list = json.load(file)
+        
+        clustering_oracle_config = ClusteringOracleConfig(
+            store_json=dla_json_path.replace(".dla", ".cluster"), 
+        )
 
-    sht_builder_config = SHTBuilderConfig(
-        store_json=os.path.join(out_dir, json_name), 
-        load_json=None, 
-        chunk_size=100, 
-        summary_len=100,
-        embedding_model_name=embedding_mode_name,
-        openai_key_path=path, 
-    )
-    sht_builder = SHTBuilder(sht_builder_config)
-    sht_builder.build(new_object_dicts_list) # or, sht_builder.build(None) if SHT already existed
-    summary_stats = sht_builder.add_summaries()
-    embedding_stats = sht_builder.add_embeddings(node_ids_list)
-    sht_builder.store2json()
-    sht_builder.visualize()
+        clustering_oracle = ClusteringOracle(config=clustering_oracle_config)
+        new_object_dicts_list = clustering_oracle.cluster(
+            pdf_path=pdf_path,
+            object_dicts_list=object_dicts_list,
+        )
+
+        sht_builder_config = SHTBuilderConfig(
+            store_json=dla_json_path.replace(".dla", ".sht"), 
+            load_json=None, 
+            chunk_size=100, 
+            summary_len=100,
+            embedding_model_name="sbert",
+        )
+        sht_builder = SHTBuilder(sht_builder_config)
+        sht_builder.build(new_object_dicts_list) # or, sht_builder.build(None) if SHT already existed
+        sht_builder.store2json()
+        sht_builder.visualize()
+
+    def load_sht_skeleton(sht_json_path):
+        sht_builder_config = SHTBuilderConfig(
+            store_json=sht_json_path.replace(".json", ".add-summaries.json"), 
+            load_json=sht_json_path, 
+            chunk_size=100, 
+            summary_len=100,
+            embedding_model_name="sbert",
+        )
+        sht_builder = SHTBuilder(sht_builder_config)
+        sht_builder.build(None) # or, sht_builder.build(None) if SHT already existed
+        sht_builder.check()
+        sht_builder.store2json()
+        sht_builder.visualize()
+
+    def add_summaries_to_sht(sht_skeleton_json_path):
+        sht_builder_config = SHTBuilderConfig(
+            store_json=sht_skeleton_json_path.replace(".json", ".sht.add-summaries.json"), 
+            load_json=sht_skeleton_json_path, 
+            chunk_size=100, 
+            summary_len=100,
+            embedding_model_name="sbert",
+        )
+        sht_builder = SHTBuilder(sht_builder_config)
+        sht_builder.build(None) # or, sht_builder.build(None) if SHT already existed
+        stats = sht_builder.add_summaries()
+        sht_builder.check()
+        sht_builder.store2json()
+        sht_builder.visualize()
+
+        with open(sht_skeleton_json_path.replace(".json", ".add-summaries.stats.json"), 'w') as file:
+            json.dump(stats, file, indent=4)
+
+    def add_embeddings_to_sht(sht_json_path, embedding):
+        sht_builder_config = SHTBuilderConfig(
+            store_json=sht_json_path.replace(".json", ".sht.add-embeddings.json"), 
+            load_json=sht_json_path, 
+            chunk_size=100, 
+            summary_len=100,
+            embedding_model_name=embedding,
+        )
+        sht_builder = SHTBuilder(sht_builder_config)
+        sht_builder.build(None) # or, sht_builder.build(None) if SHT already existed
+        node_ids_list = list(range(len(sht_builder.tree["nodes"])))
+        stats = sht_builder.add_embeddings(node_ids_list)
+        sht_builder.check()
+        sht_builder.store2json()
+        sht_builder.visualize()
+
+        with open(sht_json_path.replace(".json", ".add-embeddings.stats.json"), 'w') as file:
+            json.dump(stats, file, indent=4)
     ```
 
 3. Indexing
     ```python
-    indexer_config = SHTIndexerConfig(
-        use_hierarchy=use_hierarchy,
-        distance_metric="cosine",
-        query_embedding_model_name=embedding_model,
-    )
-    indexer = SHTIndexer(indexer_config)
-    nodes = sht_builder.tree
-    query = "your-query"
-    indexes = indexer.index(query, nodes)
+    def index(sht_full_json_path, query):
+        indexer_config = SHTIndexerConfig(
+            use_hierarchy=True, 
+            distance_metric="cosine", 
+            query_embedding_model_name="sbert"
+        )
+        indexer = SHTIndexer(indexer_config)
+
+        with open(sht_full_json_path, 'r') as file:
+            sht = json.load(file)
+
+        index_info = {
+            "query": query,
+            "indexes": indexer.index(query=query, nodes=sht["nodes"])
+        }
+
+        with open(sht_full_json_path.replace(".json", ".index.hierarchy.json"), 'w') as file:
+            json.dump(index_info, file, indent=4)
     ```
 
 4. Generating Context
     ```python
-    generator_config = SHTGeneratorConfig(
-        use_hierarchy=generator_use_hierarchy,
-        use_raw_chunks=generator_use_raw_chunks, 
-        context_len=context_len
-    ) 
-    generator = SHTGenerator(generator_config)
-    context = generator.generate(indexes, nodes)
+    def generate(sht_full_json_path, index_json_path, context_len, use_hierarchy):
+        generator_config = SHTGeneratorConfig(use_hierarchy=use_hierarchy, use_raw_chunks=True, context_len=context_len)
+        generator = SHTGenerator(generator_config)
+
+        with open(index_json_path, 'r') as file:
+            i_info = json.load(file)
+        with open(sht_full_json_path, 'r') as file:
+            sht = json.load(file)
+
+        context = generator.generate(
+            candid_indexes=i_info["indexes"],
+            nodes=sht["nodes"]
+        )
+
+        with open(sht_full_json_path.replace(".json", f".context.{context_len}.{use_hierarchy}.txt"), 'w') as file:
+            file.write(context)
     ```
 
 5. Answer questions using a QA model
 
 # Codes for Experiments
+- `example/`
+
+    An example of how to use this repo.
 - `sht/`
 
     The codes for SHTRAG. Detailed description can be seen in `SHTRAG/sht/README.md`.

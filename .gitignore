@@ -16,3 +16,5 @@ qasper_eval/
 queries/
 tmp/
 wrong_answers/
+example/*.txt
+example/*.pdf
