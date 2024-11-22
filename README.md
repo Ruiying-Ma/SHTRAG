@@ -1,264 +1,268 @@
-# Dependencies
-`SHTRAG/raptor/requirements.txt`
-# How to run SHTRAG on **one document** and **one query**
-Recommend: check `SHTRAG/sht/README.md` for details.
+# Prerequisites
 
-1. Use [VGT](https://github.com/huridocs/pdf-document-layout-analysis) (a DLA model) to classify document objects
-    ```python 
-    pdf_path = "absolute-path-to-pdf"
-    curl_command = f'''curl -X POST -F 'file=@{pdf_path}' localhost:5060'''
-    result = subprocess.run(curl_command, shell=True, capture_output=True, text=True)
+## Install VGT
+Please follow VGT's [documentation](https://github.com/huridocs/pdf-document-layout-analysis)
 
-    out_path = "absolute-path-to-destination-json-file"
-    with open(out_path, 'w') as file:
-        json.dump(json.loads((result.stdout)), file, indent=4)
-    ```
-2. Build SHT
-    ```python
-    def build_sht_skeleton(pdf_path, dla_json_path):
-        '''
-        Args:
-        - out_path: the result of DLA (vgt_for_heading_extraction)
-        '''
-        
-        with open(dla_json_path, 'r') as file:
-            object_dicts_list = json.load(file)
-        
-        clustering_oracle_config = ClusteringOracleConfig(
-            store_json=dla_json_path.replace(".dla", ".cluster"), 
-        )
+## Install packages
+Under the root directory `SHTRAG/`:
+```
+> conda create -n shtrag python=3.10
+> conda activate shtrag
+> pip install -r raptor/requirements.txt
+> pip install --upgrade pymupdf
+> pip install anytree
+> pip install python-dotenv
+> pip install datasets
+> pip install rank_bm25
+```
 
-        clustering_oracle = ClusteringOracle(config=clustering_oracle_config)
-        new_object_dicts_list = clustering_oracle.cluster(
-            pdf_path=pdf_path,
-            object_dicts_list=object_dicts_list,
-        )
+### Issues
+[[issue](https://github.com/easydiffusion/easydiffusion/issues/1851)] If you encounter this error, you may directly remove `cached_download` from huggingface_hub import line :
+```
+> cannot import name 'cached_download' from 'huggingface_hub'
+```
+or set the version
+```
+> pip install --upgrade huggingface_hub==0.25.2
+```
 
-        sht_builder_config = SHTBuilderConfig(
-            store_json=dla_json_path.replace(".dla", ".sht"), 
-            load_json=None, 
-            chunk_size=100, 
-            summary_len=100,
-            embedding_model_name="sbert",
-        )
-        sht_builder = SHTBuilder(sht_builder_config)
-        sht_builder.build(new_object_dicts_list) # or, sht_builder.build(None) if SHT already existed
-        sht_builder.store2json()
-        sht_builder.visualize()
+[[issue](https://community.openai.com/t/subject-error-openai-object-has-no-attribute-batches/745724/2)] If you encounter this error when using batch api:
+```
+> AttributeError: 'OpenAI' object has no attribute 'batches'
+```
+you may update openai:
+```
+> pip install --upgrade openai --quiet
+```
 
-    def load_sht_skeleton(sht_json_path):
-        sht_builder_config = SHTBuilderConfig(
-            store_json=sht_json_path.replace(".json", ".add-summaries.json"), 
-            load_json=sht_json_path, 
-            chunk_size=100, 
-            summary_len=100,
-            embedding_model_name="sbert",
-        )
-        sht_builder = SHTBuilder(sht_builder_config)
-        sht_builder.build(None) # or, sht_builder.build(None) if SHT already existed
-        sht_builder.check()
-        sht_builder.store2json()
-        sht_builder.visualize()
+## OpenAI key
+Create a `.env` file under the root directory `SHTRAG/`:
+```
+API_KEY=your-openai-key
+```
 
-    def add_summaries_to_sht(sht_skeleton_json_path):
-        sht_builder_config = SHTBuilderConfig(
-            store_json=sht_skeleton_json_path.replace(".json", ".sht.add-summaries.json"), 
-            load_json=sht_skeleton_json_path, 
-            chunk_size=100, 
-            summary_len=100,
-            embedding_model_name="sbert",
-        )
-        sht_builder = SHTBuilder(sht_builder_config)
-        sht_builder.build(None) # or, sht_builder.build(None) if SHT already existed
-        stats = sht_builder.add_summaries()
-        sht_builder.check()
-        sht_builder.store2json()
-        sht_builder.visualize()
+# Example usage
+## Data Preparation
+Create your dataset under folder `data/`. All data will be stored under folder `data/your-dataset/`. Store the pdf files under folder `data/your-dataset/pdf/`. Store the queries as a list of dictonaries in `data/your-dataset/queries.json`. 
 
-        with open(sht_skeleton_json_path.replace(".json", ".add-summaries.stats.json"), 'w') as file:
-            json.dump(stats, file, indent=4)
+Example: [01262022-1835.pdf](./data/example/pdf/01262022-1835.pdf), [queries.json](./data/example/queries.json)
 
-    def add_embeddings_to_sht(sht_json_path, embedding):
-        sht_builder_config = SHTBuilderConfig(
-            store_json=sht_json_path.replace(".json", ".sht.add-embeddings.json"), 
-            load_json=sht_json_path, 
-            chunk_size=100, 
-            summary_len=100,
-            embedding_model_name=embedding,
-        )
-        sht_builder = SHTBuilder(sht_builder_config)
-        sht_builder.build(None) # or, sht_builder.build(None) if SHT already existed
-        node_ids_list = list(range(len(sht_builder.tree["nodes"])))
-        stats = sht_builder.add_embeddings(node_ids_list)
-        sht_builder.check()
-        sht_builder.store2json()
-        sht_builder.visualize()
+## Heading Identification
+To identify the headings of a pdf, we use VGT:
+```
+> curl -X POST -F 'file=@{path-to-your-pdf}' localhost:5060
+```
+VGT returns a json file, classifying the texts of the pdf into ten categories. Store this json file under folder `data/your-dataset/heading_identification`. 
 
-        with open(sht_json_path.replace(".json", ".add-embeddings.stats.json"), 'w') as file:
-            json.dump(stats, file, indent=4)
-    ```
+Example：[01262022-1835.json](./data/example/heading_identification/01262022-1835.json)
 
-3. Indexing
-    ```python
-    def index(sht_full_json_path, query):
-        indexer_config = SHTIndexerConfig(
-            use_hierarchy=True, 
-            distance_metric="cosine", 
-            query_embedding_model_name="sbert"
-        )
-        indexer = SHTIndexer(indexer_config)
+## Sound SHT Extraction & Structured-RAG
+After identifying the headings, it is time to build the SHT and to incorporate it into Structured-RAG. For implementation details , please read [structured_rag/README.md](./structured_rag/README.md). 
+```
+> python run_structured_rag.py --root-dir path-to-your-dataset
+```
+For example, you can use `data/your-dataset/`. It is recommended to **always** use **absolute path**. 
 
-        with open(sht_full_json_path, 'r') as file:
-            sht = json.load(file)
-
-        index_info = {
-            "query": query,
-            "indexes": indexer.index(query=query, nodes=sht["nodes"])
-        }
-
-        with open(sht_full_json_path.replace(".json", ".index.hierarchy.json"), 'w') as file:
-            json.dump(index_info, file, indent=4)
-    ```
-
-4. Generating Context
-    ```python
-    def generate(sht_full_json_path, index_json_path, context_len, use_hierarchy):
-        generator_config = SHTGeneratorConfig(use_hierarchy=use_hierarchy, use_raw_chunks=True, context_len=context_len)
-        generator = SHTGenerator(generator_config)
-
-        with open(index_json_path, 'r') as file:
-            i_info = json.load(file)
-        with open(sht_full_json_path, 'r') as file:
-            sht = json.load(file)
-
-        context = generator.generate(
-            candid_indexes=i_info["indexes"],
-            nodes=sht["nodes"]
-        )
-
-        with open(sht_full_json_path.replace(".json", f".context.{context_len}.{use_hierarchy}.txt"), 'w') as file:
-            file.write(context)
-    ```
-
-5. Answer questions using a QA model
-
-# Codes for Experiments
-- `example/`
-
-    An example of how to use this repo.
-- `sht/`
-
-    The codes for SHTRAG. Detailed description can be seen in `SHTRAG/sht/README.md`.
-
-- `raptor/`
-
-    The codes for RAPTOR. Clone from repo of the paper. Make one change to `split_text()` in `SHTRAG/raptor/utils.py`: change the way of creating chunks. Same chunking method as that of SHTRAG (in `SHTRAG/sht/utils.py`).
-
-    Example usage of RAPTOR can be seen in `SHTRAG/test/test_raptor.py` step by step:
-    1. Tree building: `run_raptor_for_one_doc_text()` runs raptor's on the texts of a document, and then save the tree (and its visualization) in a pickle (txt) file.
-    2. Indexing: `run_raptor_indexer_for_one_dataset()` creates indexes for tree nodes, for each query.
-    3. Context generation: 
-        - `generate_context()` generates the final contexts given the token limit. Note that we don't limit the number of nodes. (i.e., not top_k). The nodes are ordered in priority order returned by indexing process.
-        - `generate_context_sorted()` generates the contexts in reading order. 
-
-- `dpr/`
-
-    Codes for DPR. `DPRContextEncoder` embeds the texts to be retrieved. `DPRQuestionEncoder` embeds the query.
-
-    In `SHTRAG/dpr/test_dpr.py`:
-    - `dpr_add_embedding_for_one_dataset()`: naive chunking, embedding process
-    - `dpr_indexing_for_one_dataset()`: naive chunking, indexing process
-    - `sht_dpr_add_embedding_for_one_dataset()`: Build SHT using DPR for embedding
-
-- `test/`
-
-    - `civic_queries.py`: create civic queries
-    - `contract_queries.py`: reformat ContractNLI queries
-    - `qasper_queries.py`: reformat Qasper queries
-    - `eval_context.py`: 
-        - `{dataset}_wrong_answers(configs)`: extract the wrong answers for a dataset, given the set of experiment configs (e.g., sht, raptor, bm25, etc.)
-        - `contract_answers_and_contexts(configs)`: create the confusion matrix of ContractNLI
-
-    - `handle_qapser.py`: `build_sht()` build the SHT for Qasper using the intrinsic SHT provided by Qasper
-    - `test_bm25.py`: 
-        - `run_bm25_indexer_for_one_dataset()`: naive chunking and indexing using BM25
-        - `bm25_indexing_for_sht_and_shtr()`: use BM25 on SHTRAG
-    - `test_sbert.py`: naive chunkign and indexig use SBERT
-    - `test_gold_context.py`: 
-        - `create_contract_batch_gold_context()`: create the gold context for each query in ContractNLI (provided by ContractNLI spans)
-        - `create_qasper_batch_gold_context_long_short()`: create the gold context for each query in Qasper. Long gold context refers to the evidence provided by Qasper. Short gold context refers to the highlighted_evidence provided by Qasper.
-        - `create_contract_batch_full_contest()`: use full document as the context for ContractNLI.
-    
-    - `test.py`, `test_indexer.py`, `test_generator.py`: usage of SHTRAG. See `SHTRAG/sht/README.md`
-    - `test_raptor.py`: See section `raptor/` in this README.md.
-
-- `te3small/`
-
-    Codes for text-embedding-3-small. 
-    
-    `test_te3small.py`: Naive chunking with this embedding model.
-
-- `batches/`
-
-    Codes for using batch api of OPENAI. Steps:
-    1. Create a .jsonl file as a batch file, following a specific formatting rule
-    2. Upload jsonl file to OPENAI
-    3. Create a batch job on the uploaded batch file. Then the server begins to run the job.
-    4. Check the status of a batch job.
-    5. Retrieve the responses of the each query in the batch job after completion.
-    6. Delete the batch file and the batch job.
-
-    You can use CLI `curl https://api.openai.com/v1/files -H "Authorization: Bearer your-openai-key"` to check all the batch files on OPENAI server
-
-    You can use CLI `curl https://api.openai.com/v1/batches -H "Authorization: Bearer your-openai-key"` to check all the batch jobs on OPENAI server
-
-    - `create_batch_job.py`: 
-        - `create_batch_sht_civic_civic2_contract_qasper_1000()`: an example usage of step 1
-        - `upload_batch()`: usage of step 2. Upload the create jsonl file to the OPENAI server. A log file will be created on your local machine. Note that the size of the batch file should not exceed 100MB, and the number of requests in that file (i.e., the number of lines in the jsonl file) should not exceed 50,000.
-        - `creaet_job()`: usage of step 3. Create a batch job on the uploaded batch file. The `batch_input_file_id` is stored in the log file `log_json_name` you've created when running `upload_batch()`. After the job is created, the log file will be updated with the creation action. You can find the batch_id in the updated log file.
-    - `check_batch.py`
-        - `check_batch()`: usage of step 4. Check the status of the batch job. The batch_id can be seen in the log file. You can see how many requests in the batch job have been completed. When the batch job is finished, its status should be `completed` (you can check it in the log file). Every time you execute `check_batch()`, the log file will be updated. If errors occur, you can also see this from the log file.
-    - `retrieve_batch.py`
-        - `reetrieve_response_batch()`: usage of step 5. You can do this only when the status of the batch job is `completed`. The responses from the server are downloead to you local machine as a jsonl file. 
-    - `delete_batch.py`
-        - `delete_file()`: usage of step 6. You can delete the batch job, batch file, and error file (if error occurs) after you retrieve the responses.
-
-- `answers/`
-
-    - `extract_answers.py`: extract answers from the responses retrieved from the OPENAI server (i.e., the jsonl file)
-
-    - `eval_answers.py`: evaluate the answers of different datasets.
-
-- `llm_judge/`
-
-    LLM-as-a-judge for Qasper.
-
-    - `create_tasks.py`: create jsonl batch file 
-    - `extract_ratings.py`: extract responses from jsonl file retrieved from OPENAI server
-    - `eval_ratings.py`: get the average ratings for each test configurations (e.g., sht, raptor, bm25, etc.)
+Below lists the arguments to set configuration:
 
 
-# Eexperiment Results
+|flag|required|default|explanation|example|
+|:-:|:-:|:-:|:-:|:-:|
+|root-dir|True|-|(absolute) path to your dataset folder|`--root-dir ./data/example/`|
+|chunk-size|False|100|size of a chunk (i.e., the #tokens of the context of a newly added leaf)|`--chunk-size 100`|
+|summary-len|False|100|length of a recursively generated summary (i.e., the #tokens of the context of an original SHT node)|`--summary-len 100`|
+|node-embedding-model|False|"sbert"|the embedding model for SHT nodes (choices: "sbert", "dpr", "te3small")|`--node-embedding-model "sbert"`|
+|query-embedding-model|False|"sbert"|the embedding model for the query (choices: "sbert", "dpr", "te3small")|`--query-embedding-model "sbert"`|
+|summarization-model|False|"gpt-4o-mini"|the summarization model (choices: "gpt-4o-mini", "empty"(return an empty string as the summary))|`--summarization-model "gpt-4o-mini"`|
+|distance-metric|False|"cosine"|he distance metric in the embedding space (choices: "cosine", "L1", "L2", "Linf")|`--distance-metric "cosine"`|
+|context-hierarchy|False|True|whether to recover hierarchical information in the final context (choices: True, False)|`--context-hierarchy True`|
+|embed-hierarchy|False|True|whether to embed the hierarchical information (choices: True, False)|`--embed-hierarchy True`|
+|context-raw|False|True|whether to retrieve the newly added leaves (i.e., the chunks of the document) for the final context (choices: True, False)|`--context-raw True`|
+|context-len|False|1000|the #tokens of the final context|`--context-len 1000`|
 
-- `database/`: The constructed SHTs
-- `indexes/`: the indexes of the nodes w.r.t. the queries
-- `contexts/`: the contexts of the queries
-- `queries/`: the queries together with its gold answers and promp templates
-- `llm_judge/qasper`: the ratings
+After running this command, you will find:
+- an SHT for each queried pdf
 
-    `llm_judge/qasper-databricks` is the ratings created by using the old propmt (databrick as the example)
+    (Example: for [01262022-1835.pdf](./data/example/pdf/01262022-1835.pdf), [01262022-1835.json](./data/example/sbert.empty.c100.s100/sht/01262022-1835.json) is an SHT using "empty" as the summarization model, and [01262022-1835.json](./data/example/sbert.gpt-4o-mini.c100.s100/sht/01262022-1835.json) is another SHT using "sbert" as the summarization model)
 
-- `tmp/comphrdoc`: show that c-strongly-templatized documents are common
-- `answers/`: the answers of different dataset and different test configurations. The statistics of the answers are 
-    - `answers/civic-answer-num.json`
-    - `answers/civic2-answer-recall-precision-f1.json`
-    - `answers/contract-answer-num-llm-gold.json` (this is when the gold answer is the llm answer given the full document)
-    - `answers/contract-answer-num.json`
-    - `answers/qasper-answer-f1-gold.json` (this when the context for QA is the gold context)
-    - `answers/qasper-answer-f1.json`
-    - `answers/qasper-answer-llm-rating-databricks.json` (this is when the judging prompt is the old databrick prompt)
-    - `answers/qasper-answer-llm-rating.json`
+- a visualized SHT for each generated SHT
 
-- `answer_contest_stats/contract`: the jaccard similarity of the retrieved context compared with the gold context
+    (Example: [01262022-1835.vis](./data/example/sbert.empty.c100.s100/sht_vis/01262022-1835.vis))
 
-- `wrong_answers/`: the wrong answers
+- an indexing that sorts the SHT nodes in ascending order of their distances to a query in the embedding space
+
+    (Example: [index.jsonl](./data/example/sbert.empty.c100.s100/sbert.cosine.h1/index.jsonl))
+
+- the retrieved context for each query
+
+    (Example: [context.jsonl](./data/example/sbert.empty.c100.s100/sbert.cosine.h1/1000.l1.h1/context.jsonl))
+
+You can then use these contexts to answer queries.
+
+# Development
+Structured-RAG is implemented in folder [structured_rag/](./structured_rag/). For implementation details , please read [structured_rag/README.md](./structured_rag/README.md). 
+
+## Add a new embedding model
+- In [SHTBuilder.py](./structured_rag/SHTBuilder.py)
+    - import your new model from `.EmbeddingModels`
+    - add your new model to `self.embedder` in `SHTBuilder.__init__`
+- In [SHTIndexer.py](./structured_rag/SHTIndexer.py)
+    - import your new model from `.EmbeddingModels`
+    - add your new model to `self.embedder` in `SHTIndexer.__init__`
+- In [StructuredRAG.py](./structured_rag/StructuredRAG.py)
+    - Add your new model to `candid_embedding_models` in `Structured_RAG.build_sht`
+- In [run_structured_rag.py](./run_structured_rag.py)
+    - add your new model to the choices of cmd argument `--node-embedding-model` and/or `--query-embedding-model`
+
+
+## Add a new summarization model
+- In [SummarizationModels.py](./structured_rag/SummarizationModels.py)
+    - define your new model as a derived class of `BaseSummarizationModel`
+    - you can refer to `BaseGPTSummarizationModel`
+- In [SHTBuilder.py](./structured_rag/SHTBuilder.py)
+    - import your new model from `.SummarizationModels`
+    - add your new model to `self.summarizer` in  `SHTBuilder.__init__`
+- In [structured_rag.py](./run_structured_rag.py)
+    - add your new model to the choices of cmd argument `--summarization-model`
+
+# Data
+Our experiment data is stored under `./data`.
+## Shared data
+```
+data
+└── <your-dataset>
+    ├── pdf
+    ├── heading_identification
+    ├── node_clustering
+    └── queries.json
+```
+- `pdf/` stored the queried files.
+- `heading_identifiaction/` stores the VGT results for the pdfs.
+- `node_clustering/` stores the clustered headings (e.g., SHT nodes) for the pdfs.
+- `queries.json` stores all the queries.
+
+## Baselines Results
+Folder `baselines/` stores the results for the baselines. 
+```
+data
+└── <your-dataset>
+    └── baselines
+        ├── <node-embedding-model>.<summarization-model>.c<context-len>.s<summarization-len>
+        │   └── <query-embedding-model>.<distance-metric>.raptor<is-raptor>
+        │       ├── <context-len>.o<is-ordered>
+        │       │   ├── context.jsonl
+        │       │   ├── answer.jsonl
+        │       │   ├── (qa_job.jsonl)
+        │       │   ├── (qa_result.jsonl)
+        │       │   ├── (rating.jsonl)
+        │       │   ├── (rating_job.jsonl)
+        │       │   └── (rating_result.jsonl)
+        │       └── index.jsonl
+        └── raptor_tree
+```
+- `raptor_tree/` stores the tree generated by raptor for the pdfs.
+- `index.jsonl` stores the SHT nodes sorted in indexing order for the queries.
+- `context.jsonl` stores the generated contexts for the queries.
+- `answer.jsonl` stores the answers for the queries using the generated contexts.
+- `rating.jsonl` stores the LLM's ratings for the generated answers. Only Qasper dataset has this file.
+- `qa_job.jsonl`, `qa_result.jsonl`, `rating_job.jsonl`, and `rating_result.jsonl` are intermediate files for openai batch api. 
+
+The configurations for the baselines can be indicated from the path to the results.
+
+## Structured-RAG Results
+```
+data
+└── <your-dataset>
+    └── <node-embedding-model>.<summarization-model>.c<context-len>.s<summarization-len>
+        ├── <query-embedding-model>.<distance-metric>.h<embed-hierarchy>
+        │   ├── <context-len>.l<context-raw>.h<context-hierarchy>
+        │   │   ├── context.jsonl
+        │   │   ├── answer.jsonl
+        │   │   ├── (qa_job.jsonl)
+        │   │   ├── (qa_result.jsonl)
+        │   │   ├── (rating.jsonl)
+        │   │   ├── (rating_job.jsonl)
+        │   │   └── (rating_result.jsonl)
+        │   └── index.jsonl
+        ├── sht
+        └── sht_vis
+```
+- `sht/` stores the SHTs for the queried pdfs.
+- `sht_vis/` stores the visualized SHTs.
+
+The configurations for Structured-RAG can be inferred from the path to the results.
+
+## GROBID Results
+Folder `grobid/` stores the results for SHTs generated by [GROBID](https://github.com/allenai/s2orc-doc2json). 
+```
+data
+└── <your-dataset>
+    └── grobid
+        ├── <node-embedding-model>.<summarization-model>.c<context-len>.s<summarization-len>
+        │   └── <query-embedding-model>.<distance-metric>.h<embed-hierarchy>
+        │       ├── <context-len>.l<context-raw>.h<context-hierarchy>
+        │       │   ├── context.jsonl
+        │       │   ├── answer.jsonl
+        │       │   ├── (qa_job.jsonl)
+        │       │   ├── (qa_result.jsonl)
+        │       │   ├── (rating.jsonl)
+        │       │   ├── (rating_job.jsonl)
+        │       │   └── (rating_result.jsonl)
+        │       └── index.jsonl
+        ├── grobid
+        └── node_clustering
+```
+
+- `grobid/` stores the immediate results returned by GROBID.
+- `node_clustering/` stores the imtermediate results that help build SHTs from GROBID results.
+
+## Intrinsic SHT Results
+Folder `intrinsic/` stores the results for the human-labeled intrinsic SHTs. 
+```
+data
+└── <your-dataset>
+    └── intrinsic
+        ├── <node-embedding-model>.<summarization-model>.c<context-len>.s<summarization-len>
+        │   └── <query-embedding-model>.<distance-metric>.raptor<is-raptor>
+        │       ├── <context-len>.o<is-ordered>
+        │       │   ├── context.jsonl
+        │       │   ├── answer.jsonl
+        │       │   ├── (qa_job.jsonl)
+        │       │   ├── (qa_result.jsonl)
+        │       │   ├── (rating.jsonl)
+        │       │   ├── (rating_job.jsonl)
+        │       │   └── (rating_result.jsonl)
+        │       └── index.jsonl
+        ├── heading_identification
+        ├── human_label
+        └── node_clustering
+```
+- `human_label/` stores the human labels.
+- `heading_idenfication/` and `node_clustering/` are deducted from the human labels. 
+
+# Reproduction
+## Evaluation Scripts
+Folder: [eval/](./eval/)
+- `eval_{dataset}.py` evaluate the *accuracy*, *f1*, or *ratings by LLM-as-a-judge* of the corresponding dataset.
+
+## Data Generation Scripts
+- [run_structured_rag.py](./run_structured_rag.py) generates the Strcuctured-RAG results.
+- [run_grobid.py](./run_grobid.py) generates the GROBID SHTs. Then you can use `StructuredRAG` to generate (similar to [run_structured_rag.py](./run_structured_rag.py)) their indexes and contexts.
+- [run_raptor.py](./run_raptor.py) generates the RAPTOR trees and their indexes and contexts.
+- [run_vanilla.py](./run_vanilla.py) generates the vanilla chunks and their indexes. Then you can use `StructuredRAG` to generate (similar to [run_structured_rag.py](./run_structured_rag.py)) their contexts.
+- [run_bm25.py](./run_bm25.py) generates the results of Structured-RAG and baselines (vanilla & raptor) using BM25 as the embedder for nodes and queries. 
+
+Specifically, `compare.py` calculates the number of $C$-templatizeda and well-formatted files.
+
+## QA scripts
+Folder: [batches/](./batches/)
+
+We use openai batch api for question-answering and LLM-as-a-judge. 
+- [batch.py](./batches/batch.py) generates a batch file storing a batch of qa/rating (llm-as-a-judge) tasks, uploads it to the server, and creates a corresponding batch job. You can also check the status of a batch, retrieve the result of the tasks from the server, and delete the batch job from the server.
+- [llm_judge_prompt.txt](./batches/llm_judge_prompt.txt) stores the prompt template for LLM-as-a-judge to rate an answer compared with the gold answer.
+
+# References
+## raptor
+directory: [raptor](./raptor/)
+
+This was copied from raptor's [codebase](https://github.com/parthsarthi03/raptor).
