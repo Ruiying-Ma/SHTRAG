@@ -1,0 +1,10 @@
+[
+    {
+        "id": 0,
+        "file_name": "01262022-1835",
+        "query": "What is the status of the project 'Civic Center Water Treatment Facility Phase 2'?",
+        "prompt_template": "What is the status of the project 'Civic Center Water Treatment Facility Phase 2'? Please select one of the following: 'not started', 'construction', 'design', 'completed'.\n\n[Begin of Context]\n{context}\n[End of Context]\n\nAnswer: [not started / construction / design / completed]",
+        "answer": "design",
+        "context": []
+    }
+]

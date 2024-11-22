@@ -1,0 +1,2789 @@
+[
+    {
+        "left": 470.0,
+        "top": 82.0,
+        "width": 73.0,
+        "height": 69.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Public Works Commission Meeting 10-27-21 Item 4.A.",
+        "type": "Page header",
+        "id": 0
+    },
+    {
+        "left": 146.0,
+        "top": 122.0,
+        "width": 302.0,
+        "height": 63.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Public Works Commission Agenda Report",
+        "type": "Section header",
+        "id": 1,
+        "features": {
+            "font_size": 25.54,
+            "font_name": "ArialMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 0
+    },
+    {
+        "left": 63.0,
+        "top": 207.0,
+        "width": 464.0,
+        "height": 145.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "To: Chair Simmens and Members of the Public Works Commission Prepared by: Troy Spayd, Assistant Public Works Director/City Engineer Approved by: Rob DuBoux, Public Works Director/City Engineer Date prepared:   October 21, 2021 Meeting date: October 27, 2021 Subject: Capital Improvement Projects and Disaster Recovery Projects Status Report",
+        "type": "Table",
+        "id": 2
+    },
+    {
+        "left": 64.0,
+        "top": 376.0,
+        "width": 471.0,
+        "height": 70.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "RECOMMENDED ACTION: Receive and file report on the status of the City\u2019s current and upcoming Capital Improvements Projects and Disaster Recovery Projects. DISCUSSION:  Staff will provide a status update on the following active projects in the Fiscal Year 2021-2022 Capital Improvement Program:",
+        "type": "Text",
+        "id": 3
+    },
+    {
+        "left": 63.0,
+        "top": 459.0,
+        "width": 223.0,
+        "height": 12.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Capital Improvement Projects (Design)",
+        "type": "Section header",
+        "id": 4,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": true,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 1
+    },
+    {
+        "left": 64.0,
+        "top": 486.0,
+        "width": 163.0,
+        "height": 26.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Marie Canyon Green Streets \u00be Updates:",
+        "type": "Section header",
+        "id": 5,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 145.0,
+        "top": 513.0,
+        "width": 389.0,
+        "height": 68.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 A  hydrology  report  was  prepared  and  will  be  used  to  size  the  pre- manufactured  biofilters.  City  staff  is  reviewing  multiple  biofilter manufacturers for filters that will work in the proposed project area. It is anticipated to have a final design by March 2022. The project will be advertised for construction bids shortly after this date.",
+        "type": "List item",
+        "id": 6,
+        "features": {
+            "parent_id": 5,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 3
+    },
+    {
+        "left": 114.0,
+        "top": 581.0,
+        "width": 214.0,
+        "height": 27.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Schedule: \u0083 Complete Design: March 2022",
+        "type": "List item",
+        "id": 7,
+        "features": {
+            "parent_id": 5,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 4
+    },
+    {
+        "left": 147.0,
+        "top": 608.0,
+        "width": 190.0,
+        "height": 14.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Begin Construction: Spring 2022",
+        "type": "List item",
+        "id": 8,
+        "features": {
+            "parent_id": 5,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 3
+    },
+    {
+        "left": 64.0,
+        "top": 636.0,
+        "width": 202.0,
+        "height": 13.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "PCH Median Improvements Project",
+        "type": "Section header",
+        "id": 9,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 649.0,
+        "width": 421.0,
+        "height": 81.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "PCH Median Improvements Project \u00be Updates: \u0083 The project was approved by the Planning Commission on September 8, 2021. This project requires Caltrans approval since the work will be on  Pacific  Coast  Highway.  The  project  reports  and  plans  are  being routed  through  Caltrans  for  final  approval.    It  is  anticipated  that  the project  will  have  final  approval  by  March  2022.    The  project  will  be",
+        "type": "List item",
+        "id": 10,
+        "features": {
+            "parent_id": 9,
+            "list": "none"
+        },
+        "cluster_id": 5
+    },
+    {
+        "left": 269.0,
+        "top": 741.0,
+        "width": 60.0,
+        "height": 12.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Page 1 of 8",
+        "type": "Page footer",
+        "id": 11
+    },
+    {
+        "left": 437.0,
+        "top": 753.0,
+        "width": 98.0,
+        "height": 13.0,
+        "page_number": 1,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Agenda Item # 4.A.",
+        "type": "Page footer",
+        "id": 12
+    },
+    {
+        "left": 163.0,
+        "top": 124.0,
+        "width": 370.0,
+        "height": 27.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "advertised for construction bids after this date.  A construction manager agreement will be sent to City Council in March.",
+        "type": "Text",
+        "id": 13
+    },
+    {
+        "left": 114.0,
+        "top": 151.0,
+        "width": 214.0,
+        "height": 27.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Schedule:",
+        "type": "List item",
+        "id": 14,
+        "features": {
+            "parent_id": 9,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 6
+    },
+    {
+        "left": 146.0,
+        "top": 178.0,
+        "width": 239.0,
+        "height": 14.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: March 2022 \u0083 Begin Construction: Spring/Summer 2022",
+        "type": "List item",
+        "id": 15,
+        "features": {
+            "parent_id": 9,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 7
+    },
+    {
+        "left": 63.0,
+        "top": 206.0,
+        "width": 340.0,
+        "height": 13.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "PCH Signal Synchronization System Improvements Project",
+        "type": "Section header",
+        "id": 16,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 219.0,
+        "width": 67.0,
+        "height": 15.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "y \u00be Updates:",
+        "type": "Section header",
+        "id": 17,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "ArialMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 8
+    },
+    {
+        "left": 147.0,
+        "top": 234.0,
+        "width": 387.0,
+        "height": 108.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 This project will be presented to the Planning Commission in February 2022. This project requires Caltrans approval since the work will be on PCH. The project reports and plans are being routed through Caltrans for  final  approval.    It  is  anticipated  that  the  project  will  have  final approval by March 2022.  The project will be advertised for construction bids  shortly  after  final  approval.    If  possible,  the  construction  of  this project  will  begin  in  conjunction  with  the  PCH  Median  Improvement Project Schedule:",
+        "type": "List item",
+        "id": 18,
+        "features": {
+            "parent_id": 17,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 9
+    },
+    {
+        "left": 145.0,
+        "top": 342.0,
+        "width": 211.0,
+        "height": 27.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Final Design: Spring 2022 \u0083 Advertise: Spring/Summer 2022",
+        "type": "List item",
+        "id": 19,
+        "features": {
+            "parent_id": 17,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 9
+    },
+    {
+        "left": 146.0,
+        "top": 370.0,
+        "width": 349.0,
+        "height": 13.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Award Contract and Begin Construction: Spring/Summer 2022",
+        "type": "List item",
+        "id": 20,
+        "features": {
+            "parent_id": 17,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 9
+    },
+    {
+        "left": 63.0,
+        "top": 396.0,
+        "width": 261.0,
+        "height": 14.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Westward Beach Road Improvements Project",
+        "type": "Section header",
+        "id": 21,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 410.0,
+        "width": 67.0,
+        "height": 14.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "Section header",
+        "id": 22,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "ArialMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 10
+    },
+    {
+        "left": 147.0,
+        "top": 425.0,
+        "width": 388.0,
+        "height": 108.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 The  design  plans  were  approved  by  Planning  Commission  on September 20, 2021. At the December 13, 2021, City Council meeting, Council directed staff to withdraw the proposed project and associated Coastal Development Permit and directed the Public Works and Public Safety  Commissions  to  review  the  project  to  develop  project alternatives.    A  joint  Public  Works  and  Public  Safety  Commission meeting  was  held  on  January  20,  2022.    Project  alternatives  will  be presented to the commissions at a future date.",
+        "type": "List item",
+        "id": 23,
+        "features": {
+            "parent_id": 22,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 11
+    },
+    {
+        "left": 114.0,
+        "top": 533.0,
+        "width": 112.0,
+        "height": 14.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be",
+        "type": "List item",
+        "id": 24,
+        "features": {
+            "parent_id": 22,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 12
+    },
+    {
+        "left": 146.0,
+        "top": 547.0,
+        "width": 239.0,
+        "height": 27.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Project Schedule: \u0083 Complete Design: Spring 2022 \u0083 Begin Construction: Summer/Winter 2022",
+        "type": "List item",
+        "id": 25,
+        "features": {
+            "parent_id": 22,
+            "list": "none"
+        },
+        "cluster_id": 13
+    },
+    {
+        "left": 63.0,
+        "top": 589.0,
+        "width": 263.0,
+        "height": 13.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Civic Center Water Treatment Facility Phase 2",
+        "type": "Section header",
+        "id": 26,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 602.0,
+        "width": 421.0,
+        "height": 122.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates: \u0083 Individual letters were mailed to all properties within Phase 2 with their preliminary  estimated  assessments.    Staff  has  been  communicating with the property owners regarding their proposed assessments. \u0083 The MOU has been amended modifying the deadline to the formation of the assessment district to June 30, 2022. \u0083 Staff mailed easement documents to property owners for review and execution in July and has followed up with an additional letter to those property owners.",
+        "type": "List item",
+        "id": 27,
+        "features": {
+            "parent_id": 26,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 14
+    },
+    {
+        "left": 269.0,
+        "top": 741.0,
+        "width": 60.0,
+        "height": 12.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Page 2 of 8",
+        "type": "Page footer",
+        "id": 28
+    },
+    {
+        "left": 437.0,
+        "top": 754.0,
+        "width": 99.0,
+        "height": 12.0,
+        "page_number": 2,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Agenda Item # 4.A.",
+        "type": "Page footer",
+        "id": 29
+    },
+    {
+        "left": 113.0,
+        "top": 139.0,
+        "width": 113.0,
+        "height": 12.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be",
+        "type": "List item",
+        "id": 30,
+        "features": {
+            "parent_id": 26,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 14
+    },
+    {
+        "left": 147.0,
+        "top": 151.0,
+        "width": 204.0,
+        "height": 14.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Project Schedule:",
+        "type": "List item",
+        "id": 31,
+        "features": {
+            "parent_id": 26,
+            "list": "none"
+        },
+        "cluster_id": 15
+    },
+    {
+        "left": 146.0,
+        "top": 165.0,
+        "width": 213.0,
+        "height": 27.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: December 2021 \u0083 Advertise for Bidding: February 2022 \u0083 Begin Construction: Fall 2022",
+        "type": "List item",
+        "id": 32,
+        "features": {
+            "parent_id": 26,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 16
+    },
+    {
+        "left": 64.0,
+        "top": 208.0,
+        "width": 161.0,
+        "height": 11.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Bluffs Park Shade Structure",
+        "type": "Section header",
+        "id": 33,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 116.0,
+        "top": 220.0,
+        "width": 417.0,
+        "height": 26.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project consists of the installation of four single-post shade structures at Malibu Bluffs Park.",
+        "type": "List item",
+        "id": 34,
+        "features": {
+            "parent_id": 33,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 17
+    },
+    {
+        "left": 114.0,
+        "top": 249.0,
+        "width": 68.0,
+        "height": 11.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "List item",
+        "id": 35,
+        "features": {
+            "parent_id": 33,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 17
+    },
+    {
+        "left": 146.0,
+        "top": 261.0,
+        "width": 389.0,
+        "height": 27.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Staff is currently working on the design of the project and anticipates sending this project out to bid during the Spring of 2022.",
+        "type": "List item",
+        "id": 36,
+        "features": {
+            "parent_id": 33,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 18
+    },
+    {
+        "left": 114.0,
+        "top": 289.0,
+        "width": 128.0,
+        "height": 12.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Estimated Schedule:",
+        "type": "List item",
+        "id": 37,
+        "features": {
+            "parent_id": 33,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 17
+    },
+    {
+        "left": 146.0,
+        "top": 302.0,
+        "width": 183.0,
+        "height": 14.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: Spring 2022",
+        "type": "List item",
+        "id": 38,
+        "features": {
+            "parent_id": 33,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 18
+    },
+    {
+        "left": 146.0,
+        "top": 316.0,
+        "width": 193.0,
+        "height": 13.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Begin Construction: Spring 2022",
+        "type": "List item",
+        "id": 39,
+        "features": {
+            "parent_id": 33,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 18
+    },
+    {
+        "left": 64.0,
+        "top": 345.0,
+        "width": 129.0,
+        "height": 11.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Permanent Skate Park",
+        "type": "Section header",
+        "id": 40,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 356.0,
+        "width": 421.0,
+        "height": 54.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Permanent Skate Park \u00be Project Description:  This project includes the designing and constructing a permanent skate park located on the Crummer/Case Court parcel adjacent to Malibu Bluffs Park.  The project would include parking and additional site amenities such as trash cans, benches, tables, and restrooms.",
+        "type": "List item",
+        "id": 41,
+        "features": {
+            "parent_id": 40,
+            "list": "none"
+        },
+        "cluster_id": 19
+    },
+    {
+        "left": 113.0,
+        "top": 412.0,
+        "width": 67.0,
+        "height": 12.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "List item",
+        "id": 42,
+        "features": {
+            "parent_id": 40,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 20
+    },
+    {
+        "left": 147.0,
+        "top": 425.0,
+        "width": 387.0,
+        "height": 80.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 In May 2021, the Council approved funding for additional engineering work related to the project. Staff has worked with the consultant over the past several months to complete the engineering work, and the final draft plans are expected to be completed in early 2022. The Planning Commission  will  then  review  the  project  in  Spring  2022  before  final review by the Council.",
+        "type": "List item",
+        "id": 43,
+        "features": {
+            "parent_id": 40,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 21
+    },
+    {
+        "left": 114.0,
+        "top": 507.0,
+        "width": 215.0,
+        "height": 26.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Estimated Schedule: \u0083 Complete Design: Spring 2022",
+        "type": "List item",
+        "id": 44,
+        "features": {
+            "parent_id": 40,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 20
+    },
+    {
+        "left": 146.0,
+        "top": 534.0,
+        "width": 220.0,
+        "height": 13.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Begin Construction:  To be determined",
+        "type": "List item",
+        "id": 45,
+        "features": {
+            "parent_id": 40,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 21
+    },
+    {
+        "left": 64.0,
+        "top": 562.0,
+        "width": 265.0,
+        "height": 12.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "PCH at Trancas Canyon Road Right Turn Lane",
+        "type": "Section header",
+        "id": 46,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 115.0,
+        "top": 575.0,
+        "width": 419.0,
+        "height": 27.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project consists of installing a new westbound right turn lane at the intersection of PCH and Trancas Canyon Road.",
+        "type": "List item",
+        "id": 47,
+        "features": {
+            "parent_id": 46,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 22
+    },
+    {
+        "left": 113.0,
+        "top": 603.0,
+        "width": 69.0,
+        "height": 12.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "List item",
+        "id": 48,
+        "features": {
+            "parent_id": 46,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 22
+    },
+    {
+        "left": 147.0,
+        "top": 616.0,
+        "width": 388.0,
+        "height": 41.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Staff  is  reviewing  the  submitted  proposals  and  will  select  a  qualified consultant.  It is anticipated that this agreement will go to Council in March 2022",
+        "type": "List item",
+        "id": 49,
+        "features": {
+            "parent_id": 46,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 23
+    },
+    {
+        "left": 114.0,
+        "top": 657.0,
+        "width": 210.0,
+        "height": 26.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Estimated Schedule: \u0083 Begin Design: Spring 2022",
+        "type": "List item",
+        "id": 50,
+        "features": {
+            "parent_id": 46,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 22
+    },
+    {
+        "left": 64.0,
+        "top": 699.0,
+        "width": 256.0,
+        "height": 12.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Capital Improvement Projects (Construction)",
+        "type": "Section header",
+        "id": 51,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": true,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 1
+    },
+    {
+        "left": 64.0,
+        "top": 726.0,
+        "width": 314.0,
+        "height": 12.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "The City does not have projects in construction at this time.",
+        "type": "Text",
+        "id": 52
+    },
+    {
+        "left": 269.0,
+        "top": 742.0,
+        "width": 60.0,
+        "height": 11.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Page 3 of 8",
+        "type": "Page footer",
+        "id": 53
+    },
+    {
+        "left": 437.0,
+        "top": 755.0,
+        "width": 98.0,
+        "height": 11.0,
+        "page_number": 3,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Agenda Item # 4.A.",
+        "type": "Page footer",
+        "id": 54
+    },
+    {
+        "left": 63.0,
+        "top": 138.0,
+        "width": 247.0,
+        "height": 14.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Capital Improvement Projects (Not Started)",
+        "type": "Section header",
+        "id": 55,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": true,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 1
+    },
+    {
+        "left": 63.0,
+        "top": 165.0,
+        "width": 156.0,
+        "height": 14.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Vehicle Protection Devices",
+        "type": "Section header",
+        "id": 56,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 112.0,
+        "top": 180.0,
+        "width": 422.0,
+        "height": 68.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  Per Malibu Municipal Code Section 17.48.070 requires vehicle impact protection devices to be installed for all parking spaces located adjacent  to  any  outdoor  pedestrian  seating  area.    There  are  two  locations within the City\u2019s right-of-way  and City-owned property that would require a vehicle impact protection device.",
+        "type": "List item",
+        "id": 57,
+        "features": {
+            "parent_id": 56,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 24
+    },
+    {
+        "left": 64.0,
+        "top": 260.0,
+        "width": 194.0,
+        "height": 14.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Legacy Park Paver Repair Project",
+        "type": "Section header",
+        "id": 58,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 275.0,
+        "width": 420.0,
+        "height": 40.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project will consist of removing and repairing a large section  of  pavers  in  Legacy  Park.  The  pavers  have  become  uneven  and damaged in several areas",
+        "type": "List item",
+        "id": 59,
+        "features": {
+            "parent_id": 58,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 25
+    },
+    {
+        "left": 63.0,
+        "top": 329.0,
+        "width": 199.0,
+        "height": 13.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Malibu Bluffs Park South Walkway",
+        "type": "Section header",
+        "id": 60,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 115.0,
+        "top": 343.0,
+        "width": 418.0,
+        "height": 27.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project will include replacing the existing sidewalk located on the south side of Malibu Bluffs Park.",
+        "type": "List item",
+        "id": 61,
+        "features": {
+            "parent_id": 60,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 26
+    },
+    {
+        "left": 64.0,
+        "top": 384.0,
+        "width": 468.0,
+        "height": 41.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Trancas Playground Resurfacing \u00be Project Description:  The project will include removing and replacing the upper layer of the playground surfacing at Trancas Canyon Park.",
+        "type": "List item",
+        "id": 62,
+        "features": {
+            "parent_id": 60,
+            "list": "none"
+        },
+        "cluster_id": 27
+    },
+    {
+        "left": 64.0,
+        "top": 438.0,
+        "width": 356.0,
+        "height": 13.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "PCH Median Improvements at Paradise Cove and Zuma Beach",
+        "type": "Section header",
+        "id": 63,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 113.0,
+        "top": 452.0,
+        "width": 421.0,
+        "height": 96.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project was identified in the 2015 PCH Safety Study and includes installing new raised medians and improvements.  New raised medians are proposed east and west of PCH and Paradise Cove Road.  The proposed improvements also include the relocation of the existing bus stop and new signage.  The project will also include the installation of new raised medians on PCH in the areas where the double yellow lines exist in the vicinity of Zuma Beach, specifically where the yellow paddles are installed.",
+        "type": "List item",
+        "id": 64,
+        "features": {
+            "parent_id": 63,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 28
+    },
+    {
+        "left": 64.0,
+        "top": 562.0,
+        "width": 244.0,
+        "height": 13.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Capital Improvement Projects (Completed)",
+        "type": "Section header",
+        "id": 65,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": true,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 1
+    },
+    {
+        "left": 63.0,
+        "top": 589.0,
+        "width": 187.0,
+        "height": 13.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Civic Center Way Improvements",
+        "type": "Section header",
+        "id": 66,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 116.0,
+        "top": 602.0,
+        "width": 418.0,
+        "height": 41.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:  The  contractor  has  completed  the  planting  material  maintenance period  as  described  within  the  project  documents.  Council  accepted  this project as complete at the September 13th City Council Meeting.",
+        "type": "List item",
+        "id": 67,
+        "features": {
+            "parent_id": 66,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 29
+    },
+    {
+        "left": 63.0,
+        "top": 656.0,
+        "width": 256.0,
+        "height": 15.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Civic Center Stormwater Diversion Structure",
+        "type": "Section header",
+        "id": 68,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 671.0,
+        "width": 420.0,
+        "height": 53.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:  The contractor has completed the storm drain improvements in the Civic  Center  Way  are.    The  improvements  modified  the  existing  concrete channel underneath Civic Center Way by adding a 3\u2019 concrete curb adjacent to the existing flap gates.  The new curb prevents brackish water intrusion",
+        "type": "List item",
+        "id": 69,
+        "features": {
+            "parent_id": 68,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 30
+    },
+    {
+        "left": 269.0,
+        "top": 741.0,
+        "width": 60.0,
+        "height": 12.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Page 4 of 8",
+        "type": "Page footer",
+        "id": 70
+    },
+    {
+        "left": 437.0,
+        "top": 754.0,
+        "width": 98.0,
+        "height": 12.0,
+        "page_number": 4,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Agenda Item # 4.A.",
+        "type": "Page footer",
+        "id": 71
+    },
+    {
+        "left": 130.0,
+        "top": 125.0,
+        "width": 404.0,
+        "height": 26.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "into  the  City\u2019s  Civic  Center  Stormwater  Treatment  Facility.  This  project  is scheduled to be accepted by the Council at the January 24, 2022 meeting.",
+        "type": "Text",
+        "id": 72
+    },
+    {
+        "left": 63.0,
+        "top": 166.0,
+        "width": 187.0,
+        "height": 12.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "2021 Annual Street Maintenance",
+        "type": "Section header",
+        "id": 73,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 112.0,
+        "top": 180.0,
+        "width": 423.0,
+        "height": 80.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates: This project included resurfacing Malibu Road, Broad Beach Road, Latigo  Canyon  Road,  Corral  Canyon  Road,  Webb  Way,  Rambla  Pacifico Street  and  Vista  Pacifica  with  a  slurry  seal  treatment  and  adding  speed humps to Birdview Avenue.  This project was identified in the City\u2019s Pavement Management Plan. This project is scheduled to be accepted by the Council at the January 24, 2022 meeting.",
+        "type": "List item",
+        "id": 74,
+        "features": {
+            "parent_id": 73,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 31
+    },
+    {
+        "left": 64.0,
+        "top": 277.0,
+        "width": 152.0,
+        "height": 11.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Disaster Projects (Design)",
+        "type": "Section header",
+        "id": 75,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": true,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 1
+    },
+    {
+        "left": 63.0,
+        "top": 303.0,
+        "width": 418.0,
+        "height": 12.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Broad Beach Road Water Quality Infrastructure Repairs (CalJPIA Project)",
+        "type": "Section header",
+        "id": 76,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 113.0,
+        "top": 318.0,
+        "width": 68.0,
+        "height": 11.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "List item",
+        "id": 77,
+        "features": {
+            "parent_id": 76,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 32
+    },
+    {
+        "left": 113.0,
+        "top": 329.0,
+        "width": 421.0,
+        "height": 40.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 The project consultant prepared the specifications for the project. Staff is finalizing the bid documents. \u00be Project Schedule:",
+        "type": "List item",
+        "id": 78,
+        "features": {
+            "parent_id": 76,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 33
+    },
+    {
+        "left": 147.0,
+        "top": 383.0,
+        "width": 192.0,
+        "height": 14.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: February 2022 \u0083 Begin Construction: Spring 2022",
+        "type": "List item",
+        "id": 79,
+        "features": {
+            "parent_id": 76,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 33
+    },
+    {
+        "left": 63.0,
+        "top": 413.0,
+        "width": 434.0,
+        "height": 11.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Latigo Canyon Road Roadway/Retaining Wall Improvements (FEMA Project)",
+        "type": "Section header",
+        "id": 80,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 113.0,
+        "top": 427.0,
+        "width": 69.0,
+        "height": 11.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be",
+        "type": "Text",
+        "id": 81
+    },
+    {
+        "left": 147.0,
+        "top": 438.0,
+        "width": 242.0,
+        "height": 13.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Updates:",
+        "type": "List item",
+        "id": 82,
+        "features": {
+            "parent_id": 80,
+            "list": "none"
+        },
+        "cluster_id": 34
+    },
+    {
+        "left": 150.0,
+        "top": 451.0,
+        "width": 383.0,
+        "height": 28.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Staff is finalizing the design of this project. \u0083 Staff  is  also  working  with  FEMA/CalOES  to  substitute  the  existing timber with non-combustible materials.",
+        "type": "List item",
+        "id": 83,
+        "features": {
+            "parent_id": 80,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 35
+    },
+    {
+        "left": 114.0,
+        "top": 479.0,
+        "width": 110.0,
+        "height": 14.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Schedule",
+        "type": "List item",
+        "id": 84,
+        "features": {
+            "parent_id": 80,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 36
+    },
+    {
+        "left": 146.0,
+        "top": 494.0,
+        "width": 196.0,
+        "height": 13.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: February 2022",
+        "type": "List item",
+        "id": 85,
+        "features": {
+            "parent_id": 80,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 35
+    },
+    {
+        "left": 146.0,
+        "top": 507.0,
+        "width": 183.0,
+        "height": 13.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Begin Construction: April 2022",
+        "type": "List item",
+        "id": 86,
+        "features": {
+            "parent_id": 80,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 35
+    },
+    {
+        "left": 63.0,
+        "top": 535.0,
+        "width": 439.0,
+        "height": 12.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Trancas Canyon Park Planting and Irrigation Repairs (CalJPIA/FEMA Project)",
+        "type": "Section header",
+        "id": 87,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 549.0,
+        "width": 67.0,
+        "height": 12.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "Text",
+        "id": 88
+    },
+    {
+        "left": 142.0,
+        "top": 561.0,
+        "width": 339.0,
+        "height": 13.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 The project consultant has started the design of this project.",
+        "type": "List item",
+        "id": 89,
+        "features": {
+            "parent_id": 87,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 37
+    },
+    {
+        "left": 114.0,
+        "top": 575.0,
+        "width": 113.0,
+        "height": 13.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Schedule:",
+        "type": "List item",
+        "id": 90,
+        "features": {
+            "parent_id": 87,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 38
+    },
+    {
+        "left": 145.0,
+        "top": 589.0,
+        "width": 184.0,
+        "height": 13.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: Spring 2022",
+        "type": "List item",
+        "id": 91,
+        "features": {
+            "parent_id": 87,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 37
+    },
+    {
+        "left": 146.0,
+        "top": 602.0,
+        "width": 192.0,
+        "height": 14.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Begin Construction: Spring 2022",
+        "type": "List item",
+        "id": 92,
+        "features": {
+            "parent_id": 87,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 37
+    },
+    {
+        "left": 64.0,
+        "top": 632.0,
+        "width": 378.0,
+        "height": 11.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Trancas Canyon Park Slope Stabilization Project (CalJPIA Project)",
+        "type": "Section header",
+        "id": 93,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 645.0,
+        "width": 68.0,
+        "height": 12.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "Text",
+        "id": 94
+    },
+    {
+        "left": 142.0,
+        "top": 657.0,
+        "width": 339.0,
+        "height": 13.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 The project consultant has started the design of this project.",
+        "type": "List item",
+        "id": 95,
+        "features": {
+            "parent_id": 93,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 39
+    },
+    {
+        "left": 114.0,
+        "top": 672.0,
+        "width": 113.0,
+        "height": 12.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Schedule:",
+        "type": "List item",
+        "id": 96,
+        "features": {
+            "parent_id": 93,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 40
+    },
+    {
+        "left": 146.0,
+        "top": 684.0,
+        "width": 182.0,
+        "height": 13.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: Spring 2022",
+        "type": "List item",
+        "id": 97,
+        "features": {
+            "parent_id": 93,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 39
+    },
+    {
+        "left": 146.0,
+        "top": 698.0,
+        "width": 192.0,
+        "height": 14.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Begin Construction: Spring 2022",
+        "type": "List item",
+        "id": 98,
+        "features": {
+            "parent_id": 93,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 39
+    },
+    {
+        "left": 63.0,
+        "top": 726.0,
+        "width": 231.0,
+        "height": 12.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Storm Drain Master Plan (FEMA Project)",
+        "type": "Section header",
+        "id": 99,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 269.0,
+        "top": 742.0,
+        "width": 60.0,
+        "height": 11.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Page 5 of 8",
+        "type": "Page footer",
+        "id": 100
+    },
+    {
+        "left": 437.0,
+        "top": 755.0,
+        "width": 99.0,
+        "height": 10.0,
+        "page_number": 5,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Agenda Item # 4.A.",
+        "type": "Page footer",
+        "id": 101
+    },
+    {
+        "left": 114.0,
+        "top": 124.0,
+        "width": 418.0,
+        "height": 54.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project will be funded through a grant from FEMA after the Woolsey Fire.  The City will create a complete inventory of storm drains,  culverts,  debris  basins,  manholes,  and  other  drainage  structures within the City.",
+        "type": "List item",
+        "id": 102,
+        "features": {
+            "parent_id": 99,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 41
+    },
+    {
+        "left": 114.0,
+        "top": 179.0,
+        "width": 418.0,
+        "height": 26.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:  Council approved an agreement in December for design services. A kick-off meeting was held in late December.",
+        "type": "List item",
+        "id": 103,
+        "features": {
+            "parent_id": 99,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 41
+    },
+    {
+        "left": 114.0,
+        "top": 206.0,
+        "width": 129.0,
+        "height": 13.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be",
+        "type": "List item",
+        "id": 104,
+        "features": {
+            "parent_id": 99,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 41
+    },
+    {
+        "left": 146.0,
+        "top": 219.0,
+        "width": 178.0,
+        "height": 14.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Estimated Schedule: \u0083 Completion Date:  Spring 2022",
+        "type": "List item",
+        "id": 105,
+        "features": {
+            "parent_id": 99,
+            "list": "none"
+        },
+        "cluster_id": 42
+    },
+    {
+        "left": 64.0,
+        "top": 248.0,
+        "width": 275.0,
+        "height": 12.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Guardrail Replacement Citywide (FEMA Project)",
+        "type": "Section header",
+        "id": 106,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 261.0,
+        "width": 418.0,
+        "height": 26.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project  Description:    This  project  consisted  of  replacing  the  damaged guardrail throughout the City as a result of the Woolsey Fire.",
+        "type": "List item",
+        "id": 107,
+        "features": {
+            "parent_id": 106,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 43
+    },
+    {
+        "left": 63.0,
+        "top": 300.0,
+        "width": 470.0,
+        "height": 39.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Corral Canyon Road Bridge Repairs (FEMA Project) \u00be Project Description:  This project consisted of replacing fire damaged existing fencing and repairing the damaged embankment adjacent to the bridge.",
+        "type": "List item",
+        "id": 108,
+        "features": {
+            "parent_id": 106,
+            "list": "none"
+        },
+        "cluster_id": 44
+    },
+    {
+        "left": 63.0,
+        "top": 354.0,
+        "width": 265.0,
+        "height": 12.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Corral Canyon Culvert Repairs (FEMA Project)",
+        "type": "Section header",
+        "id": 109,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 116.0,
+        "top": 367.0,
+        "width": 416.0,
+        "height": 27.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project has been cancelled as it could not get FEMA approval.",
+        "type": "List item",
+        "id": 110,
+        "features": {
+            "parent_id": 109,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 45
+    },
+    {
+        "left": 114.0,
+        "top": 395.0,
+        "width": 11.0,
+        "height": 12.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be",
+        "type": "Text",
+        "id": 111
+    },
+    {
+        "left": 63.0,
+        "top": 409.0,
+        "width": 283.0,
+        "height": 13.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Birdview Avenue Improvements (CalOES Project)",
+        "type": "Section header",
+        "id": 112,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 115.0,
+        "top": 422.0,
+        "width": 418.0,
+        "height": 26.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:  This  project  was  included  in  the  Malibu  Park  Drainage Improvement.",
+        "type": "List item",
+        "id": 113,
+        "features": {
+            "parent_id": 112,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 46
+    },
+    {
+        "left": 64.0,
+        "top": 464.0,
+        "width": 209.0,
+        "height": 12.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Malibu Park Drainage Improvements",
+        "type": "Section header",
+        "id": 114,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 114.0,
+        "top": 477.0,
+        "width": 420.0,
+        "height": 54.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates: The Contractor completed the repairs to storm drains on Cuthbert Road,  Morning  View  Drive,  Busch  Drive,  Harvester  Road  and  Birdview Avenue.  This  project  is  scheduled  to  be  accepted  by  the  Council  at  the January 24, 2022 meeting.",
+        "type": "List item",
+        "id": 115,
+        "features": {
+            "parent_id": 114,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 47
+    },
+    {
+        "left": 63.0,
+        "top": 546.0,
+        "width": 249.0,
+        "height": 12.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Clover Heights Storm Drain (FEMA Project)",
+        "type": "Section header",
+        "id": 116,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 113.0,
+        "top": 559.0,
+        "width": 420.0,
+        "height": 67.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project consists of design and construction of a few storm drains on Clover Heights.  The existing storm drain facility ends at the intersection  of  Clover  Heights  and  Harvester  Road.    During  storms,  this intersection floods and causes debris to block the road.  An extended storm drain towards the end of Clover Heights will help eliminate this issue.",
+        "type": "List item",
+        "id": 117,
+        "features": {
+            "parent_id": 116,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 48
+    },
+    {
+        "left": 113.0,
+        "top": 626.0,
+        "width": 68.0,
+        "height": 13.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "List item",
+        "id": 118,
+        "features": {
+            "parent_id": 116,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 48
+    },
+    {
+        "left": 146.0,
+        "top": 640.0,
+        "width": 388.0,
+        "height": 28.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Staff is currently preparing consultant proposals for the design of this project.  Proposals will be due in February/March.",
+        "type": "List item",
+        "id": 119,
+        "features": {
+            "parent_id": 116,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 49
+    },
+    {
+        "left": 63.0,
+        "top": 682.0,
+        "width": 299.0,
+        "height": 12.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Latigo Canyon Road Culvert Repairs (FEMA Project)",
+        "type": "Section header",
+        "id": 120,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 113.0,
+        "top": 695.0,
+        "width": 421.0,
+        "height": 40.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project consists of repairing the existing storm drain on Latigo Canyon Road located approximately 2,500 feet from PCH that was damaged by the Woolsey Fire.",
+        "type": "List item",
+        "id": 121,
+        "features": {
+            "parent_id": 120,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 50
+    },
+    {
+        "left": 269.0,
+        "top": 741.0,
+        "width": 60.0,
+        "height": 12.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Page 6 of 8",
+        "type": "Page footer",
+        "id": 122
+    },
+    {
+        "left": 437.0,
+        "top": 755.0,
+        "width": 98.0,
+        "height": 11.0,
+        "page_number": 6,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Agenda Item # 4.A.",
+        "type": "Page footer",
+        "id": 123
+    },
+    {
+        "left": 113.0,
+        "top": 126.0,
+        "width": 70.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "List item",
+        "id": 124,
+        "features": {
+            "parent_id": 120,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 50
+    },
+    {
+        "left": 148.0,
+        "top": 138.0,
+        "width": 386.0,
+        "height": 54.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 This  project  is  currently  under  design  with  the  City\u2019s  consultant.  It  is anticipated that the final design will be complete by February 2022. The project  will  be  advertised  for  construction  bids  with  construction beginning in April 2022.",
+        "type": "List item",
+        "id": 125,
+        "features": {
+            "parent_id": 120,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 51
+    },
+    {
+        "left": 114.0,
+        "top": 195.0,
+        "width": 129.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Estimated Schedule:",
+        "type": "List item",
+        "id": 126,
+        "features": {
+            "parent_id": 120,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 50
+    },
+    {
+        "left": 146.0,
+        "top": 219.0,
+        "width": 182.0,
+        "height": 14.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: February 2022 \u0083 Begin Construction: April 2022",
+        "type": "List item",
+        "id": 127,
+        "features": {
+            "parent_id": 120,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 51
+    },
+    {
+        "left": 64.0,
+        "top": 249.0,
+        "width": 364.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Encinal Canyon Road Drainage Improvements (CalOES Project)",
+        "type": "Section header",
+        "id": 128,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 115.0,
+        "top": 261.0,
+        "width": 418.0,
+        "height": 27.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  This project consists of repairing damage storm drain facilities and roadway embankments that were damaged by the Woolsey Fire.",
+        "type": "List item",
+        "id": 129,
+        "features": {
+            "parent_id": 128,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 52
+    },
+    {
+        "left": 114.0,
+        "top": 290.0,
+        "width": 68.0,
+        "height": 10.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Updates:",
+        "type": "List item",
+        "id": 130,
+        "features": {
+            "parent_id": 128,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 52
+    },
+    {
+        "left": 136.0,
+        "top": 304.0,
+        "width": 336.0,
+        "height": 12.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 The project design will commence during the Spring 2022.",
+        "type": "List item",
+        "id": 131,
+        "features": {
+            "parent_id": 128,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 53
+    },
+    {
+        "left": 113.0,
+        "top": 317.0,
+        "width": 155.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Estimated Schedule: TBD",
+        "type": "List item",
+        "id": 132,
+        "features": {
+            "parent_id": 128,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 52
+    },
+    {
+        "left": 63.0,
+        "top": 345.0,
+        "width": 255.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Malibu Road Slope Repairs (CalOES Project)",
+        "type": "Section header",
+        "id": 133,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 115.0,
+        "top": 356.0,
+        "width": 418.0,
+        "height": 27.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Malibu Road Slope Repairs (CalOES Project) \u00be Project Description:  The existing slope adjacent to the beach access stairs at 24712 Malibu Road has been eroded and caused damage to Malibu Road.",
+        "type": "List item",
+        "id": 134,
+        "features": {
+            "parent_id": 133,
+            "list": "none"
+        },
+        "cluster_id": 54
+    },
+    {
+        "left": 113.0,
+        "top": 386.0,
+        "width": 68.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be",
+        "type": "List item",
+        "id": 135,
+        "features": {
+            "parent_id": 133,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 55
+    },
+    {
+        "left": 148.0,
+        "top": 397.0,
+        "width": 384.0,
+        "height": 26.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Updates: \u0083 The City has hired a consultant to design this project.  The design has started and is anticipated to be completed by the Spring of 2022.",
+        "type": "List item",
+        "id": 136,
+        "features": {
+            "parent_id": 133,
+            "list": "none"
+        },
+        "cluster_id": 54
+    },
+    {
+        "left": 113.0,
+        "top": 426.0,
+        "width": 130.0,
+        "height": 13.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Estimated Schedule:",
+        "type": "List item",
+        "id": 137,
+        "features": {
+            "parent_id": 133,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 55
+    },
+    {
+        "left": 147.0,
+        "top": 439.0,
+        "width": 182.0,
+        "height": 13.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: Spring 2022",
+        "type": "List item",
+        "id": 138,
+        "features": {
+            "parent_id": 133,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 56
+    },
+    {
+        "left": 147.0,
+        "top": 453.0,
+        "width": 177.0,
+        "height": 12.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Begin Construction: Fall 2022",
+        "type": "List item",
+        "id": 139,
+        "features": {
+            "parent_id": 133,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 56
+    },
+    {
+        "left": 63.0,
+        "top": 481.0,
+        "width": 333.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Westward Beach Road Shoulder Repairs (CalOES Project)",
+        "type": "Section header",
+        "id": 140,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 115.0,
+        "top": 494.0,
+        "width": 419.0,
+        "height": 27.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  The project consists of repairs the damaged shoulder on Westward Beach Road.",
+        "type": "List item",
+        "id": 141,
+        "features": {
+            "parent_id": 140,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 57
+    },
+    {
+        "left": 114.0,
+        "top": 522.0,
+        "width": 60.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Upates:",
+        "type": "List item",
+        "id": 142,
+        "features": {
+            "parent_id": 140,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 57
+    },
+    {
+        "left": 148.0,
+        "top": 535.0,
+        "width": 385.0,
+        "height": 53.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 This  project  is  currently  under  design  with  the  City\u2019s  consultant.  It  is anticipated  that  the  final  design  will  be  complete  by  July  2022.  The project  will  be  advertised  for  construction  bids  with  construction beginning in Fall 2022.",
+        "type": "List item",
+        "id": 143,
+        "features": {
+            "parent_id": 140,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 58
+    },
+    {
+        "left": 114.0,
+        "top": 590.0,
+        "width": 129.0,
+        "height": 11.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Estimated Schedule:",
+        "type": "List item",
+        "id": 144,
+        "features": {
+            "parent_id": 140,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 57
+    },
+    {
+        "left": 147.0,
+        "top": 602.0,
+        "width": 169.0,
+        "height": 13.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Complete Design: July 2022",
+        "type": "List item",
+        "id": 145,
+        "features": {
+            "parent_id": 140,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 58
+    },
+    {
+        "left": 147.0,
+        "top": 616.0,
+        "width": 176.0,
+        "height": 13.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 Begin Construction: Fall 2022",
+        "type": "List item",
+        "id": 146,
+        "features": {
+            "parent_id": 140,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 58
+    },
+    {
+        "left": 147.0,
+        "top": 630.0,
+        "width": 5.0,
+        "height": 13.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083",
+        "type": "Text",
+        "id": 147
+    },
+    {
+        "left": 63.0,
+        "top": 645.0,
+        "width": 288.0,
+        "height": 12.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Outdoor Warningn Sirens - Design (FEMA Project)",
+        "type": "Section header",
+        "id": 148,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 113.0,
+        "top": 659.0,
+        "width": 421.0,
+        "height": 80.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Project Description:  An Emergency Warning Siren system will improve the City\u2019s  ability  to  alert  the  community  by  providing  mechanisms  to  alert residents in areas without power and those who live in neighborhoods with poor  cell  service.    Phase  One  of  the  project  included  a  sound  study  to determine the optimal number and locations of individual sirens, power and infrastructure  requirements,  and  siren  sound  range.    The  City  has  been",
+        "type": "List item",
+        "id": 149,
+        "features": {
+            "parent_id": 148,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 59
+    },
+    {
+        "left": 269.0,
+        "top": 743.0,
+        "width": 60.0,
+        "height": 10.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Page 7 of 8",
+        "type": "Page footer",
+        "id": 150
+    },
+    {
+        "left": 437.0,
+        "top": 756.0,
+        "width": 98.0,
+        "height": 10.0,
+        "page_number": 7,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Agenda Item # 4.A.",
+        "type": "Page footer",
+        "id": 151
+    },
+    {
+        "left": 129.0,
+        "top": 124.0,
+        "width": 406.0,
+        "height": 68.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "awarded a FEMA Hazard Mitigation grant to fund the design, engineering and environmental compliance needed for a shovel ready project.  Phase Two of the Emergency Warning Sirens project will be implementation of the design plan,  including  purchasing,  installing,  and  testing  the  sirens.    The  City  will apply for future grant funding for this phase of the project.",
+        "type": "Text",
+        "id": 152
+    },
+    {
+        "left": 114.0,
+        "top": 193.0,
+        "width": 62.0,
+        "height": 13.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u00be Upates:",
+        "type": "List item",
+        "id": 153,
+        "features": {
+            "parent_id": 148,
+            "list": "bullet_\u00be"
+        },
+        "cluster_id": 59
+    },
+    {
+        "left": 114.0,
+        "top": 206.0,
+        "width": 421.0,
+        "height": 54.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "\u0083 On  November  30,  2021,  City  Council  approved  an  agreement  with Acoustic Technology to design the outdoor warning sirens.  A design report will be presented to Council upon completion. \u00be Estimated Schedule: TBD",
+        "type": "List item",
+        "id": 154,
+        "features": {
+            "parent_id": 148,
+            "list": "bullet_\u0083"
+        },
+        "cluster_id": 60
+    },
+    {
+        "left": 64.0,
+        "top": 274.0,
+        "width": 186.0,
+        "height": 27.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Disaster Projects (Construction) None at this time",
+        "type": "Section header",
+        "id": 155,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": false,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 2
+    },
+    {
+        "left": 64.0,
+        "top": 316.0,
+        "width": 173.0,
+        "height": 13.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Disaster Projects (Completed)",
+        "type": "Section header",
+        "id": 156,
+        "features": {
+            "font_size": 11.84,
+            "font_name": "Arial-BoldMT",
+            "font_color": 0,
+            "is_centered": false,
+            "is_underlined": true,
+            "is_all_cap": false,
+            "list": "none"
+        },
+        "cluster_id": 1
+    },
+    {
+        "left": 64.0,
+        "top": 343.0,
+        "width": 471.0,
+        "height": 67.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Citywide Guardrail Replacement Project Description: This project consisted of replacing the damaged guardrails throughout the City caused by the Woolsey Fire on Encinal Canyon Road, Corral Canyon Road, and Kanan Dume Road.  The project was combined with the County of Los Angeles\u2019 damaged guardrails.  The project was completed in February 2021.",
+        "type": "Text",
+        "id": 157
+    },
+    {
+        "left": 64.0,
+        "top": 425.0,
+        "width": 471.0,
+        "height": 67.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Malibu Park Storm Drain Repairs Project  Description:    After  the  Woolsey  Fire,  subsequent  storms  caused  damage  to multiple storm drain facilities throughout Malibu.  The project repaired the storm drains on Cuthbert Road, Morning View Drive, Busch Drive at Harvester Road.  The project also included the repair of a storm drainage facility on Birdview Avenue.",
+        "type": "Text",
+        "id": 158
+    },
+    {
+        "left": 269.0,
+        "top": 741.0,
+        "width": 60.0,
+        "height": 12.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Page 8 of 8",
+        "type": "Page footer",
+        "id": 159
+    },
+    {
+        "left": 437.0,
+        "top": 754.0,
+        "width": 99.0,
+        "height": 12.0,
+        "page_number": 8,
+        "page_width": 595,
+        "page_height": 841,
+        "text": "Agenda Item # 4.A.",
+        "type": "Page footer",
+        "id": 160
+    }
+]

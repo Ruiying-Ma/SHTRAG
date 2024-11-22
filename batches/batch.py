@@ -291,40 +291,43 @@ if __name__ == "__main__":
     # with open("/home/v-ruiyingma/SHTRAG/batches/temp_contract.json", 'w') as file:
     #     json.dump(m_answer_path_id, file, indent=4)
 
-    with open("/home/v-ruiyingma/SHTRAG/batches/temp_contract.json", 'r') as file:
-        jobs = json.load(file)
-    for cpath, ids in jobs.items():
-        status = check_batch(
-            batch_id=ids["batch_id"],
-        )
-        # if status == "completed":
-        #     retrieve_response(
-        #         batch_id=ids["batch_id"],
-        #         result_path=cpath.replace("answer.jsonl", "rating_result.jsonl")
-        #     )
-        #     delete_file(
-        #         batch_id=ids["batch_id"]
-        #     )
+    # with open("/home/v-ruiyingma/SHTRAG/batches/temp_contract.json", 'r') as file:
+    #     jobs = json.load(file)
+    # for cpath, ids in jobs.items():
+    #     status = check_batch(
+    #         batch_id=ids["batch_id"],
+    #     )
+    #     if status == "completed":
+    #         try: 
+    #             retrieve_response(
+    #                 batch_id=ids["batch_id"],
+    #                 result_path=cpath.replace("answer.jsonl", "rating_result.jsonl")
+    #             )
+    #         except Exception:
+    #             continue
+    #         delete_file(
+    #             batch_id=ids["batch_id"]
+    #         )
 
     
     # create_qa_jobs(
-    #     dataset="civic",
-    #     context_path="/home/v-ruiyingma/SHTRAG/data/civic/intrinsic/sbert.gpt-4o-mini.c100.s100/sbert.cosine.h1/1000.l1.h1/context.jsonl",
+    #     dataset="qasper",
+    #     context_path="/home/v-ruiyingma/SHTRAG/data/qasper/intrinsic/sbert.gpt-4o-mini.c100.s100/sbert.cosine.h1/1000.l1.h1/context.jsonl",
     # )
 
     # file_id = upload_batch(
-    #     batch_path="/home/v-ruiyingma/SHTRAG/data/civic/intrinsic/sbert.gpt-4o-mini.c100.s100/sbert.cosine.h1/1000.l1.h1/qa_job.jsonl"
+    #     batch_path="/home/v-ruiyingma/SHTRAG/data/qasper/intrinsic/sbert.gpt-4o-mini.c100.s100/sbert.cosine.h1/1000.l1.h1/qa_job.jsonl"
     # )
 
     # batch_id = create_batch_job(
     #     batch_input_file_id=file_id,
-    #     descrip="/home/v-ruiyingma/SHTRAG/data/civic/intrinsic/sbert.gpt-4o-mini.c100.s100/sbert.cosine.h1/1000.l1.h1/context.jsonl"
+    #     descrip="/home/v-ruiyingma/SHTRAG/data/qasper/intrinsic/sbert.gpt-4o-mini.c100.s100/sbert.cosine.h1/1000.l1.h1/context.jsonl"
     # )
 
-    file_id = "file-DDwy1cCrwWXIpeJz063cVICj"
-    batch_id = "batch_67401b9aaf848190adc63d3619b7244e"
+    # qasper intrinsic
+    file_id = "file-7x3VYqKDCQA4nLJALNV9jph5"
+    batch_id = "batch_6740705552988190b1d4517f52c5e9a6"
     check_batch(
         batch_id=batch_id
     )
 
-    # check_full_batch()

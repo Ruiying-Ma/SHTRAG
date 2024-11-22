@@ -1,0 +1,182 @@
+-1: ROOT
+├── 0: (text) Public Wor ......  Item 4.A.
+└── 1: (head) Public Works Commission Agenda Report
+    ├── 2: (text) To: Chair  ...... t Program:
+    ├── 3: (head) Capital Improvement Projects (Design)
+    │   ├── 4: (head) Marie Canyon Green Streets ¾ Updates:
+    │   │   ├── 5: (list)  A  hydrology  report  was  prepared  and  will  be  used  to  size  the  pre- manufactured  biofilters.
+    │   │   │   ├── 6: (text)   City  st ...... this date.
+    │   │   │   └── 7: (list) ¾ Project Schedule:  Complete Design: March 2022
+    │   │   └── 8: (list)  Begin Construction: Spring 2022
+    │   ├── 9: (head) PCH Median Improvements Project
+    │   │   └── 10: (list) PCH Median Improvements Project ¾ Updates:
+    │   │       ├── 11: (text)   The pro ......  in March.
+    │   │       └── 12: (list) ¾ Project Schedule:
+    │   │           └── 13: (list)  Complete Design: March 2022  Begin Construction:
+    │   │               └── 14: (text)  Spring/Su ...... ummer 2022
+    │   ├── 15: (head) PCH Signal Synchronization System Improvements Project
+    │   │   └── 16: (head) y ¾ Updates:
+    │   │       ├── 17: (list)  This project will be presented to the Planning Commission in February 2022.
+    │   │       │   └── 18: (text)  This proj ......  Schedule:
+    │   │       ├── 19: (list)  Complete Final Design: Spring 2022  Advertise:
+    │   │       │   └── 20: (text)  Spring/Su ...... ummer 2022
+    │   │       └── 21: (list)  Award Contract and Begin Construction: Spring/Summer 2022
+    │   ├── 22: (head) Westward Beach Road Improvements Project
+    │   │   └── 23: (head) ¾ Updates:
+    │   │       └── 24: (list)  The  design  plans  were  approved  by  Planning  Commission  on September 20,
+    │   │           ├── 25: (text)  2021. At  ...... ture date.
+    │   │           └── 26: (list) ¾
+    │   │               └── 27: (list) Project Schedule:  Complete Design: Spring 2022  Begin Construction:
+    │   │                   └── 28: (text)  Summer/Wi ...... inter 2022
+    │   ├── 29: (head) Civic Center Water Treatment Facility Phase 2
+    │   │   ├── 30: (list) ¾ Updates:
+    │   │   │   └── 31: (text)   Individ ...... tem # 4.A.
+    │   │   └── 32: (list) ¾
+    │   │       └── 33: (list) Project Schedule:
+    │   │           └── 34: (list)  Complete Design: December 2021  Advertise for Bidding:
+    │   │               └── 35: (text)  February  ......  Fall 2022
+    │   ├── 36: (head) Bluffs Park Shade Structure
+    │   │   ├── 37: (list) ¾ Project Description:
+    │   │   │   └── 38: (text)   This pro ...... uffs Park.
+    │   │   ├── 39: (list) ¾ Updates:
+    │   │   │   └── 40: (list)  Staff is currently working on the design of the project and anticipates sending this project out to bid during the Spring of 2022.
+    │   │   └── 41: (list) ¾ Estimated Schedule:
+    │   │       ├── 42: (list)  Complete Design: Spring 2022
+    │   │       └── 43: (list)  Begin Construction: Spring 2022
+    │   ├── 44: (head) Permanent Skate Park
+    │   │   └── 45: (list) Permanent Skate Park ¾ Project Description:
+    │   │       ├── 46: (text)   This pro ...... restrooms.
+    │   │       ├── 47: (list) ¾ Updates:
+    │   │       │   └── 48: (list)  In May 2021,
+    │   │       │       └── 49: (text)  the Counc ...... e Council.
+    │   │       └── 50: (list) ¾ Estimated Schedule:  Complete Design: Spring 2022
+    │   │           └── 51: (list)  Begin Construction:  To be determined
+    │   └── 52: (head) PCH at Trancas Canyon Road Right Turn Lane
+    │       ├── 53: (list) ¾ Project Description:
+    │       │   └── 54: (text)   This pro ...... nyon Road.
+    │       ├── 55: (list) ¾ Updates:
+    │       │   └── 56: (list)  Staff  is  reviewing  the  submitted  proposals  and  will  select  a  qualified consultant.
+    │       │       └── 57: (text)   It is an ...... March 2022
+    │       └── 58: (list) ¾ Estimated Schedule:  Begin Design: Spring 2022
+    ├── 59: (head) Capital Improvement Projects (Construction)
+    │   └── 60: (text) The City d ...... tem # 4.A.
+    ├── 61: (head) Capital Improvement Projects (Not Started)
+    │   ├── 62: (head) Vehicle Protection Devices
+    │   │   └── 63: (list) ¾ Project Description:  Per Malibu Municipal Code Section 17.48.
+    │   │       └── 64: (text) 070 requir ...... on device.
+    │   ├── 65: (head) Legacy Park Paver Repair Project
+    │   │   └── 66: (list) ¾ Project Description:
+    │   │       └── 67: (text)   This pro ...... eral areas
+    │   ├── 68: (head) Malibu Bluffs Park South Walkway
+    │   │   └── 69: (list) ¾ Project Description:
+    │   │       ├── 70: (text)   This pro ...... uffs Park.
+    │   │       └── 71: (list) Trancas Playground Resurfacing ¾ Project Description:
+    │   │           └── 72: (text)   The proj ...... nyon Park.
+    │   └── 73: (head) PCH Median Improvements at Paradise Cove and Zuma Beach
+    │       └── 74: (list) ¾ Project Description:
+    │           └── 75: (text)   This pro ...... installed.
+    ├── 76: (head) Capital Improvement Projects (Completed)
+    │   ├── 77: (head) Civic Center Way Improvements
+    │   │   └── 78: (list) ¾ Updates:
+    │   │       └── 79: (text)   The  con ...... l Meeting.
+    │   ├── 80: (head) Civic Center Stormwater Diversion Structure
+    │   │   └── 81: (list) ¾ Updates:
+    │   │       └── 82: (text)   The cont ...... 2 meeting.
+    │   └── 83: (head) 2021 Annual Street Maintenance
+    │       └── 84: (list) ¾ Updates: This project included resurfacing Malibu Road, Broad Beach Road,
+    │           └── 85: (text)  Latigo  C ...... 2 meeting.
+    ├── 86: (head) Disaster Projects (Design)
+    │   ├── 87: (head) Broad Beach Road Water Quality Infrastructure Repairs (CalJPIA Project)
+    │   │   └── 88: (list) ¾ Updates:
+    │   │       ├── 89: (list)  The project consultant prepared the specifications for the project.
+    │   │       │   └── 90: (text)  Staff is  ......  Schedule:
+    │   │       └── 91: (list)  Complete Design: February 2022  Begin Construction: Spring 2022
+    │   ├── 92: (head) Latigo Canyon Road Roadway/Retaining Wall Improvements (FEMA Project)
+    │   │   ├── 93: (text) ¾ ...... ¾
+    │   │   └── 94: (list) Updates:
+    │   │       ├── 95: (list)  Staff is finalizing the design of this project.
+    │   │       │   ├── 96: (text)   Staff   ...... materials.
+    │   │       │   └── 97: (list) ¾ Project Schedule
+    │   │       ├── 98: (list)  Complete Design: February 2022
+    │   │       └── 99: (list)  Begin Construction: April 2022
+    │   ├── 100: (head) Trancas Canyon Park Planting and Irrigation Repairs (CalJPIA/FEMA Project)
+    │   │   ├── 101: (text) ¾ Updates: ...... ¾ Updates:
+    │   │   ├── 102: (list)  The project consultant has started the design of this project.
+    │   │   │   └── 103: (list) ¾ Project Schedule:
+    │   │   ├── 104: (list)  Complete Design: Spring 2022
+    │   │   └── 105: (list)  Begin Construction: Spring 2022
+    │   ├── 106: (head) Trancas Canyon Park Slope Stabilization Project (CalJPIA Project)
+    │   │   ├── 107: (text) ¾ Updates: ...... ¾ Updates:
+    │   │   ├── 108: (list)  The project consultant has started the design of this project.
+    │   │   │   └── 109: (list) ¾ Project Schedule:
+    │   │   ├── 110: (list)  Complete Design: Spring 2022
+    │   │   └── 111: (list)  Begin Construction: Spring 2022
+    │   ├── 112: (head) Storm Drain Master Plan (FEMA Project)
+    │   │   ├── 113: (text) Page 5 of  ...... tem # 4.A.
+    │   │   ├── 114: (list) ¾ Project Description:
+    │   │   │   └── 115: (text)   This pro ......  the City.
+    │   │   ├── 116: (list) ¾ Updates:  Council approved an agreement in December for design services.
+    │   │   │   └── 117: (text)  A kick-of ......  December.
+    │   │   └── 118: (list) ¾
+    │   │       └── 119: (list) Estimated Schedule:  Completion Date:  Spring 2022
+    │   ├── 120: (head) Guardrail Replacement Citywide (FEMA Project)
+    │   │   └── 121: (list) ¾ Project  Description:
+    │   │       ├── 122: (text)     This   ...... lsey Fire.
+    │   │       └── 123: (list) Corral Canyon Road Bridge Repairs (FEMA Project) ¾ Project Description:
+    │   │           └── 124: (text)   This pro ...... he bridge.
+    │   ├── 125: (head) Corral Canyon Culvert Repairs (FEMA Project)
+    │   │   └── 126: (list) ¾ Project Description:  This project has been cancelled as it could not get FEMA approval.
+    │   │       └── 127: (text) ¾ ...... ¾
+    │   ├── 128: (head) Birdview Avenue Improvements (CalOES Project)
+    │   │   └── 129: (list) ¾ Updates:
+    │   │       └── 130: (text)   This  pr ...... provement.
+    │   ├── 131: (head) Malibu Park Drainage Improvements
+    │   │   └── 132: (list) ¾ Updates: The Contractor completed the repairs to storm drains on Cuthbert Road,
+    │   │       └── 133: (text)   Morning  ...... 2 meeting.
+    │   ├── 134: (head) Clover Heights Storm Drain (FEMA Project)
+    │   │   ├── 135: (list) ¾ Project Description:
+    │   │   │   └── 136: (text)   This pro ...... his issue.
+    │   │   └── 137: (list) ¾ Updates:
+    │   │       └── 138: (list)  Staff is currently preparing consultant proposals for the design of this project.
+    │   │           └── 139: (text)   Proposal ...... ary/March.
+    │   ├── 140: (head) Latigo Canyon Road Culvert Repairs (FEMA Project)
+    │   │   ├── 141: (list) ¾ Project Description:
+    │   │   │   └── 142: (text)   This pro ...... tem # 4.A.
+    │   │   ├── 143: (list) ¾ Updates:
+    │   │   │   └── 144: (list)  This  project  is  currently  under  design  with  the  City’s  consultant.
+    │   │   │       └── 145: (text)   It  is a ...... pril 2022.
+    │   │   └── 146: (list) ¾ Estimated Schedule:
+    │   │       └── 147: (list)  Complete Design: February 2022  Begin Construction: April 2022
+    │   ├── 148: (head) Encinal Canyon Road Drainage Improvements (CalOES Project)
+    │   │   ├── 149: (list) ¾ Project Description:
+    │   │   │   └── 150: (text)   This pro ...... lsey Fire.
+    │   │   ├── 151: (list) ¾ Updates:
+    │   │   │   └── 152: (list)  The project design will commence during the Spring 2022.
+    │   │   └── 153: (list) ¾ Estimated Schedule: TBD
+    │   ├── 154: (head) Malibu Road Slope Repairs (CalOES Project)
+    │   │   ├── 155: (list) Malibu Road Slope Repairs (CalOES Project) ¾ Project Description:
+    │   │   │   ├── 156: (text)   The exis ...... libu Road.
+    │   │   │   └── 157: (list) ¾
+    │   │   └── 158: (list) Updates:  The City has hired a consultant to design this project.
+    │   │       ├── 159: (text)   The desi ...... g of 2022.
+    │   │       └── 160: (list) ¾ Estimated Schedule:
+    │   │           ├── 161: (list)  Complete Design: Spring 2022
+    │   │           └── 162: (list)  Begin Construction: Fall 2022
+    │   ├── 163: (head) Westward Beach Road Shoulder Repairs (CalOES Project)
+    │   │   ├── 164: (list) ¾ Project Description:  The project consists of repairs the damaged shoulder on Westward Beach Road.
+    │   │   ├── 165: (list) ¾ Upates:
+    │   │   │   └── 166: (list)  This  project  is  currently  under  design  with  the  City’s  consultant.
+    │   │   │       └── 167: (text)   It  is a ...... Fall 2022.
+    │   │   └── 168: (list) ¾ Estimated Schedule:
+    │   │       ├── 169: (list)  Complete Design: July 2022
+    │   │       └── 170: (list)  Begin Construction: Fall 2022
+    │   │           └── 171: (text)  ...... 
+    │   ├── 172: (head) Outdoor Warningn Sirens - Design (FEMA Project)
+    │   │   ├── 173: (list) ¾ Project Description:
+    │   │   │   └── 174: (text)   An Emerg ...... e project.
+    │   │   └── 175: (list) ¾ Upates:
+    │   │       └── 176: (list)  On  November  30,  2021,
+    │   │           └── 177: (text)   City  Co ...... edule: TBD
+    │   └── 178: (head) Disaster Projects (Construction) None at this time
+    └── 179: (head) Disaster Projects (Completed)
+        └── 180: (text) Citywide G ...... tem # 4.A.

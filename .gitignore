@@ -1,5 +1,6 @@
 *temp*
-data/
+data/*
+!data/example
 run_zendb.py
 ### Python
 

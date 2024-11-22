@@ -190,9 +190,9 @@ if __name__ == "__main__":
         context_hierarchy=True,
         context_raw=True,
         context_len=1000,
-        is_intrinsic=False,
+        is_intrinsic=True,
         is_baseline=False,
         is_raptor=False,
         is_ordered=False,
-        is_grobid=True
+        is_grobid=False
     )

@@ -185,7 +185,8 @@ def tree_is_satisfied(raw_sht, condition, pdf_path):
         raw_intrinsic_sht = json.load(file)["nodes"]
         intrinsic_sht = [n for n in raw_intrinsic_sht if n["type"] != "text"]
     
-    assert len(sht) == len(intrinsic_sht)
+    if len(sht) != len(intrinsic_sht):
+        return False
 
     m_intrinsic_id_sht_id = dict()
     for sht_node, intrinsic_sht_node in zip(sht, intrinsic_sht):
@@ -201,10 +202,6 @@ def tree_is_satisfied(raw_sht, condition, pdf_path):
         # c-correct
         if condition == "relax":
             if not (set(converted_intrinsic_ancestors)).issubset(set(sht_ancestors)):
-                # print(sht_node["id"], intrinsic_sht_node["id"])
-                # print(sht_ancestors)
-                # print(converted_intrinsic_ancestors)
-                # print(intrinsic_ancestors)
                 return False
         # intrinsic
         else:
@@ -212,6 +209,44 @@ def tree_is_satisfied(raw_sht, condition, pdf_path):
             if not (set(sht_ancestors))==(set(converted_intrinsic_ancestors)):
                 return False        
     return True
+
+def tree_count_satisfied(raw_sht, condition, pdf_path):
+    
+    # load SHT
+    sht = [n for n in raw_sht if (n["is_dummy"] == False) and (n["type"] != "text")]
+    sht_node_ids = [n["id"] for n in sht]
+
+    # load intrinsic SHT
+    name = os.path.basename(pdf_path).replace(".pdf", "")
+    intrinsic_sht_path = os.path.join(os.path.dirname(pdf_path).replace("pdf", "intrinsic"), "sbert.gpt-4o-mini.c100.s100", "sht", name+".json")
+    with open(intrinsic_sht_path, 'r') as file:
+        raw_intrinsic_sht = json.load(file)["nodes"]
+        intrinsic_sht = [n for n in raw_intrinsic_sht if n["type"] != "text"]
+    
+    if len(sht) != len(intrinsic_sht):
+        return None
+
+    m_intrinsic_id_sht_id = dict()
+    for sht_node, intrinsic_sht_node in zip(sht, intrinsic_sht):
+        m_intrinsic_id_sht_id[intrinsic_sht_node["id"]] = sht_node["id"]
+    
+    cnt = 0
+    for sht_node, intrinsic_sht_node in zip(sht, intrinsic_sht):
+        assert m_intrinsic_id_sht_id[intrinsic_sht_node["id"]] == sht_node["id"]
+        raw_sht_ancestors = get_nondummy_ancestors(raw_sht, sht_node["id"])
+        sht_ancestors = [a for a in raw_sht_ancestors if a in sht_node_ids]
+        intrinsic_ancestors = get_nondummy_ancestors(raw_intrinsic_sht, intrinsic_sht_node["id"])
+        converted_intrinsic_ancestors = [m_intrinsic_id_sht_id[i] for i in intrinsic_ancestors if i in m_intrinsic_id_sht_id]
+        if condition == "relax":
+            if (set(converted_intrinsic_ancestors)).issubset(set(sht_ancestors)):
+                cnt += 1
+        else:
+            assert condition == "strict"
+            if (set(sht_ancestors))==(set(converted_intrinsic_ancestors)):
+                cnt += 1   
+    if len(sht) == 0:
+        return None
+    return cnt / len(sht)     
 
 
 
@@ -291,8 +326,7 @@ def calc(dataset):
     n_intrinsic = 0
     
     for pdf_name in os.listdir(pdf_dir):
-        if pdf_name == "1911.03353.pdf":
-            continue
+        
         print(pdf_name)
         assert pdf_name.endswith(".pdf")
         pdf_path = os.path.join(pdf_dir, pdf_name)
@@ -335,6 +369,33 @@ def calc(dataset):
 
     print(f"{dataset}: among {n_files} files\n\t%c_templatization = {round(n_c_templatization * 100 / n_files, 3)}\n\t%well_formattedness = {round(n_well_formattedness * 100 / n_files, 3)}\n\t\t1: {round(n_well_formattedness_1 * 100 / n_files, 3)}\n\t\t2: {round(n_well_formattedness_2 * 100 / n_files, 3)}\n\t%c_correctness = {round(n_c_correctness * 100 / n_files, 3)}\n\t%intrinsic = {round(n_intrinsic * 100 / n_files, 3)}")
 
+def count(dataset):
+    pdf_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", dataset, "pdf")
+
+    tot_n_hrobust = 0.0
+    tot_n_hintrinsic = 0.0
+    n_files = 0
+    
+    for pdf_name in os.listdir(pdf_dir):
+        
+        print(pdf_name)
+        assert pdf_name.endswith(".pdf")
+        pdf_path = os.path.join(pdf_dir, pdf_name)
+        raw_sht = build_sht_skeleton(pdf_path)
+        n_hrobust = tree_count_satisfied(raw_sht, "relax", pdf_path)
+        n_hintrinsic = tree_count_satisfied(raw_sht, "strict", pdf_path)
+
+        if n_hrobust == None or n_hintrinsic == None:
+            continue
+        
+        print(f"\t%hierarchy-robust nodes: {n_hrobust}")
+        print(f"\t%hierarchy-intrinsic nodes: {n_hintrinsic}")   
+
+        n_files += 1
+        tot_n_hintrinsic += n_hintrinsic
+        tot_n_hrobust += n_hrobust
+
+    print(f"{dataset}: among {n_files} files\n\tAVG(%hierarchy-robust nodes) = {round(tot_n_hrobust * 100 / n_files, 3)}\n\tAVG(%hierarchy-intrinsic nodes) = {round(tot_n_hintrinsic * 100 / n_files, 3)}")
 
 if __name__ == "__main__": 
-    calc("civic")
+    count("qasper")
