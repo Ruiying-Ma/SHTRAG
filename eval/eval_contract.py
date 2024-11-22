@@ -82,17 +82,17 @@ if __name__ == "__main__":
     contract_eval_answer(
         chunk_size=100,
         summary_len=100,
-        node_embedding_model="sbert",
-        query_embedding_model="sbert",
+        node_embedding_model="te3small",
+        query_embedding_model="te3small",
         summarization_model="gpt-4o-mini",
         embed_hierarchy=True,
         distance_metric="cosine",
         context_hierarchy=True,
         context_raw=True,
         context_len=1000,
-        is_intrinsic=True,
-        is_baseline=False,
-        is_raptor=False,
-        is_ordered=False,
+        is_intrinsic=False,
+        is_baseline=True,
+        is_raptor=True,
+        is_ordered=True,
         is_grobid=False
     )

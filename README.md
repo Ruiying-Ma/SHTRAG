@@ -1,7 +1,7 @@
 # Prerequisites
 
 ## Install VGT
-Please follow VGT's [documentation](https://github.com/huridocs/pdf-document-layout-analysis)
+Please follow VGT's [documentation](https://github.com/huridocs/pdf-document-layout-analysis).
 
 ## Install packages
 Under the root directory `SHTRAG/`:
@@ -17,7 +17,7 @@ Under the root directory `SHTRAG/`:
 ```
 
 ### Issues
-[[issue](https://github.com/easydiffusion/easydiffusion/issues/1851)] If you encounter this error, you may directly remove `cached_download` from huggingface_hub import line :
+[[issue](https://github.com/easydiffusion/easydiffusion/issues/1851)] If you encounter this error, you may directly remove `cached_download` from huggingface_hub import line:
 ```
 > cannot import name 'cached_download' from 'huggingface_hub'
 ```

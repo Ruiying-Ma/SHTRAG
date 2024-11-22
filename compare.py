@@ -396,6 +396,3 @@ def count(dataset):
         tot_n_hrobust += n_hrobust
 
     print(f"{dataset}: among {n_files} files\n\tAVG(%hierarchy-robust nodes) = {round(tot_n_hrobust * 100 / n_files, 3)}\n\tAVG(%hierarchy-intrinsic nodes) = {round(tot_n_hintrinsic * 100 / n_files, 3)}")
-
-if __name__ == "__main__": 
-    count("qasper")

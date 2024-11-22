@@ -139,7 +139,7 @@ def qasper_eval_answer_llm(
     return round(tot_rating * 100 / (3 * n_answer), 3)
 
 if __name__ == "__main__":
-    embedding_model = "te3small"
+    embedding_model = "sbert"
     qasper_eval_answer_llm(
         chunk_size=100,
         summary_len=100,
@@ -152,7 +152,7 @@ if __name__ == "__main__":
         context_raw=True,
         context_len=1000,
         is_intrinsic=False,
-        is_baseline=True,
+        is_baseline=False,
         is_raptor=False,
         is_ordered=False,
         is_grobid=False

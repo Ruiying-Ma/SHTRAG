@@ -420,15 +420,17 @@ if __name__ == "__main__":
         queries = json.load(file)
     
     for query_embedding_model in ["sbert", "dpr", "te3small"]:
+        for query_info in queries:
+            index(
+                dataset="qasper",
+                name=query_info["file_name"],
+                query_embedding_model=query_embedding_model,
+                query=query_info["query"],
+                query_id=query_info["id"]
+            )
+            
+    for query_embedding_model in ["sbert", "dpr", "te3small"]:
         for is_ordered in [True, False]:
-        # for query_info in queries:
-        #     index(
-        #         dataset="qasper",
-        #         name=query_info["file_name"],
-        #         query_embedding_model=query_embedding_model,
-        #         query=query_info["query"],
-        #         query_id=query_info["id"]
-        #     )
             generate_context(
                 dataset="qasper",
                 query_embedding_model=query_embedding_model,
