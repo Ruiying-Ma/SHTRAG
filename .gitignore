@@ -1,5 +1,6 @@
 *temp*
 data/*
+data.tar.gz
 !data/example
 run_zendb.py
 ### Python

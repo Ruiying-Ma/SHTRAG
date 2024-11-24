@@ -126,7 +126,8 @@ Structured-RAG is implemented in folder [structured_rag/](./structured_rag/). Fo
     - add your new model to the choices of cmd argument `--summarization-model`
 
 # Data
-Our experiment data is stored under `./data`.
+Our experiment data is stored under `./data`. You can download it from [Google drive](https://drive.google.com/file/d/1xdIsK-seMbHapyHr2VTfzPGpkzz-vReE/view?usp=sharing) (9.14GB). The unzipped dataset is 39GB. 
+
 ## Shared data
 ```
 data
