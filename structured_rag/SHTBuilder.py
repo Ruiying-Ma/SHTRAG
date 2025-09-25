@@ -10,7 +10,6 @@ from .SummarizationModels import GPT4oMiniSummarizationModel, EmptySummarization
 from .utils import get_nondummy_ancestors, split_text_into_sentences, split_text_into_chunks
 
 import logging
-logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
 
 class SHTBuilderConfig:
     def __init__(self, store_json: str, load_json: str, chunk_size: int, summary_len: int, embedding_model_name: str, summarization_model_name: str, openai_key_path: str=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")):

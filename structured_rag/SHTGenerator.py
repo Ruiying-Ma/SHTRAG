@@ -36,6 +36,7 @@ class SHTGenerator:
         self.use_hierarchy = config.use_hierarhy
         self.use_raw_chunks = config.use_raw_chunks
         self.context_len = config.context_len
+        logging.debug(f"SHTGenerator.context_len={self.context_len}")
         self.tokenizer = tiktoken.get_encoding("cl100k_base")
 
 

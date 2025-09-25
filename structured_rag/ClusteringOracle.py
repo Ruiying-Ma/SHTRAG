@@ -2,7 +2,6 @@ import json
 import os
 from typing import Dict, List
 import logging
-logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
 import time
 
 from .FeatureExtractor import FeatureExtractor

@@ -7,7 +7,6 @@ from sentence_transformers import SentenceTransformer
 from transformers import DPRContextEncoder, DPRContextEncoderTokenizer, DPRQuestionEncoder, DPRQuestionEncoderTokenizer
 from dotenv import load_dotenv
 import os
-logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
 

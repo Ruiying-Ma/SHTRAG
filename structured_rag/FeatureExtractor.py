@@ -4,7 +4,6 @@ from typing import Dict, List, Set
 import fitz
 import logging
 from .utils import clean_space, max_min
-logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.DEBUG)
 
 FEATURE_EXTRACTOR_DEBUG = True
 

@@ -10,7 +10,6 @@ from tenacity import retry, stop_after_attempt, wait_random_exponential
 import tiktoken
 from dotenv import load_dotenv
 
-logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
 
 
 class BaseSummarizationModel(ABC):
