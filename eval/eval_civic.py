@@ -1,33 +1,24 @@
-from utils import *
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import eval.utils as eval_utils
 from typing import List
 import json
 import re
-import os
+import config
 
 def civic_q1_eval_answer(
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid
+    context_config
 ):
     '''
     Evaluate the accuracy of Civic q1.
     '''
     def normalize_answer(s: str):
-        return global_normalize_answer(s)
+        return eval_utils.global_normalize_answer(s)
 
     def is_correct_answer(my_answer: str, gold_answer: str) -> bool:
+        if not isinstance(my_answer, str):
+            return False
         assert isinstance(my_answer, str)
         assert isinstance(gold_answer, str)
         delimiters = ["-", "/"]
@@ -36,26 +27,12 @@ def civic_q1_eval_answer(
         return all([normalize_answer(ga.strip()) in normalize_answer(my_answer) for ga in split_gold_answer])
     
     
-    my_answers = get_answers(
+    my_answers = eval_utils.get_answers(
         "civic",
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid
+        context_config
     )
 
-    gold_answers = get_gold_answers("civic")
+    gold_answers = eval_utils.get_gold_answers("civic")
 
     assert len(gold_answers) == len(my_answers)
     assert len(gold_answers) == 380 + 38
@@ -72,21 +49,7 @@ def civic_q1_eval_answer(
     return round(n_correct * 100 / 380, 3)
 
 def civic_q2_eval_answer(
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid,
+    context_config
 ):
     '''
     Evaluate the recall, precision and f1 of Civic q2.
@@ -98,9 +61,11 @@ def civic_q2_eval_answer(
     def normalize_project(s: str):
         pattern = r"\(.*?\)"
         new_s = re.sub(pattern, '', s)
-        return white_space_fix(remove_punc(lower(normalize_string(new_s))))
+        return eval_utils.white_space_fix(eval_utils.remove_punc(eval_utils.lower(eval_utils.normalize_string(new_s))))
     
     def my_projects(my_answer: str, projects: list):
+        if my_answer == None:
+            return set()
         raw_my_projects = my_answer.replace("[", "").replace("]", "").split(",")
         candid_my_projects = [normalize_project(p.strip()) for p in raw_my_projects]
         my_projects = set(candid_my_projects).intersection(set(projects))
@@ -131,26 +96,12 @@ def civic_q2_eval_answer(
         return recall, precision, f1
 
     
-    my_answers = get_answers(
+    my_answers = eval_utils.get_answers(
         "civic",
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid
+        context_config
     )
 
-    gold_answers = get_gold_answers("civic")
+    gold_answers = eval_utils.get_gold_answers("civic")
 
     assert len(gold_answers) == len(my_answers)
     assert len(gold_answers) == 380 + 38
@@ -179,20 +130,23 @@ def civic_q2_eval_answer(
 
 
 if __name__ == "__main__":
-    civic_q2_eval_answer(
-        chunk_size=100,
-        summary_len=100,
-        node_embedding_model="te3small",
-        query_embedding_model="te3small",
-        summarization_model="gpt-4o-mini",
-        embed_hierarchy=True,
-        distance_metric="cosine",
-        context_hierarchy=True,
-        context_raw=True,
-        context_len=1000,
-        is_intrinsic=False,
-        is_baseline=False,
-        is_raptor=False,
-        is_ordered=False,
-        is_grobid=False
-    )
+
+    check_context_list = input(f"Check the context configures in config.py before continue... [y/n]")
+    if check_context_list.lower() != 'y':
+        print("Exit")
+        exit(0)
+    else:
+        print("Continue...")
+
+    m_context_config_result = dict()
+
+    for context_config in config.CONTEXT_CONFIG_LIST:
+        context_jsonl_path = config.get_config_jsonl_path("civic", context_config)
+        assert os.path.exists(context_jsonl_path)
+        print(f"Evaluating answers for {context_jsonl_path}...")
+        civic_q1_eval_answer(
+            context_config,
+        )
+        civic_q2_eval_answer(
+            context_config,
+        )

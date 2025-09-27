@@ -1,27 +1,19 @@
-from utils import *
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import eval.utils as eval_utils
 from collections import Counter
+import re
 
 def qasper_eval_answer_f1(
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid,
+        context_config
 ):
     def normalize_answer(s: str):
-        return white_space_fix(remove_articles(remove_punc(lower(s))))
+        return eval_utils.white_space_fix(eval_utils.remove_articles(eval_utils.remove_punc(eval_utils.lower(s))))
 
     def token_f1(my_answer: str, gold_answer: str) -> float:
+        if my_answer == None:
+            return 0.0
         my_answer_tokens = normalize_answer(my_answer).split()
         gold_answer_tokens = normalize_answer(gold_answer).split()
         common = Counter(my_answer_tokens) & Counter(gold_answer_tokens)
@@ -33,24 +25,10 @@ def qasper_eval_answer_f1(
         f1 = (2 * precision * recall) / (precision + recall)
         return f1
 
-    gold_answers = get_gold_answers("qasper")
-    my_answers = get_answers(
+    gold_answers = eval_utils.get_gold_answers("qasper")
+    my_answers = eval_utils.get_answers(
         "qasper",
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid
+        context_config
     )
 
     assert len(my_answers) == len(gold_answers)
@@ -71,23 +49,11 @@ def qasper_eval_answer_f1(
 
 
 def qasper_eval_answer_llm(
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid
+        context_config
 ):
     def extract_rating_from_gpt_response(s: str):
+        if not isinstance(s, str):
+            return 0
         match = re.search(r"Rating:\s*\[\[(\d)\]\]", s)
         if match:
             return int(match.group(1))
@@ -100,25 +66,11 @@ def qasper_eval_answer_llm(
         match = re.search(r"Rating:\s*\*\*(\d)\*\*", s)
         if match:
             return int(match.group(1))
-        raise ValueError(f"'{s}' is the wrong form...")
+        return 0
 
-    ratings = get_ratings(
+    ratings = eval_utils.get_ratings(
         "qasper",
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid
+        context_config
     )
 
     assert len(ratings) == 1451
@@ -128,8 +80,9 @@ def qasper_eval_answer_llm(
     for rating_info in ratings:
         candid_ratings = [extract_rating_from_gpt_response(r) for r in rating_info["rating"]]
         if len(candid_ratings) == 0:
-            continue
-        rating = max(candid_ratings)
+            rating = 0
+        else:
+            rating = max(candid_ratings)
         tot_rating += rating
         n_answer += 1
 

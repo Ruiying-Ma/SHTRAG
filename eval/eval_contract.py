@@ -1,21 +1,10 @@
-from utils import *
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import eval.utils as eval_utils
 
 def contract_eval_answer(
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid,
+    context_config
 ):
     '''
     Evaluate answer accuracy for contract-nli. 
@@ -23,10 +12,14 @@ def contract_eval_answer(
     Filter out queries whose gold answers are NotMentioned.
     '''
     def normalize_answer(s: str):
-        new_s = global_normalize_answer(s)
+        if s == None:
+            return ""
+        new_s = eval_utils.global_normalize_answer(s)
         choices = ["entailment", "contradiction"]
         ans = [c for c in choices if c in new_s]
-        assert len(ans) <= 1
+        if len(ans) > 1:
+            return ""
+        assert len(ans) <= 1, new_s
         if len(ans) == 0:
             return ""
         else:
@@ -37,25 +30,11 @@ def contract_eval_answer(
         assert gold_answer in ["entailment", "contradiction"]
         return my_answer == gold_answer
 
-    gold_answers = get_gold_answers("contract")
+    gold_answers = eval_utils.get_gold_answers("contract")
 
-    my_answers = get_answers(
+    my_answers = eval_utils.get_answers(
         "contract",
-        chunk_size,
-        summary_len,
-        node_embedding_model,
-        query_embedding_model,
-        summarization_model,
-        embed_hierarchy,
-        distance_metric,
-        context_hierarchy,
-        context_raw,
-        context_len,
-        is_intrinsic,
-        is_baseline,
-        is_raptor,
-        is_ordered,
-        is_grobid
+        context_config
     )
 
     assert len(gold_answers) == len(my_answers)
@@ -77,22 +56,3 @@ def contract_eval_answer(
     print(f"ContractNLI: {n_correct} correct answers among {n_ans} queries\n\taccuracy={round(n_correct * 100 / n_ans, 3)}")
 
     return round(n_correct * 100 / n_ans, 3)
-
-if __name__ == "__main__":
-    contract_eval_answer(
-        chunk_size=100,
-        summary_len=100,
-        node_embedding_model="te3small",
-        query_embedding_model="te3small",
-        summarization_model="gpt-4o-mini",
-        embed_hierarchy=True,
-        distance_metric="cosine",
-        context_hierarchy=True,
-        context_raw=True,
-        context_len=1000,
-        is_intrinsic=False,
-        is_baseline=True,
-        is_raptor=True,
-        is_ordered=True,
-        is_grobid=False
-    )
