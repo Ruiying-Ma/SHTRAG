@@ -1,10 +1,10 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import json
 from openai import AzureOpenAI
-import os
 from dotenv import load_dotenv
-from utils import write_to_log
-import time
-from pathlib import Path
+from batches.utils import write_to_log
 
 def check_all_batches(top_k):
     openai_key_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
@@ -42,4 +42,4 @@ def check_batch(batch_id):
     return job.status
 
 if __name__ == "__main__":
-    check_all_batches(100)
+    check_all_batches(10)
